@@ -1,0 +1,1215 @@
+Environmental, Social and
+Governance scores from LSEG
+October 2024Environmental, social and governance scores from LSEG 2
+Contents
+Executive summary .................................................................................................................................................. 3
+Data process ............................................................................................................................................................ 5
+Frequency of updates .............................................................................................................................................. 6
+Global coverage ....................................................................................................................................................... 6
+Scores overview....................................................................................................................................................... 7
+Scores structure ....................................................................................................................................................... 8
+Scores calculation methodology .............................................................................................................................. 10
+Step 1: ESG category scores .................................................................................................................................. 10
+Step 2: Materiality matrix ......................................................................................................................................... 11
+Step 3: Overall ESG score calculation and pillar score ........................................................................................... 15
+Step 4: Controversies scores calculation ................................................................................................................ 16
+Step 5: ESGC score ................................................................................................................................................ 17
+Step 6: Feedback and Changes ..............................................................................................................................18
+Appendix A - Category Score Example .............................................................................................................................. 19
+Appendix B – ESG Magnitude (Materiality) Matrix .................................................................................................. 21
+Appendix C – ESG Category Weights Matrix .......................................................................................................... 24
+Appendix D – Pillar Scoring Example...................................................................................................................... 26
+Appendix E – Pillar Weights Matrix ......................................................................................................................... 27
+Appendix F – Category Score Definitions ................................................................................................................ 29
+Appendix G – Controversies data Measures ........................................................................................................... 30
+Appendix H – Controversies Scoring Example ....................................................................................................... 32Environmental, social and governance scores from LSEG 3
+Executive summary
+LSEG recognises the increasingly critical importance of transparent, accurate and comparable environmental,
+social and governance (ESG) data and analytics for the financial industry. We strive to be the trusted and
+preferred partner in the transition to sustainable finance and are committed to bringing to the market an array of
+best-in-class data, analytics and workflow solutions, which allow customers to use LSEG data as the backbone of
+their investment processes.
+LSEG offers one of the most comprehensive ESG databases in the industry, covering over 90% of the global
+market cap, across more than 870 different ESG metrics, with history dating back to 2002.
+With LSEG, you can easily integrate ESG factors into portfolio analysis, equity research, screening or quantitative
+analysis. We offer users the possibility to combine and analyse ESG data using cutting-edge applications for in-
+depth analysis.
+ESG scores from LSEG are designed to transparently and objectively measure a company’s relative ESG
+performance, commitment and effectiveness, based on company-reported data. This covers 10 main themes
+including emissions, environmental product innovation, human rights, shareholders and so on. We also provide
+an overall ESG combined (ESGC) score, which is discounted for significant ESG controversies impacting the
+corporations we cover. ESG data is available for close to 16,000 public and private companies globally, with time
+series data going back to 2002. The percentile rank scores are simple to understand (available in both
+percentages and letter grades from D- to A+). They are benchmarked against The LSEG Business Classifications
+(TRBC – Industry Group) for all environmental and social categories, as well as the controversies score. They are
+also measured against the country of incorporation for all governance categories.
+The LSEG ESG scores are data-driven, accounting for the most material industry metrics, with minimal company
+size and transparency biases.
+The scores are based on relative performance of ESG factors with the company’s sector (for environmental and
+social) and country of incorporation (for governance). LSEG does not presume to define what ‘good’ looks like;
+we let the data determine industry-based relative performance within the construct of our criteria and data model.
+LSEG ESG scoring methodology has a number of key calculation principles set out below.
+1. Unique ESG magnitude (materiality) weightings have been included – as the importance of ESG factors
+differs across industries, we have mapped each metric’s materiality for each industry on a scale of 1 to 10.
+2. Transparency stimulation – company disclosure is at the core of our methodology. With applied weighting,
+not reporting ‘immaterial’ data points doesn’t greatly affect a company’s score, whereas not reporting on ‘highly
+material’ data points will negatively affect a company’s score.
+3. ESG controversies overlay – we verify companies’ actions against commitments, to magnify the impact of
+significant controversies on the overall ESG scoring. The scoring methodology aims to address the market cap
+bias from which large companies suffer by introducing severity weights, which ensure controversy scores are
+adjusted based on a company’s size.
+4. Industry and country benchmarks at the data point scoring level – to facilitate comparable analysis within
+peer groups.
+5. Percentile rank scoring methodology – to eliminate hidden layers of calculations. This methodology enables
+LSEG to produce a score between 0 and 100, as well as easy-to-understand letter grades.Environmental, social and governance scores from LSEG 4Environmental, social and governance scores from LSEG 5
+Data process
+With over 600 content research analysts trained to collect ESG data, we have one of the largest ESG content
+collection operations in the world. With local language expertise and operating from different locations across the
+globe, we process numerous publicly available information sources with the aim of providing up-to-date, objective
+and comprehensive coverage. There are over 870 ESG measures, which our analysts process manually for each
+company within the ESG universe. Each measure undergoes a careful process to standardise the information and
+guarantee it is comparable across the entire range of companies.
+The database is updated on a continuous basis – aligned with corporate reporting patterns – and data is
+refreshed on products every week, including the recalculation of the ESG scores. Updates could include a brand
+new company being added to the database, the latest fiscal year update or the inclusion of new controversy
+events. In most cases, reported ESG data is updated once a year in line with companies’ own ESG disclosure.
+We refresh data more frequently in exceptional cases, usually when there is a significant change in the reporting
+or corporate structure during the year. ESG news and controversies are updated on a continuous basis, as and
+when such events occur and get picked up by global media.
+Annual Company 600+ content research analysts trained to collect ESG data
+reports websites across the globe in Beijing, Bangalore and Manila
+@
+NGO Stock exchange ESG database
+websites filings
+NGO
+CSR News
+reports sources
+Data quality is a key part of the collection process; that is why we use a combination of both algorithmic and
+human processes to make sure we achieve as close to 100% data quality as possible. Below is an overview of
+the various methods we use to achieve this goal.Environmental, social and governance scores from LSEG 6
+Frequency of updates
+All LSEG ESG scores, including controversies scores, are updated on a weekly basis.
+Definitive scores
+Scores will be marked as ‘definitive’ for all historical years excluding the five most recent. For instance, if the most
+recent fiscal year is FY2023, then all historical scores prior to FY2019 will be considered definitive – but not those
+between FY2023 and FY2019. Definitive scores remain unchanged, even if there are changes to the underlying
+data due to company restatements or data corrections.
+Global coverage
+ESG data is available for close to 16,000 public and private companies. ESG scores and metrics are available for
+circa 14,500 public entities with time series from 2002. ESG metrics are available for 1,300 private companies
+globally. A regional breakdown of coverage is provided in the illustration below.
+Our coverage has evolved over time and is continuously expanding as we include more indices. We review the
+constituents of these indices on a quarterly basis when additional companies are also included in our coverage.
+The timeline in the illustration breaks down the various indices’ which form part of our ESG universe and when
+coverage commenced for them.Environmental, social and governance scores from LSEG 7
+Scores overview
+LSEG ESG scores reflect the underlying ESG data framework and are a transparent, data-driven assessment of
+companies’ relative ESG performance and capacity, integrating and accounting for industry materiality and
+company size biases. LSEG ESG scoring methodology follows a number of key calculation principles (set out
+below). An overall ESGC score is also calculated, which discounts the ESG score for news controversies that
+materially impact corporations. The underlying measures are granular enough to differentiate effectively between
+companies that have limited reporting and are not transparent, or deliver minimal implementation and execution,
+versus companies that ‘walk the talk’ and emerge as leaders in their respective industries or regions.
+ESG scores are calculated and available for all companies and historical fiscal periods in the ESG global
+coverage, i.e., back to fiscal year 2002 for approximately 1,000 companies (mainly US and European).
+The model comprises two overall ESG scores:
+1. ESG score – measures the company’s ESG performance based on verifiable reported data in the public domain.
+2. ESGC score – overlays the ESG score with ESG controversies to provide a comprehensive evaluation of the
+company’s sustainability impact and conduct over time.
+The availability of the two overall scores and underlying category assessments allows users to adopt and apply
+the scoring that meets their requirements, mandates or investment criteria.Environmental, social and governance scores from LSEG 8
+Scores structure
+The model is fully automated, data-driven and transparent, which makes it free from subjectivity and hidden
+calculations or inputs.
+ESG score
+LSEG captures and calculates over 870 company-level ESG measures, of which a subset of 186 (details in the
+ESG glossary, available on request) of the most comparable and material per industry, power the overall
+company assessment and scoring process.
+These are grouped into 10 categories that reformulate the three pillar scores and the final ESG score, which is a
+reflection of the company’s ESG performance, commitment and effectiveness based on publicly-reported information.
+The category scores are rolled up into three pillar scores – environmental, social and corporate governance. The
+ESG pillar score is a relative sum of the category weights, which vary per industry for the environmental and
+social categories. For governance, the weights remain the same across all industries. The pillar weights are
+normalised to percentages ranging between 0 and 100 (for further details, refer to Appendix C on page 19 of
+this document).
+Category definitions are available in Appendix F.
+ESGC score
+ESGC scores provide a rounded and comprehensive scoring of a company’s ESG performance, based on the
+reported information pertaining to the ESG pillars, with the ESG controversies overlay captured from global
+media sources. The main objective of this score is to discount the ESG performance score based on negative
+media stories. It does this by incorporating the impact of significant, material ESG controversies in the overall
+ESGC score.
+When companies are involved in ESG controversies, the ESGC score is calculated as the weighted average of
+the ESG scores and ESG controversies score per fiscal period, with recent controversies reflected in the latest
+completed period. When companies are not involved in ESG controversies, the ESGC score is equal to the
+ESG score.
+ESG controversies category
+The ESG controversies score is calculated based on 23 ESG controversy topics. During the year, if a scandal
+occurs, the company involved is penalised and this affects their overall ESGC score and grading. The impact ofEnvironmental, social and governance scores from LSEG 9
+the event may still be seen in the following year if there are new developments related to the negative event, for
+example, lawsuits, ongoing legislation disputes or fines. All new media materials are captured as the controversy
+progresses. The controversies score also addresses the market cap bias from which large-cap companies suffer,
+as they attract more media attention than smaller-cap companies.
+Easily identify companies with strong ESG practices or exposure to
+ESG risks
+ESG scores are available on LSEG Workspace and Eikon for seamless integration into users’ workflows. They
+are accessible via ESG company views, the Screener app, Workspace/Eikon for Office and the Portfolio Analytics
+(PORTF) app. The ESG views show the scores letter grades to show at a glance how companies are performing
+relative to their peers, and where a company’s ESG weaknesses and strengths lie.
+ESG scores are available on LSEG Workspace, Eikon, the Microsoft® Excel® add-in, LSEG Datastream and via
+Datastream Data Loader (DDL). Plus, LSEG Quantitative Analytics offers automated processing and integration
+of all ESG data and scores into users’ quant models and analytics tools. The scores, as well as all underlying
+ESG data and analytics, are also available via a cloud-based delivery solution on the LSEG Data Platform.
+The conversion from a percentile score to a letter grade is based on the logic in the table below.
+Score range Grade Description
+0.0 <= score <= 0.083333 D - ‘D’ score indicates poor relative ESG performance ESG
+0.083333 < score <= 0.166666 D and insufficient degree of transparency in reporting laggards
+material ESG data publicly.
+0.166666 < score <= 0.250000 D +
+0.250000 < score <= 0.333333 C - ‘C’ score indicates satisfactory relative ESG
+performance and moderate degree of transparency in
+0.333333 < score <= 0.416666 C
+reporting material ESG data publicly.
+0.416666 < score <= 0.500000 C +
+0.500000 < score <= 0.583333 B - ‘B’ score indicates good relative ESG performance
+and above- average degree of transparency in
+0.583333 < score <= 0.666666 B
+reporting material ESG data publicly.
+0.666666 < score <= 0.750000 B +
+0.750000 < score <= 0.833333 A - ‘A’ score indicates excellent relative ESG performance
+and high degree of transparency in reporting material ESG
+0.833333 < score <= 0.916666 A
+ESG data publicly. leaders
+0.916666 < score <= 1 A +Environmental, social and governance scores from LSEG 10
+Scores calculation
+methodology
+We believe that ESG data is fundamentally relevant to informed investment decision making and as such,
+transparency is a key component of our customers’ trust and confidence in the data we provide to them. This
+section describes the LSEG ESG scoring methodology in detail.
+The LSEG ESG scoring methodology can be summarised and illustrated by means of a five-step process flow.
+Step 1: ESG category scores
+Treatment of underlying data points – Boolean and numeric
+1. Boolean data
+Boolean questions are typically answered with ‘Yes’ ‘No’ or ‘Null’. For instance, the answer to ‘Does the company
+have a water efficiency policy?’ can be ‘Yes’ (which is equal to a value of 1) if this is indeed the case, or ‘No’ if the
+company in question does not have such a policy, or if it reports only partial information (which is equivalent to
+‘No’). In such cases, a default value of 0 is automatically assigned by the system. In other words, a default value
+of 0 is assigned for Boolean data points when no relevant data is found in the public disclosure of companies.
+Each measure has a polarity indicating whether a higher value is positive or negative. For instance, having an
+emissions reduction policy is positive, but having environmental controversies is negative.
+Based on the polarity of the data point (i.e., is having a higher value ‘better’ or ‘worse’?), Boolean data points are
+converted to numeric values for the percentile score calculation. Details are available in the table below:
+Default values
+Positive Yes = 1 No/Null = 0
+Negative Yes/Null = 0 No = 1
+Note: only for TR.CriticalCountry1 is a default value of 1 assigned for ‘Null’, assuming those companies do not
+have operations in the listed critical countries.Environmental, social and governance scores from LSEG 11
+2. Numeric data
+A relative percentile ranking is only applied if a numeric data point is reported by a company, while all the
+companies in an industry group report that respective data point.
+Again, each measure has a polarity indicating whether a higher value is positive or negative. For instance, more
+water recycled is positive, but more emissions is negative.
+Industry group relevancy
+Some indicators are industry-specific and thus not relevant for all companies. If an indicator is irrelevant for a
+particular sector, then it is excluded from the calculation and its value will be deemed not relevant (N/R).
+Example: the indicator Environmental Assets Under Management is relevant only for the financial sector.
+Category scores calculation methodology
+Percentile rank scoring methodology is adopted to calculate the 10 category scores and the ESG controversies
+score. It is based on three factors:
+– How many companies are worse than the current one?
+– How many companies have the same value?
+– How many companies have a value at all?
+Percentile rank score is based on the rank, and therefore is not very sensitive to outliers.
+𝑛𝑜. 𝑜𝑓 𝑐𝑜𝑚𝑝𝑎𝑛𝑖𝑒𝑠 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑠𝑎𝑚𝑒 𝑣𝑎𝑙𝑢𝑒 𝑖𝑛𝑐𝑙𝑢𝑑𝑒𝑑 𝑖𝑛 𝑡ℎ𝑒 𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑜𝑛𝑒
+𝑛𝑜. 𝑜𝑓 𝑐𝑜𝑚𝑝𝑎𝑛𝑖𝑒𝑠 𝑤𝑖𝑡ℎ 𝑎 𝑤𝑜𝑟𝑠𝑒 𝑣𝑎𝑙𝑢𝑒 +
+2
+𝑠𝑐𝑜𝑟𝑒 =
+𝑛𝑜. 𝑜𝑓 𝑐𝑜𝑚𝑝𝑎𝑛𝑖𝑒𝑠 𝑤𝑖𝑡ℎ 𝑎 𝑣𝑎𝑙𝑢𝑒
+Peer group/category and benchmark
+To calculate the environmental and social category scores, as well as the controversies score, the TRBC
+industry group is used as the benchmark, as these topics are more relevant and material to companies within the
+same industries.
+To calculate the governance categories, the country of incorporation is used as the benchmark, as best
+governance practices are more consistent within countries.
+Step 2: Materiality matrix
+To apply an objective, impartial and trusted assessment of the importance of each ESG theme to different
+industries, the LSEG ESG magnitude matrix was developed as a proprietary model and is applied at the category
+level. Importantly, the magnitude values are automatically and dynamically adjusted as ESG corporate disclosure
+evolves and matures.
+Introduction to LSEG ESG materiality matrix
+Materiality for LSEG ESG is defined in the form of category weights. Category weights are calculated based on
+an objective and data-driven approach to determine the relative importance of each theme to each individual
+industry group. Based on the themes covered in each category, data points with sufficient disclosure are used as
+a proxy for industry magnitude. Themes and data points have a one-to-one relationship; in other words, there is
+one data point identified per theme. For some themes, there are no data points that may be used as good proxies
+of relative importance, due primarily to insufficient disclosure. These themes are not included in the scoring
+methodology to derive the materiality matrix but are present in corporate ESG reporting and the LSEG ESG
+database. Listing all the individual themes enables LSEG to identify critical data points across the themes where
+reporting is sufficient, to use as a proxy of materiality.Environmental, social and governance scores from LSEG 12
+The table below provides a detailed view on the ESG themes covered in each category, with the respective data
+points evaluated as proxies of ESG magnitude per industry group.
+Pillars Categories Themes Data points Weight method
+Environmental Emission Emissions TR.AnalyticCO2 Quant industry
+median
+Waste TR.AnalyticTotalWaste Quant industry
+median
+Biodiversity*
+Environmental management
+systems*
+Innovation Product innovation TR.EnvProducts Transparency weights
+Green revenues, research and TR.AnalyticEnvRD Quant industry
+development (R&D) and capital median
+expenditures (CapEx)
+Resource use Water TR.AnalyticWaterUse Quant industry
+median
+Energy TR.AnalyticEnergyUse Quant industry
+median
+Sustainable packaging*
+Environmental supply chain*
+Social Community Equally important to all industry Equally important to
+groups, hence a median weight all industry groups
+of five is assigned to all
+Human rights Human rights TR.PolicyHumanRights Transparency weights
+Product Responsible marketing TR.PolicyResponsibleMarketing Transparency weights
+responsibility
+Product quality TR.ProductQualityMonitoring Transparency weights
+Data privacy TR.PolicyDataPrivacy Transparency weights
+Workforce Diversity and inclusion TR.WomenEmployees Quant industry
+median
+Career development and TR.AvgTrainingHours Transparency weights
+training
+Working conditions TR.TradeUnionRep Quant industry
+median
+Health and safety TR.AnalyticLostDays Transparency weights
+Governance CSR strategy CSR strategy Data points in governance Count of data points
+category and governance pillar in each governance
+ESG reporting and
+category/all data
+transparency
+points in governance
+pillar
+Management Structure (independence, Data points in governance Count of data points
+diversity, committees) category and governance pillar in each governance
+category/all data
+Compensation
+points in governance
+pillar
+Shareholders Shareholder rights Data points in governance Count of data points
+category and governance pillar in each governance
+Takeover defenses
+category/all data
+points in governance
+pillar
+*No data points available that may be used as a proxy for ESG magnitude/materialityEnvironmental, social and governance scores from LSEG 13
+Category weight highlights
+Below are a few highlights regarding how category weights are calculated:
+– The category weights are normalised to percentages ranging between 0 and 100
+– Across categories of more than one theme and respective data point, the scoring methodology takes the
+average of each data point per industry group to calculate the weight at a category level
+– The default category weights start at five points, which is the median, with the points’ distribution ranging from
+1 to 10. The adjustment is determined on the basis of the industry group data point median
+– For environmental and social categories, a combination of industry medians and transparency (see 1 and 2
+below) is applied to arrive at the category weights, based on the weight method described in the table above
+– The community category is given equal weight across all industry groups as it is equally important to all
+of these
+– As all the data points are equally important to the calculation of magnitude weights for corporate governance in
+all industry groups, this calculation is based not on themes but rather on underlying data points. The default
+category weights are assigned at five points, with the points’ distribution ranging from 1 to 10. Since
+governance comprises three categories, the total points under governance would be 15. To derive the
+magnitude weight for governance, all data points per category are divided by the total of governance data
+points (part of scoring) and then multiplied by the total of 15 points. For example, the shareholders’ category
+gains three points, i.e., (12/56) x 15 = 3
+– In the innovation category, the availability of ‘environmental’ R&D expenditure data for roughly half of the
+industry groups does not meet the 5% transparency threshold; thus, a default weight of one is assigned
+– As responsible product marketing is a sector-specific data point, and the data availability for roughly 80% of
+industry groups does not meet the 7% transparency threshold, a default weight of one is assigned in the
+product responsibility category
+Two methods for calculating the magnitude matrix
+The magnitude matrix is calculated using the following two methods for numeric and Boolean data points, used as
+a proxy of magnitude for environmental and social pillars.
+1. Industry median
+Primarily used for numeric data points with environmental and social impact. Materiality weighting is to be based
+on the relative proportion that a particular sector contributes to the overall gross number in the full ESG universe.
+– The question of materiality, or in other words, the relative weight, is determined by the relative median value for
+a company in that industry group. The relative median values for each industry group to which the data point is
+material are compared, and decile ranks are assigned. The decile rank determines the relative weight
+assigned to that data point in determining the industry weight – from 1 to 10
+2. Transparency weights
+Primarily used for Boolean data points. Boolean data points are measures with a value of ‘Yes’ or ‘No’ (see page
+9). Magnitude weights are based on the level of disclosure of each data point in a given industry group.
+– The question of materiality, or in other words, the relative weight, is determined based on the disclosure of
+relative level in that industry group. The disclosure percentage for each industry group to which the data point
+is material is identified, and decile ranks are assigned. The decile rank determines the relative weight assigned
+to that data point in determining the industry weight – from 1 to 10Environmental, social and governance scores from LSEG 14
+Category weight calculation
+The magnitude weights of all 10 categories are summed up for each respective industry group. Each category’s
+magnitude weight is divided by the sum of the magnitude weights of the respective industry group to derive the
+category weight.
+𝑀𝑎𝑔𝑛𝑖𝑡𝑢𝑑𝑒 𝑤𝑒𝑖𝑔ℎ𝑡 𝑜𝑓 𝑎 𝑐𝑎𝑡𝑒𝑔𝑜𝑟𝑦
+𝐶𝑎𝑡𝑒𝑔𝑜𝑟𝑦 𝑤𝑒𝑖𝑔ℎ𝑡 𝑜𝑓 𝑎𝑛 𝑖𝑛𝑑𝑢𝑠𝑡𝑟𝑦 𝑔𝑟𝑜𝑢𝑝 =
+𝑆𝑢𝑚 𝑜𝑓 𝑚𝑎𝑔𝑛𝑖𝑡𝑢𝑑𝑒𝑠 𝑜𝑓 𝑎𝑙𝑙 𝑐𝑎𝑡𝑒𝑔𝑜𝑟𝑖𝑒𝑠
+To summarise, below are the steps involved in the calculation of category weights for the environmental and
+social pillars:
+– Data points that are a good proxy for assessing industry impact across environmental and social topics are
+used for the calculation of materiality (magnitude matrix)
+– Industry medians per data point, per industry group, are calculated and a relative median is derived. The
+relative median is equal to the median value of an industry group, divided by the sum of the medians of all
+industry groups for the respective data point. Deciles are identified on relative median values and deciles’
+weights are applied between 0 and 10 accordingly
+– If a category has more than one data point, the average of decile weight is considered to derive the magnitude
+weight for that category
+– The magnitude weights for corporate governance are calculated by a count of data points in each governance
+category/total data points in the governance pillar, multiplied by the default category weights of 15
+– Category weights are then derived using the magnitude weights of all the categories for an industry group
+Note: relevancy, category weights and pillar weights will be calculated against the latest data for all companies
+within LSEG ESG coverage (FY0). Once defined, the analysis behind the weights will be run on an annual basis
+and the results benchmarked against preset thresholds to determine if an adjustment to the weights is required.
+The revisions will be applied only to active fiscal years (where data collection for fiscal years is still in process).
+Only large- and mid-cap companies are considered to identify relevancy and category weights, as small-cap
+companies tend to report less data, which might impact the relevancy percentage and weights.
+For further details, refer to Appendix B – magnitude matrix and Appendix C – category weights matrix.Environmental, social and governance scores from LSEG 15
+Step 3: Overall ESG score
+calculation and pillar score
+To calculate the overall pillar and ESG scores, category weights per industry are applied using data-driven and
+objective logic.
+Calculation of overall ESG score
+ESG scores are aggregated based on the 10 category weights, which are calculated based on the LSEG
+magnitude matrix. Detailed ESG score calculations are available here.
+Environmental Social Governance
+Industry Emission Innovation Resource Human Product Workforce Community Management Shareholders CSR ESG scores
+group use rights responsibility strategy
+Water and 0.15 0.13 0.15 0.05 0.04 0.13 0.09 0.17 0.05 0.03
+related
+utilities
+ABC 0.66 0.00 0.44 0.05 0.58 0.89 0.34 0.99 0.84 0.56 0.571146184
+CBD 0.71 0.96 0.38 0.00 0.69 0.66 0.70 0.37 0.01 0.56 0.547913483
+DEF 0.03 0.00 0.00 0.00 0.00 0.57 0.11 0.21 0.14 0.54 0.150536652
+EFG 0.00 0.31 0.03 0.00 0.00 0.25 0.59 0.89 0.94 0.00 0.327824384
+EMJ 0.87 0.31 0.68 0.20 0.86 0.84 0.98 0.33 0.87 0.68 0.639400132
+EMQ 0.00 0.00 0.00 0.00 0.00 0.30 0.02 0.88 0.08 0.01 0.194782046
+ENR 0.92 0.81 0.85 0.75 0.97 0.93 0.66 0.40 0.49 0.86 0.756319427
+GPQ 0.24 0.31 0.00 0.00 0.17 0.02 0.16 0.56 0.56 0.00 0.223443757
+HIJ 0.61 0.31 0.50 0.65 0.42 0.80 0.80 0.48 0.27 0.37 0.54145808
+IBD 0.00 0.00 0.00 0.00 0.00 0.07 0.30 0.51 0.49 0.00 0.145398367
+JKL 0.50 0.73 0.74 0.00 0.78 0.43 0.93 0.62 0.89 0.26 0.611504799
+LMN 0.76 0.31 0.56 0.00 0.47 0.48 0.48 0.17 0.24 0.26 0.415151441
+MNO 0.82 0.31 0.91 0.40 0.58 0.61 0.07 0.33 0.52 0.63 0.539888776
+MSE 0.55 0.00 0.62 0.85 0.17 0.75 0.84 0.77 0.35 0.91 0.581805891
+OPQ 0.29 0.00 0.32 0.00 0.17 0.16 0.48 0.15 0.42 0.08 0.212906948
+PQR 0.45 0.65 0.79 0.55 0.78 0.52 0.75 0.76 0.76 0.16 0.640379494
+PSF 0.97 0.88 0.97 0.95 0.92 0.98 0.89 0.15 0.73 0.34 0.776142465
+RST 0.08 0.31 0.00 0.00 0.17 0.20 0.59 0.42 0.42 0.00 0.228111754
+UVW 0.34 0.00 0.26 0.20 0.58 0.70 0.39 0.26 0.16 0.31 0.316400123
+VPF 0.16 0.31 0.15 0.00 0.17 0.11 0.25 0.88 0.90 0.00 0.325828115
+XYZ 0.39 0.00 0.21 0.40 0.17 0.39 0.48 0.95 0.73 0.51 0.429105164
+YQM 0.16 0.00 0.09 0.00 0.36 0.34 0.20 0.69 0.34 0.00 0.25005416
+Calculation of pillar scores
+ESG pillar scores are the relative sum of the category weights. Calculations to derive pillar scores are
+illustrated below:
+Pillar Category Category Category Sum of category Formula: sum of New category Formula: new Pillar Formula:
+scores* weights weights category weights weights* category weights scores pillar scores
+Environmental Emissions 0.98 0.15 0.35 (0.15/0.44) (0.98*0.35)+
+Environmental Resource use 0.97 0.15 0.44 (0.15+0.15+0.13) 0.35 (0.15/0.44) 0.94 (0.97*0.35)+
+Environmental Innovation 0.85 0.13 0.29 (0.13/0.44) (0.85*0.29)
+Social Community 0.89 0.09 0.28 (0.09/0.31) (0.89*0.28)+
+Social Human rights 0.95 0.05 (0.09+0.05+0.04+0.13) 0.17 (0.05/0.31) (0.95*0.17)+
+0.31 094
+Product
+(0.92*0.13)+
+Social responsibility 0.92 0.04 0.13 (0.04/0.31) (0.98*0.43)Environmental, social and governance scores from LSEG 16
+Pillar Category Category Category Sum of category Formula: sum of New category Formula: new Pillar Formula:
+scores* weights weights category weights weights* category weights scores pillar scores
+Social Workforce 0.98 0.13 0.43 (0.13/0.31)
+Corporate
+governance
+Shareholders 0.73 0.05 0.20 (0.05/0.26)
+(0.73*0.20)+
+Corporate CSR strategy 0.34 0.03 0.26 (0.05+0.03+0.17) 0.13 (0.03/0.26) 0.32 (0.34* 0.13)+
+governance (0.19*0.67)
+Corporate
+Management 0.19 0.17 0.67 (0.17/0.26)
+governance
+*Decimal places to be considered
+See example in Appendix D.
+Step 4: Controversies scores
+calculation
+ESG controversies score is calculated based on 23 ESG controversy topics, with recent controversies reflected in
+the latest complete period (for further details, refer to Appendix G of this document).
+– Default value of all controversy measures is 0
+– All recent controversies are counted in the latest closed fiscal year and no controversy is double-counted
+– Controversies are benchmarked on industry group
+– Companies with no controversies will get a score of 100
+– Controversy score calculation addresses the market cap bias from which large-cap companies suffer, as they
+attract more media attention than smaller-cap companies
+– Severity weights are applied to address market cap bias and are applicable for the calculation of current
+and historical periods. The calculation of controversy scores based on the market cap grouping is defined
+as follows:
+Global benchmark Cap class Severity rate*
+>=10 billion Large 0.33
+>=2 billion Mid 0.67
+<2 billion Small 1
+*Logic to derive weights: large = 1/3 or 0.33, mid = 0.67, small = 0.33+0.67 = 1.
+Recent controversies are accounted as follows:
+– For instance, the last completed fiscal year for a company is 31 December 2019. If there is one controversy on
+1 May 2020, and another on 1 March 2021, both are accounted under ‘recent controversies’ and included in
+the scoring for FY2019
+– Once FY2020 is completed, the two recent controversies are moved to FY2020. The controversy related to 1
+May 2020, is moved to the ‘normal’ controversy data point, while the controversy related to 1 March 2021
+remains under ‘recent’ but is accounted for in FY2020
+– When FY2021 is completed, the controversy related to 1 March 2021 will be removed from ‘recent’ controversy
+within FY2020 and added to the ‘normal’ controversy data point in FY2021
+See example in Appendix H.Environmental, social and governance scores from LSEG 17
+Step 5: ESGC score
+The ESGC score is calculated as the average of the ESG score and ESG controversies score when there are
+controversies during the fiscal year. When the controversies score is greater than the ESG score, then the ESG
+score is equal to the ESGC score.
+Environmental Social Governance
+Industry Emission Innovation Resource Human Product Workforce Community Management Shareholders CSR ESG scores Controversy Combined
+group use rights responsibility strategy scores scores
+Water and 0.15 0.13 0.15 0.05 0.04 0.13 0.09 0.17 0.05 0.03
+related
+utilities
+ABC 0.66 0.00 0.44 0.05 0.58 0.89 0.34 0.99 0.84 0.56 0.571146184 1 0.571146184
+CBD 0.71 0.96 0.38 0.00 0.69 0.66 0.70 0.37 0.01 0.56 0.547913483 1 0.547913483
+DEF 0.03 0.00 0.00 0.00 0.00 0.57 0.11 0.21 0.14 0.54 0.150536652 1 0.150536652
+EFG 0.00 0.31 0.03 0.00 0.00 0.25 0.59 0.89 0.94 0.00 0.327824384 1 0.327824384
+EMJ 0.87 0.31 0.68 0.20 0.86 0.84 0.98 0.33 0.87 0.68 0.639400132 0.25 0.444700066
+EMQ 0.00 0.00 0.00 0.00 0.00 0.30 0.02 0.88 0.08 0.01 0.194782046 1 0.194782046
+ENR 0.92 0.81 0.85 0.75 0.97 0.93 0.66 0.40 0.49 0.86 0.756319427 1 0.756319427
+GPQ 0.24 0.31 0.00 0.00 0.17 0.02 0.16 0.56 0.56 0.00 0.223443757 1 0.223443757
+HIJ 0.61 0.31 0.50 0.65 0.42 0.80 0.80 0.48 0.27 0.37 0.54145808 1 0.54145808
+IBD 0.00 0.00 0.00 0.00 0.00 0.07 0.30 0.51 0.49 0.00 0.145398367 1 0.145398367
+JKL 0.50 0.73 0.74 0.00 0.78 0.43 0.93 0.62 0.89 0.26 0.611504799 1 0.611504799
+LMN 0.76 0.31 0.56 0.00 0.47 0.48 0.48 0.17 0.24 0.26 0.415151441 0.75 0.415151441
+MNO 0.82 0.31 0.91 0.40 0.58 0.61 0.07 0.33 0.52 0.63 0.539888776 1 0.539888776
+MSE 0.55 0.00 0.62 0.85 0.17 0.75 0.84 0.77 0.35 0.91 0.581805891 1 0.581805891
+OPQ 0.29 0.00 0.32 0.00 0.17 0.16 0.48 0.15 0.42 0.08 0.212906948 1 0.212906948
+PQR 0.45 0.65 0.79 0.55 0.78 0.52 0.75 0.76 0.76 0.16 0.640379494 1 0.640379494
+PSF 0.97 0.88 0.97 0.95 0.92 0.98 0.89 0.15 0.73 0.34 0.776142465 1 0.776142465
+RST 0.08 0.31 0.00 0.00 0.17 0.20 0.59 0.42 0.42 0.00 0.228111754 1 0.228111754
+UVW 0.34 0.00 0.26 0.20 0.58 0.70 0.39 0.26 0.16 0.31 0.316400123 1 0.316400123
+VPF 0.16 0.31 0.15 0.00 0.17 0.11 0.25 0.88 0.90 0.00 0.325828115 1 0.325828115
+XYZ 0.39 0.00 0.21 0.40 0.17 0.39 0.48 0.95 0.73 0.51 0.429105164 1 0.429105164
+YQM 0.16 0.00 0.09 0.00 0.36 0.34 0.20 0.69 0.34 0.00 0.25005416 1 0.25005416
+Refer to the below table for combined score logics:
+Scenario ESG controversies score ESG score ESGC score
+If controversies score is >=ESG score, then ESG 100 89 89
+score = ESGC score
+If controversies scores is <ESG score, then ESGC 48 49 48.5
+score = average of ESG and controversies scoreEnvironmental, social and governance scores from LSEG 18
+Step 6: Feedback & Changes
+How to raise a query
+LSEG Data & Analytics clients can raise questions about our ESG scoring model via the link below.
+Environmental, Social & Governance scores from LSEG are refreshed weekly and any changes applied because
+of client feedback will be factored into this cycle.
+Product and Content Support | MyAccount (refinitiv.com)
+Scoring Methodology Changes
+The relevance and suitability of our ESG scoring methodology is reviewed periodically to ensure its effectiveness
+and alignment with the evolving needs of clients and the industry. However, changes to our scoring methodology
+are implemented cautiously and infrequently, with the aim of maintaining stability and minimizing disruption to the
+users of the data. This approach is adopted to maintain consistency, allow for accurate trend analysis and to
+preserve confidence in the scoring model among LSEG D&A customers.
+Should any iterations be required to the ESG scoring methodology, we follow a systematic process before
+releasing. This ensures enhancements are implemented in a thoughtful and responsible manner. As new
+regulations are introduced and reporting standards evolve, the data metrics and methodology used for scoring is
+periodically evaluated to ensure its relevance and accuracy. Similarly, when new logic is developed, or existing
+logic modified, impact analysis is performed to understand the potential effects on the scoring system and its
+outputs. This analysis helps in identifying any potential limitations, biases, or unintended consequences that may
+arise from the changes.
+Changes, enhancements, and impact analysis is thoroughly documented to maintain transparency and
+accountability. These documents are shared via client notifications which can be subscribed to via the Product &
+Content Support url listed above. Client notifications are typically issued with a 30–90-day advance notice
+depending on the complexity of change introduced. This allows our customers to review and understand changes
+then make any necessary preparations to accommodate them.Environmental, social and governance scores from LSEG 19
+Appendix A
+Category scoring example
+This section illustrates how a category score is calculated, using the data available in the ESG database as of
+March 2020 for all water and related utilities industry companies (e.g., the emission category score for FY2017
+across the 22 companies in this industry).
+Detailed calculations of emission category scores are available here.
+Step-by-step illustration
+– There are 22 metrics that are considered in calculating emission category scores
+– Values are extracted for all 22 metrics
+– Numeric metrics are considered only if reported by the company
+– Relevant numeric values are assigned and calculated for Boolean metrics
+– Percentile score calculation formulas are applied for each measure
+The following illustrates how the percentile formula is applied for a numeric data point ‘TR.AnalyticCO2’, which is
+a negative polarity data point (i.e., the lower the better).
+Description JKL ABC
+No. of companies
+10 9
+with worse value
+No. of companies
+1 1
+with same value
+No. of companies
+11 11
+with value
+Company name Eikon code DFO codes Value Score Percentile score
+formula applied
+JKL TR.AnalyticCo2 ENERO03V 0.000005 0.954545 (10+(1/2))/11
+ABC TR.AnalyticCo2 ENERO03V 0.000123 0.863636 (9+(1/2))/11
+LMN TR.AnalyticCo2 ENERO03V 0.000182 0.772727 (8+(1/2))/11
+PQR TR.AnalyticCo2 ENERO03V 0.000189 0.681818 (7+(1/2))/11
+ENR TR.AnalyticCo2 ENERO03V 0.00019 0.590909 (6+(1/2))/11
+MSE TR.AnalyticCo2 ENERO03V 0.000211 0.5 (5+(1/2))/11
+MNO TR.AnalyticCo2 ENERO03V 0.000218 0.409091 (4+(1/2))/11
+EMJ TR.AnalyticCo2 ENERO03V 0.000314 0.318182 (3+(1/2))/11
+UVW TR.AnalyticCo2 ENERO03V 0.000438 0.227273 (2+(1/2))/11
+CBD TR.AnalyticCo2 ENERO03V 0.001081 0.136364 (1+(1/2))/11
+PSF TR.AnalyticCo2 ENERO03V 0.001142 0.045455 (0+(1/2))/11Environmental, social and governance scores from LSEG 20
+The following illustrates how the percentile formula is applied for a Boolean data point ‘TR.PolicyEmissions’,
+which is a positive polarity data point (i.e., the higher the better).
+Company Eikon code DFO codes Value Default value Percentile Percentile score
+name for Boolean score formula applied
+JKL TR.PolicyEmissions ENERDP0051 Yes 1 0.791666667 (7+(5/2))/12
+ABC TR.PolicyEmissions ENERDP0051 Yes 1 0.791666667 (7+(5/2))/12
+LMN TR.PolicyEmissions ENERDP0051 Yes 1 0.791666667 (7+(5/2))/12
+PQR TR.PolicyEmissions ENERDP0051 Yes 1 0.791666667 (7+(5/2))/12
+ENR TR.PolicyEmissions ENERDP0051 Yes 1 0.791666667 (7+(5/2))/12
+MSE TR.PolicyEmissions ENERDP0051 No 0 0 0
+MNO TR.PolicyEmissions ENERDP0051 No 0 0 0
+EMJ TR.PolicyEmissions ENERDP0051 No 0 0 0
+UVW TR.PolicyEmissions ENERDP0051 Null 0 0 0
+CBD TR.PolicyEmissions ENERDP0051 Null 0 0 0
+PSF TR.PolicyEmissions ENERDP0051 Null 0 0 0
+XYZ TR.PolicyEmissions ENERDP0051 Null 0 0 0
+– The same steps are applied to all other data points in the category
+– After deriving percentile scores at a data point level, percentile scores are summed up at a company level as
+described in the table below
+Company name Eikon code DFO codes Values Percentile scores
+ABC TR.AnalyticCO2 ENERO03V 0.000166844 0.833333333
+ABC TR.PolicyEmissions ENERDP0051 1 0.7
+ABC TR.TargetsEmissions ENERDP0161 1 0.9
+ABC TR.BiodiversityImpactReduction ENERDP019 1 0.766666667
+ABC TR.WasteReductionInitiatives ENERDP062 1 0.933333333
+ABC TR.EnvPartnerships ENERDP070 1 0.766666667
+ABC TR.EnvRestorationInitiatives ENERDP076 1 0.8
+ABC TR.ClimateChangeRisksOpp ENERDP089 1 0.733333333
+ABC TR.PolicyWaterEfficiency ENRRDP0121 0 0
+ABC TR.PolicyEnergyEfficiency ENRRDP0122 0 0
+ABC TR.TargetsWaterEfficiency ENRRDP0191 0 0
+ABC TR.NOxSOxEmissionsReduction ENERDP033 0 0
+ABC TR.eWasteReduction ENERDP063 0 0
+Sum of all percentile scores 6.433333
+– Percentile scores at company level are sorted from highest to lowest
+– Apply percentile scores formula to derive emission category scoreEnvironmental, social and governance scores from LSEG 21
+Appendix B
+The table below provides an indicative ESG magnitude (materiality) matrix based on assessment of sample ESG
+data. It is not a definitive matrix to be used in the final scoring.
+Environmental Social Governance
+TRBC Industry Industry Emission Innovation Resource Human Product Workforce Community Management Shareholders CSR
+Group Name Group use rights responsibility strategy
+code
+Aerospace & 521010 4 4 3 7 3 5 5 10 3 2
+Defense
+Automobiles & Auto 531010 6 10 5 9 5 6 5 10 3 2
+Parts
+Banking Services 551010 1 4 1 4 4 8 5 10 3 2
+Beverages 541010 8 3 8 9 7 6 5 10 3 2
+Biotechnology & 562020 4 1 6 1 5 3 5 10 3 2
+Medical Research
+Chemicals 511010 9 9 9 10 5 6 5 10 3 2
+Coal 501010 10 1 10 3 1 5 5 10 3 2
+Collective 555010 1 1 1 1 2 3 5 10 3 2
+Investments
+Communications & 571020 2 4 3 2 5 3 5 10 3 2
+Networking
+Computers, Phones 571060 3 8 2 10 6 6 5 10 3 2
+& Household
+Electronics
+Construction & 522010 8 8 5 7 3 6 5 10 3 2
+Engineering
+Construction 512020 10 8 10 7 3 7 5 10 3 2
+Materials
+Consumer Goods 544010 7 9 7 9 5 6 5 10 3 2
+Conglomerates
+Containers & 513020 9 6 9 10 5 6 5 10 3 2
+Packaging
+Diversified Industrial 522020 3 7 4 9 1 6 5 10 3 2
+Goods Wholesale
+Diversified Retail 534020 6 2 6 2 4 4 5 10 3 2
+Electric Utilities & 591010 10 8 9 4 3 8 5 10 3 2
+IPPs
+Electronic 571040 7 6 8 5 2 4 5 10 3 2
+Equipment & Parts
+Financial 573010 1 1 1 1 4 3 5 10 3 2
+Technology
+(Fintech) &
+Infrastructure
+Food & Drug 543010 6 3 4 5 8 6 5 10 3 2
+Retailing
+Food & Tobacco 541020 8 2 8 7 8 6 5 10 3 2
+Freight & Logistics 524050 7 6 6 4 4 7 5 10 3 2
+Services
+Healthcare 561010 3 3 2 5 6 4 5 10 3 2
+Equipment &
+Supplies
+Healthcare Providers 561020 3 1 4 3 6 4 5 10 3 2
+& Services
+Homebuilding & 532030 6 9 6 8 5 6 5 10 3 2
+Construction
+Supplies
+Hotels & 533010 6 1 7 4 9 5 5 10 3 2
+Entertainment
+Services
+Household Goods 532040 6 10 5 7 5 5 5 10 3 2
+Insurance 553010 1 3 1 3 4 6 5 10 3 2
+Investment Banking 551020 1 3 1 1 3 4 5 10 3 2
+& Investment
+ServicesEnvironmental, social and governance scores from LSEG 22
+Environmental Social Governance
+TRBC Industry Industry Emission Innovation Resource Human Product Workforce Community Management Shareholders CSR
+Group Name Group use rights responsibility strategy
+code
+Investment Holding 556010 7 2 8 2 1 2 5 10 3 2
+Companies
+Leisure Products 532050 2 3 2 4 9 3 5 10 3 2
+Machinery, Tools, 521020 5 10 4 6 5 4 5 10 3 2
+Heavy Vehicles,
+Trains & Ships
+Media & Publishing 533020 2 2 2 4 6 5 5 10 3 2
+Metals & Mining 512010 10 2 10 10 2 7 5 10 3 2
+Miscellaneous 631010 6 1 6 1 3 4 5 10 3 2
+Educational Service
+Providers
+Multiline Utilities 591040 10 9 9 6 4 7 5 10 3 2
+Natural Gas Utilities 591020 7 7 8 5 5 8 5 10 3 2
+Office Equipment 571050 4 10 3 10 7 5 5 10 3 2
+Oil & Gas 501020 7 7 9 10 4 8 5 10 3 2
+Oil & Gas Related 501030 8 3 7 8 2 6 5 10 3 2
+Equipment and
+Services
+Paper & Forest 513010 10 9 10 6 1 7 5 10 3 2
+Products
+Passenger 524060 7 3 7 5 4 8 5 10 3 2
+Transportation
+Services
+Personal & 542010 6 4 6 8 10 7 5 10 3 2
+Household Products
+& Services
+Pharmaceuticals 562010 5 2 5 7 5 6 5 10 3 2
+Professional & 631030 4 2 4 1 2 4 5 10 3 2
+Business Education
+Professional & 522030 4 3 4 6 4 5 5 10 3 2
+Commercial
+Services
+Real Estate 601010 6 4 6 2 2 8 5 10 3 2
+Operations
+Renewable Energy 502010 6 6 6 1 3 3 5 10 3 2
+Residential & 601020 8 2 8 1 3 5 5 10 3 2
+Commercial REITs
+Semiconductors & 571010 6 7 6 9 5 6 5 10 3 2
+Semiconductor
+Equipment
+Software & IT 572010 1 2 2 2 4 2 5 10 3 2
+Services
+Specialty Retailers 534030 3 2 3 3 5 4 5 10 3 2
+Telecommunications 574010 4 4 4 8 9 8 5 10 3 2
+Services
+The table below provides an indicative ESG magnitude (materiality) matrix based on assessment of sample ESG
+data. It is not a definitive matrix to be used in the final scoring.
+Environmental Social Governance
+TRBC Industry Industry Emission Innovation Resource Human Product Workforce Community Management Shareholders CSR
+Group Name Group use rights responsibility strategy
+code
+Telecommunications 574010 4 4 4 8 9 8 5 10 3 2
+Services
+Textiles & Apparel 532020 3 4 4 8 7 8 5 10 3 2
+Transport 524070 7 2 7 6 3 9 5 10 3 2
+Infrastructure
+Uranium 503010 10 1 10 1 3 3 5 10 3 2
+Water & Related 591030 9 8 9 3 2 8 5 10 3 2
+UtilitiesEnvironmental, social and governance scores from LSEG 23
+Note: Materiality matrix is not derived for the below four industry groups as currently there are no ESG companies
+forming part of these industry groups in our coverage. Once there are sufficient number of companies under
+these industry groups, materiality matrix would be derived according to the defined methodology.
+Integrated Hardware & Software
+Institutions, Associations & Organizations
+Government Activity
+School, College & UniversityEnvironmental, social and governance scores from LSEG 24
+Appendix C
+The table below provides an indicative ESG category weights matrix based on assessment of sample ESG data.
+It is not a definitive matrix to be used in the final scoring.
+Environmental Social Governance
+TRBC Industry Industry Emission Innovation Resource Human Product Workforce Community Management Shareholders CSR
+Group Name Group use rights responsibility strategy
+code
+Aerospace & 521010 0.09 0.09 0.06 0.15 0.07 0.11 0.11 0.22 0.06 0.04
+Defense
+Automobiles & Auto 531010 0.10 0.16 0.08 0.15 0.09 0.10 0.08 0.16 0.05 0.03
+Parts
+Banking Services 551010 0.02 0.10 0.02 0.10 0.09 0.19 0.12 0.24 0.07 0.05
+Beverages 541010 0.12 0.04 0.13 0.15 0.12 0.10 0.08 0.17 0.05 0.03
+Biotechnology & 562020 0.09 0.03 0.14 0.03 0.12 0.08 0.13 0.26 0.08 0.05
+Medical Research
+Chemicals 511010 0.13 0.13 0.13 0.15 0.07 0.09 0.07 0.15 0.04 0.03
+Coal 501010 0.20 0.02 0.19 0.06 0.02 0.10 0.10 0.20 0.06 0.04
+Collective 555010 0.03 0.03 0.03 0.03 0.08 0.09 0.17 0.34 0.10 0.07
+Investments
+Communications & 571020 0.05 0.10 0.07 0.05 0.14 0.07 0.13 0.26 0.08 0.05
+Networking
+Computers, Phones 571060 0.06 0.14 0.04 0.18 0.11 0.11 0.09 0.18 0.06 0.04
+& Household
+Electronics
+Construction & 522010 0.14 0.14 0.09 0.12 0.05 0.11 0.09 0.18 0.05 0.04
+Engineering
+Construction 512020 0.15 0.12 0.15 0.11 0.04 0.11 0.08 0.16 0.05 0.03
+Materials
+Consumer Goods 544010 0.11 0.15 0.11 0.15 0.08 0.09 0.08 0.16 0.05 0.03
+Conglomerates
+Containers & 513020 0.13 0.09 0.14 0.16 0.07 0.09 0.08 0.16 0.05 0.03
+Packaging
+Diversified Industrial 522020 0.06 0.14 0.08 0.18 0.02 0.12 0.10 0.20 0.06 0.04
+Goods Wholesale
+Diversified Retail 534020 0.13 0.03 0.14 0.05 0.10 0.09 0.12 0.23 0.07 0.05
+Electric Utilities & 591010 0.16 0.13 0.14 0.07 0.05 0.13 0.08 0.17 0.05 0.03
+IPPs
+Electronic 571040 0.13 0.11 0.15 0.10 0.04 0.08 0.10 0.20 0.06 0.04
+Equipment & Parts
+Financial 573010 0.03 0.03 0.03 0.03 0.13 0.08 0.16 0.33 0.10 0.07
+Technology
+(Fintech) &
+Infrastructure
+Food & Drug 543010 0.11 0.05 0.08 0.10 0.15 0.12 0.10 0.20 0.06 0.04
+Retailing
+Food & Tobacco 541020 0.13 0.03 0.13 0.12 0.13 0.11 0.09 0.17 0.05 0.03
+Freight & Logistics 524050 0.12 0.11 0.10 0.08 0.08 0.12 0.10 0.19 0.06 0.04
+Services
+Government 621010 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.10
+Activity**
+Healthcare 561010 0.06 0.06 0.05 0.12 0.14 0.09 0.12 0.24 0.07 0.05
+Equipment &
+Supplies
+Healthcare 561020 0.07 0.02 0.09 0.07 0.15 0.10 0.12 0.25 0.07 0.05
+Providers & Services
+Homebuilding & 532030 0.09 0.15 0.09 0.14 0.09 0.09 0.09 0.17 0.05 0.03
+Construction
+Supplies
+Hotels & 533010 0.12 0.02 0.13 0.08 0.18 0.09 0.10 0.20 0.06 0.04
+Entertainment
+Services
+Household Goods 532040 0.10 0.16 0.08 0.12 0.09 0.09 0.09 0.17 0.05 0.03
+Institutions, 611010 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.10
+Associations &
+Organizations**Environmental, social and governance scores from LSEG 25
+Environmental Social Governance
+TRBC Industry Industry Emission Innovation Resource Human Product Workforce Community Management Shareholders CSR
+Group Name Group use rights responsibility strategy
+code
+Insurance 553010 0.03 0.08 0.03 0.08 0.11 0.15 0.13 0.27 0.08 0.05
+Integrated Hardware 571070 0.06 0.14 0.04 0.18 0.11 0.11 0.09 0.18 0.06 0.04
+& Software*
+Investment Banking 551020 0.03 0.08 0.03 0.03 0.08 0.12 0.16 0.31 0.09 0.06
+& Investment
+Services
+Investment Holding 556010 0.16 0.04 0.19 0.05 0.02 0.05 0.12 0.24 0.07 0.05
+Companies
+Leisure Products 532050 0.04 0.06 0.04 0.10 0.22 0.07 0.12 0.24 0.07 0.05
+Machinery, Tools, 521020 0.09 0.18 0.08 0.11 0.09 0.08 0.09 0.19 0.06 0.04
+Heavy Vehicles,
+Trains & Ships
+Media & Publishing 533020 0.05 0.04 0.04 0.10 0.15 0.12 0.13 0.25 0.08 0.05
+Metals & Mining 512010 0.16 0.03 0.16 0.16 0.04 0.12 0.08 0.16 0.05 0.03
+Miscellaneous 631010 0.13 0.02 0.15 0.02 0.08 0.10 0.12 0.24 0.07 0.05
+Educational Service
+Providers
+Multiline Utilities 591040 0.15 0.13 0.14 0.09 0.06 0.10 0.08 0.16 0.05 0.03
+Natural Gas Utilities 591020 0.12 0.12 0.13 0.08 0.08 0.13 0.08 0.17 0.05 0.03
+Office Equipment 571050 0.06 0.16 0.05 0.17 0.12 0.09 0.09 0.17 0.05 0.03
+Oil & Gas 501020 0.11 0.10 0.13 0.16 0.06 0.12 0.08 0.16 0.05 0.03
+Oil & Gas Related 501030 0.15 0.05 0.13 0.15 0.04 0.11 0.09 0.19 0.06 0.04
+Equipment and
+Services
+Paper & Forest 513010 0.15 0.14 0.16 0.10 0.02 0.11 0.08 0.16 0.05 0.03
+Products
+Passenger 524060 0.12 0.06 0.13 0.09 0.08 0.14 0.09 0.19 0.06 0.04
+Transportation
+Services
+Personal & 542010 0.09 0.07 0.09 0.14 0.16 0.11 0.08 0.17 0.05 0.03
+Household Products
+& Services
+Pharmaceuticals 562010 0.09 0.03 0.10 0.14 0.10 0.12 0.10 0.21 0.06 0.04
+Professional & 631030 0.11 0.06 0.11 0.03 0.05 0.10 0.14 0.28 0.08 0.06
+Business Education
+Professional & 522030 0.08 0.07 0.09 0.13 0.08 0.10 0.11 0.22 0.07 0.04
+Commercial
+Services
+Real Estate 601010 0.12 0.08 0.12 0.04 0.04 0.16 0.11 0.22 0.07 0.04
+Operations
+Renewable Energy 502010 0.14 0.13 0.13 0.02 0.07 0.07 0.11 0.23 0.07 0.05
+Residential & 601020 0.16 0.04 0.17 0.02 0.07 0.10 0.11 0.21 0.06 0.04
+Commercial REITs
+School, College & 631020 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.10 0.10
+University**
+Semiconductors & 571010 0.10 0.12 0.10 0.16 0.09 0.10 0.09 0.17 0.05 0.03
+Semiconductor
+Equipment
+Software & IT 572010 0.03 0.06 0.05 0.06 0.11 0.07 0.15 0.31 0.09 0.06
+Services
+Specialty Retailers 534030 0.08 0.05 0.06 0.08 0.12 0.10 0.13 0.26 0.08 0.05
+Telecommunications 574010 0.07 0.06 0.07 0.14 0.16 0.14 0.09 0.18 0.05 0.04
+Services
+Textiles & Apparel 532020 0.05 0.07 0.07 0.15 0.13 0.15 0.10 0.19 0.06 0.04
+Transport 524070 0.12 0.04 0.13 0.11 0.06 0.16 0.09 0.19 0.06 0.04
+Infrastructure
+Uranium 503010 0.21 0.02 0.21 0.02 0.07 0.07 0.10 0.21 0.06 0.04
+Water & Related 591030 0.15 0.13 0.15 0.05 0.04 0.13 0.09 0.17 0.05 0.03
+Utilities
+* Currently there is no ESG coverage under Integrated Hardware & Software, default weights of Computers, Phones &
+Household Electronics are assigned until there is sufficient universe to derive category weights as per the defined methodology
+and both industry groups belong to technology.
+**These are newly introduced industry groups and currently there are no ESG companies forming part of these industry groups,
+hence uniform weights are assigned across all industry groups. Once there are sufficient number of companies under these
+industry groups, category weights would be derived according to the defined methodology.Environmental, social and governance scores from LSEG 26
+Appendix D
+Pillar scoring example
+In this section is an illustration of how pillar scores are calculated for the water and related utilities industry group,
+using the data available in the ESG database for FY2017.
+Water and related utilities Illustration of calculation of pillar scores
+Industry Emission Innovation Resource Environmental Human Product Workforce Community Social Management Shareholders CSR Governance
+group use pillar scores rights responsibility pillar strategy pillar scores
+scores
+Pillar 0.35 0.29 0.35 0.17 0.13 0.43 0.28 0.67 0.20 0.13
+weights
+ABC 0.66 0.00 0.44 0.39 0.05 0.58 0.89 0.34 0.56 0.99 0.84 0.56 0.90
+CBD 0.71 0.96 0.38 0.67 0.00 0.69 0.66 0.70 0.57 0.37 0.01 0.56 0.32
+DEF 0.03 0.00 0.00 0.01 0.00 0.00 0.57 0.11 0.27 0.21 0.14 0.54 0.24
+EFG 0.00 0.31 0.03 0.10 0.00 0.00 0.25 0.59 0.27 0.89 0.94 0.00 0.78
+EMJ 0.87 0.31 0.68 0.64 0.20 0.86 0.84 0.98 0.77 0.33 0.87 0.68 0.48
+EMQ 0.00 0.00 0.00 0.00 0.00 0.00 0.30 0.02 0.13 0.88 0.08 0.01 0.60
+ENR 0.92 0.81 0.85 0.86 0.75 0.97 0.93 0.66 0.83 0.40 0.49 0.86 0.48
+GPQ 0.24 0.31 0.00 0.17 0.00 0.17 0.02 0.16 0.08 0.56 0.56 0.00 0.49
+HIJ 0.61 0.31 0.50 0.48 0.65 0.42 0.80 0.80 0.72 0.48 0.27 0.37 0.43
+IBD 0.00 0.00 0.00 0.00 0.00 0.00 0.07 0.30 0.11 0.51 0.49 0.00 0.43
+JKL 0.50 0.73 0.74 0.65 0.00 0.78 0.43 0.93 0.54 0.62 0.89 0.26 0.63
+LMN 0.76 0.31 0.56 0.56 0.00 0.47 0.48 0.48 0.40 0.17 0.24 0.26 0.20
+MNO 0.82 0.31 0.91 0.70 0.40 0.58 0.61 0.07 0.42 0.33 0.52 0.63 0.41
+MSE 0.55 0.00 0.62 0.41 0.85 0.17 0.75 0.84 0.72 0.77 0.35 0.91 0.71
+OPQ 0.29 0.00 0.32 0.22 0.00 0.17 0.16 0.48 0.22 0.15 0.42 0.08 0.20
+PQR 0.45 0.65 0.79 0.63 0.55 0.78 0.52 0.75 0.62 0.76 0.76 0.16 0.68
+PSF 0.97 0.88 0.97 0.95 0.95 0.92 0.98 0.89 0.94 0.15 0.73 0.34 0.29
+RST 0.08 0.31 0.00 0.12 0.00 0.17 0.20 0.59 0.27 0.42 0.42 0.00 0.36
+UVW 0.34 0.00 0.26 0.21 0.20 0.58 0.70 0.39 0.52 0.26 0.16 0.31 0.25
+VPF 0.16 0.31 0.15 0.20 0.00 0.17 0.11 0.25 0.14 0.88 0.90 0.00 0.77
+XYZ 0.39 0.00 0.21 0.21 0.40 0.17 0.39 0.48 0.39 0.95 0.73 0.51 0.85
+YQM 0.16 0.00 0.09 0.09 0.00 0.36 0.34 0.20 0.25 0.69 0.34 0.00 0.53
+Steps:
+– Sum of category weights: sum each category weight of respective pillars. The calculation to derive the sum
+of category weights is illustrated below:
+– Environmental pillar categories = resource use (0.08) + emissions (0.10) + innovation (0.16) = 0.34
+– Social pillar categories = workforce (0.10) + human rights (0.15) + community (0.08) + product responsibility
+(0.09) = 0.42
+– Corporate governance categories = management (0.16) + shareholders (0.05) + CSR strategy (0.03) = 0.24
+– New category weights: new category weights are calculated based on the sum of the category weights
+calculated above. New category weights = category weights divided by the sum of the category weights of the
+respective pillar. The calculation of new category weights for environmental pillar is as below:
+– New category weight for resource use = 0.08 divided by 0.34 = 0.24
+– New category weight for emissions = 0.10 divided by 0.34 = 0.29
+– New category weight for innovation = 0.16 divided by 0.34 = 0.48
+(new category weights for social and corporate governance are similarly calculated)
+– Pillar score calculation: category scores multiplied by new category weights = pillar scores.
+The calculation of the environmental pillar score is shown below:
+– (Resource use score*0.24) + (emission score*0.29) + (innovation score*0.48) = 0.91 (environmental pillar
+score). Social and corporate governance pillar scores are calculated similarlyEnvironmental, social and governance scores from LSEG 27
+Appendix E
+The table below provides an indicative ESG pillar weights matrix, based on an assessment of sample ESG data.
+It is not a definitive matrix to be used in the final scoring.
+Environmental Social Governance
+TRBC Industry Industry Emission Innovation Resource Human Product Workforce Community Management Shareholders CSR
+Group Name Group use rights responsibility strategy
+code
+Aerospace & 521010 0.36 0.36 0.27 0.34 0.16 0.25 0.25 0.67 0.20 0.13
+Defense
+Automobiles & Auto 531010 0.29 0.48 0.24 0.35 0.21 0.24 0.20 0.67 0.20 0.13
+Parts
+Banking Services 551010 0.17 0.67 0.17 0.19 0.18 0.39 0.24 0.67 0.20 0.13
+Beverages 541010 0.42 0.14 0.44 0.33 0.27 0.23 0.18 0.67 0.20 0.13
+Biotechnology & 562020 0.35 0.10 0.55 0.07 0.34 0.22 0.37 0.67 0.20 0.13
+Medical Research
+Chemicals 511010 0.32 0.34 0.34 0.39 0.18 0.23 0.20 0.67 0.20 0.13
+Coal 501010 0.49 0.05 0.46 0.22 0.07 0.35 0.36 0.67 0.20 0.13
+Collective 555010 0.33 0.33 0.33 0.09 0.21 0.25 0.45 0.67 0.20 0.13
+Investments
+Communications & 571020 0.24 0.47 0.29 0.13 0.36 0.17 0.34 0.67 0.20 0.13
+Networking
+Computers, Phones 571060 0.24 0.60 0.16 0.37 0.22 0.21 0.19 0.67 0.20 0.13
+& Household
+Electronics
+Construction & 522010 0.38 0.38 0.24 0.34 0.13 0.29 0.24 0.67 0.20 0.13
+Engineering
+Construction 512020 0.36 0.28 0.36 0.33 0.12 0.32 0.23 0.67 0.20 0.13
+Materials
+Consumer Goods 544010 0.30 0.41 0.30 0.37 0.19 0.24 0.20 0.67 0.20 0.13
+Conglomerates
+Containers & 513020 0.37 0.24 0.39 0.39 0.18 0.23 0.20 0.67 0.20 0.13
+Packaging
+Diversified Industrial 522020 0.21 0.50 0.29 0.43 0.05 0.29 0.24 0.67 0.20 0.13
+Goods Wholesale
+Diversified Retail 534020 0.42 0.12 0.46 0.13 0.28 0.26 0.33 0.67 0.20 0.13
+Electric Utilities & 591010 0.37 0.29 0.33 0.21 0.15 0.38 0.26 0.67 0.20 0.13
+IPPs
+Electronic 571040 0.33 0.28 0.38 0.31 0.12 0.26 0.31 0.67 0.20 0.13
+Equipment & Parts
+Financial 573010 0.33 0.33 0.33 0.08 0.32 0.20 0.40 0.67 0.20 0.13
+Technology
+(Fintech) &
+Infrastructure
+Food & Drug 543010 0.46 0.21 0.33 0.21 0.32 0.26 0.21 0.67 0.20 0.13
+Retailing
+Food & Tobacco 541020 0.45 0.09 0.45 0.27 0.30 0.24 0.19 0.67 0.20 0.13
+Freight & Logistics 524050 0.36 0.33 0.31 0.21 0.21 0.33 0.26 0.67 0.20 0.13
+Services
+Government 621010 0.33 0.33 0.33 0.25 0.25 0.25 0.25 0.33 0.33 0.33
+Activity**
+Healthcare 561010 0.36 0.36 0.29 0.25 0.30 0.19 0.25 0.67 0.20 0.13
+Equipment &
+Supplies
+Healthcare Providers 561020 0.40 0.13 0.47 0.17 0.33 0.22 0.28 0.67 0.20 0.13
+& Services
+Homebuilding & 532030 0.28 0.44 0.28 0.34 0.21 0.23 0.21 0.67 0.20 0.13
+Construction
+Supplies
+Hotels & 533010 0.44 0.07 0.48 0.18 0.40 0.20 0.22 0.67 0.20 0.13
+Entertainment
+Services
+Household Goods 532040 0.30 0.48 0.23 0.31 0.24 0.23 0.22 0.67 0.20 0.13
+Institutions, 611010 0.33 0.33 0.33 0.25 0.25 0.25 0.25 0.33 0.33 0.33
+Associations &
+Organizations**
+Insurance 553010 0.20 0.60 0.20 0.17 0.23 0.31 0.29 0.67 0.20 0.13Environmental, social and governance scores from LSEG 28
+Environmental Social Governance
+TRBC Industry Industry Emission Innovation Resource Human Product Workforce Community Management Shareholders CSR
+Group Name Group use rights responsibility strategy
+code
+Integrated Hardware 571070 0.24 0.60 0.16 0.37 0.22 0.21 0.19 0.67 0.20 0.13
+& Software*
+Investment Banking 551020 0.22 0.56 0.22 0.08 0.21 0.32 0.39 0.67 0.20 0.13
+& Investment
+Services
+Investment Holding 556010 0.41 0.09 0.50 0.20 0.10 0.22 0.49 0.67 0.20 0.13
+Companies
+Leisure Products 532050 0.27 0.45 0.27 0.19 0.43 0.13 0.24 0.67 0.20 0.13
+Machinery, Tools, 521020 0.25 0.53 0.22 0.31 0.24 0.20 0.25 0.67 0.20 0.13
+Heavy Vehicles,
+Trains & Ships
+Media & Publishing 533020 0.40 0.30 0.30 0.20 0.30 0.24 0.25 0.67 0.20 0.13
+Metals & Mining 512010 0.44 0.09 0.47 0.41 0.09 0.29 0.20 0.67 0.20 0.13
+Miscellaneous 631010 0.44 0.08 0.48 0.07 0.25 0.31 0.37 0.67 0.20 0.13
+Educational Service
+Providers
+Multiline Utilities 591040 0.35 0.31 0.33 0.28 0.19 0.30 0.23 0.67 0.20 0.13
+Natural Gas Utilities 591020 0.33 0.33 0.35 0.22 0.22 0.35 0.22 0.67 0.20 0.13
+Office Equipment 571050 0.22 0.59 0.19 0.37 0.26 0.19 0.18 0.67 0.20 0.13
+Oil & Gas 501020 0.32 0.30 0.39 0.37 0.15 0.29 0.19 0.67 0.20 0.13
+Oil & Gas Related 501030 0.46 0.14 0.40 0.38 0.11 0.28 0.23 0.67 0.20 0.13
+Equipment and
+Services
+Paper & Forest 513010 0.33 0.32 0.35 0.32 0.05 0.37 0.26 0.67 0.20 0.13
+Products
+Passenger 524060 0.39 0.18 0.42 0.23 0.20 0.35 0.23 0.67 0.20 0.13
+Transportation
+Services
+Personal & 542010 0.37 0.27 0.37 0.27 0.33 0.22 0.17 0.67 0.20 0.13
+Household Products
+& Services
+Pharmaceuticals 562010 0.41 0.14 0.45 0.31 0.21 0.26 0.22 0.67 0.20 0.13
+Professional & 631030 0.40 0.20 0.40 0.09 0.15 0.31 0.45 0.67 0.20 0.13
+Business Education
+Professional & 522030 0.33 0.29 0.38 0.31 0.19 0.23 0.26 0.67 0.20 0.13
+Commercial
+Services
+Real Estate 601010 0.38 0.24 0.38 0.12 0.12 0.45 0.30 0.67 0.20 0.13
+Operations
+Renewable Energy 502010 0.35 0.32 0.32 0.08 0.25 0.25 0.42 0.67 0.20 0.13
+Residential & 601020 0.43 0.11 0.46 0.07 0.24 0.34 0.36 0.67 0.20 0.13
+Commercial REITs
+School, College & 631020 0.33 0.33 0.33 0.25 0.25 0.25 0.25 0.33 0.33 0.33
+University**
+Semiconductors & 571010 0.31 0.39 0.31 0.36 0.20 0.23 0.20 0.67 0.20 0.13
+Semiconductor
+Equipment
+Software & IT 572010 0.22 0.44 0.33 0.15 0.28 0.17 0.39 0.67 0.20 0.13
+Services
+Specialty Retailers 534030 0.40 0.27 0.33 0.18 0.28 0.24 0.30 0.67 0.20 0.13
+Telecommunications 574010 0.35 0.30 0.35 0.27 0.31 0.26 0.17 0.67 0.20 0.13
+Services
+Textiles & Apparel 532020 0.26 0.37 0.37 0.29 0.25 0.28 0.18 0.67 0.20 0.13
+Transport 524070 0.42 0.13 0.45 0.26 0.13 0.38 0.22 0.67 0.20 0.13
+Infrastructure
+Uranium 503010 0.48 0.05 0.48 0.08 0.26 0.26 0.40 0.67 0.20 0.13
+Water & Related 591030 0.35 0.29 0.35 0.17 0.13 0.43 0.28 0.67 0.20 0.13
+Utilities
+*Currently there is no ESG coverage under Integrated Hardware & Software, default weights of Computers, Phones &
+Household Electronics are assigned until there is sufficient universe to derive category weights as per the defined methodology
+and both industry groups belong to technology.
+**These are newly introduced industry groups and currently there are no ESG companies forming part of these industry groups,
+hence uniform weights are assigned across all industry groups. Once there are sufficient number of companies under these
+industry groups, category weights would be derived according to the defined methodology.Environmental, social and governance scores from LSEG 29
+Appendix F
+Category scores
+The table below lists the category scores and their definitions.
+Score Definition
+LSEG ESG resource use score The resource use score reflects a company’s performance and capacity to reduce the
+use of materials, energy or water, and to find more eco-efficient solutions by improving
+supply chain management.
+LSEG ESG emissions The emission reduction score measures a company’s commitment and effectiveness
+reduction score towards reducing environmental emissions in its production and operational processes.
+LSEG ESG innovation score The innovation score reflects a company’s capacity to reduce the environmental costs
+and burdens for its customers, thereby creating new market opportunities through new
+environmental technologies and processes, or eco-designed products.
+LSEG ESG workforce score The workforce score measures a company’s effectiveness in terms of providing job
+satisfaction, a healthy and safe workplace, maintaining diversity and equal opportunities,
+and development opportunities for its workforce.
+LSEG ESG human rights score The human rights score measures a company’s effectiveness in terms of respecting
+fundamental human rights conventions.
+LSEG ESG community score The community score measures the company’s commitment to being a good citizen,
+protecting public health and respecting business ethics.
+LSEG ESG product The product responsibility score reflects a company’s capacity to produce quality goods
+responsibility score and services, integrating the customer’s health and safety, integrity and data privacy.
+LSEG ESG management score The management score measures a company’s commitment and effectiveness towards
+following best practice corporate governance principles.
+LSEG ESG shareholders score The shareholders score measures a company’s effectiveness towards equal treatment of
+shareholders and the use of anti-takeover devices.
+LSEG ESG CSR strategy score The CSR strategy score reflects a company’s practices to communicate that it integrates
+economic (financial), social and environmental dimensions into its day-to-day decision-
+making processes.Environmental, social and governance scores from LSEG 30
+Appendix G
+Controversy measures
+List of all controversy measures that make up the ESG controversy category score.
+Category Name (N) Label (L) Description (D)
+Community TR.ControvAntiCompetition Anti- Number of controversies published in the media linked to
+competition anti-competitive behaviour (e.g., anti-trust and monopoly),
+controversy price-fixing or kickbacks.
+Community TR.ControvBusinessEthics Business ethics Number of controversies published in the media linked to
+controversies business ethics in general, political contributions or bribery
+and corruption.
+Community TR.ControvCopyrights Intellectual Number of controversies published in the media linked to
+property patents and intellectual property infringements.
+controversies
+Community TR.ControvCriticalCountries Critical Number of controversies published in the media linked to
+countries activities in critical, undemocratic countries that do not
+controversies respect fundamental human rights principles.
+Community TR.ControvPublicHealth Public health Number of controversies published in the media linked to
+controversies public health or industrial accidents harming the health and
+safety of third parties (non-employees and non-customers).
+Community TR.ControvTaxFraud Tax fraud Number of controversies published in the media linked to
+controversies tax fraud, parallel imports or money laundering.
+Human rights TR.ControvChildLabor Child labour Number of controversies published in the media linked to
+controversies use of child labour issues.
+Human rights TR.ControvHumanRights Human rights Number of controversies published in the media linked to
+controversies human rights issues.
+Management TR.ControvMgtComp Management Number of controversies published in the media linked to
+compensation high executive or board compensation.
+controversies
+count
+Product TR.ControvConsumer Consumer Number of controversies published in the media linked to
+responsibility controversies consumer complaints or dissatisfaction directly linked to the
+company’s products or services.
+Product TR.ControvCustomerHS Customer Number of controversies published in the media linked to
+responsibility health and customer health and safety.
+safety
+controversies
+Product TR.ControvPrivacy Privacy Number of controversies published in the media linked to
+responsibility controversies employee or customer privacy and integrity.
+Product TR.ControvProductAccess Product access Number of controversies published in the media linked to
+responsibility controversies product access.
+Product TR.ControvRespMarketing Responsible Number of controversies published in the media linked to
+responsibility marketing the company’s marketing practices, such as over-marketing
+controversies of unhealthy food to vulnerable consumers.
+Product TR.ControvResponsibleRD Responsible Number of controversies published in the media linked to
+responsibility R&D responsible R&D.
+controversies
+Resource TR.ControvEnv Environmental Number of controversies related to the environmental
+use controversies impact of the company’s operations on natural resources or
+local communities.
+Shareholders TR.ControvAccounting Accounting Number of controversies published in the media linked to
+controversies aggressive or non- transparent accounting issues.
+count
+Shareholders TR.ControvInsiderDealings Insider dealings Number of controversies published in the media linked to
+controversies insider dealings and other share price manipulations.Environmental, social and governance scores from LSEG 31
+Category Name (N) Label (L) Description (D)
+Shareholders TR.ControvShareholders Shareholder Number of controversies published in the media linked to
+rights shareholder rights infringements.
+controversies
+Workforce TR.ControvDiversityOpportunity Diversity and Number of controversies published in the media linked to
+opportunity workforce diversity and opportunity (e.g., wages, promotion,
+controversies discrimination and harassment).
+Workforce TR.ControvEmployeesHS Employee Number of controversies published in the media linked to
+health and workforce health and safety.
+safety
+controversies
+Workforce TR.ControvWorkingCondition Wages or Number of controversies published in the media linked to
+working the company’s relations with employees or relating to
+conditions wages or wage disputes.
+controversies
+Workforce TR.Strikes Strikes Has there has been a strike or an industrial dispute that led
+to lost working days?Environmental, social and governance scores from LSEG 32
+Appendix H
+Controversies scoring example
+This section illustrates how a controversy score is calculated for a water and related utilities industry group, using
+the data available in the ESG database for FY2017.
+Company Market cap TRBC industry Count of Severity Value after Controversies Grade
+name class group name controversies weight applying score
+per company severity weight
+PSF Large Water and related 0 0.33 0 100% A+
+utilities
+ENR Mid Water and related 0 0.67 0 100% A+
+utilities
+MNO Mid Water and related 0 0.67 0 100% A+
+utilities
+CBD Small Water and related 0 1 0 100% A+
+utilities
+ABC Mid Water and related 0 0.67 0 100% A+
+utilities
+HIJ Mid Water and related 0 0.67 0 100% A+
+utilities
+MSE Mid Water and related 0 0.67 0 100% A+
+utilities
+JKL Mid Water and related 0 0.67 0 100% A+
+utilities
+PQR Large Water and related 0 0.33 0 100% A+
+utilities
+XYZ Mid Water and related 0 0.67 0 100% A+
+utilities
+UVW Small Water and related 0 1 0 100% A+
+utilities
+OPQ Small Water and related 0 1 0 100% A+
+utilities
+GPQ Small Water and related 0 1 0 100% A+
+utilities
+VPF Small Water and related 0 1 0 100% A+
+utilities
+RST Small Water and related 0 1 0 100% A+
+utilities
+EMQ Mid Water and related 0 0.67 0 100% A+
+utilities
+IBD Small Water and related 0 1 0 100% A+
+utilities
+YQM Small Water and related 0 1 0 100% A+
+utilities
+DEF Mid Water and related 0 0.67 0 100% A+
+utilities
+EFG Small Water and related 0 1 0 100% A+
+utilities
+LMN Mid Water and related 1 0.67 0.67 75% B+
+utilities
+EMJ Small Water and related 1 1 1 25% D+
+utilitiesEnvironmental, social and governance scores from LSEG 33
+Steps:
+– Extract values pertaining to controversies for all companies of FY2017 and get the count of controversies
+per company
+– Based on the market cap class, multiply the count of controversies by the severity weight
+– Sort the companies from lowest to highest (lowest being better) considering the values after applying the
+severity weights
+– Apply percentile rank formula to derive the ESG controversies scores
+Company Market Count of Severity Value after Controversies Percentile formula applied Grade
+name cap class controversies weight applying score only for companies with
+per company severity weight controversies
+PSF Large 0 0.33 0 100% 100% A+
+ENR Mid 0 0.67 0 100% 100% A+
+YQM Small 0 1 0 100% 100% A+
+DEF Mid 0 0.67 0 100% 100% A+
+EFG Small 0 1 0 100% 100% A+
+LMN Mid 1 0.67 0.67 75% (1+(1/2))/2 B+
+EMJ Small 1 1 1 25% (0+(1/2))/2 D+
