@@ -1,0 +1,451 @@
+Agilent General
+Specification for the
+Environment (GSE)
+Updated November 2024General Specification for the Environment
+Table of Contents
+1. Purpose ...................................................................................................................................................................... 3
+2. Scope ......................................................................................................................................................................... 3
+3. Chemical Registration ............................................................................................................................................... 5
+4. Regulations Controlling Chemical Use ..................................................................................................................... 5
+5. Substance Restrictions ............................................................................................................................................. 6
+5.1 TSCA PBT substances: ........................................................................................................................................ 6
+5.2 REACH ANNEX XIV Substances .......................................................................................................................... 6
+5.3 REACH ANNEX XVII Substances ......................................................................................................................... 6
+5.4 REACH SVHC substances: ................................................................................................................................... 6
+5.5 California Proposition 65 ..................................................................................................................................... 6
+5.6 Stockholm Convention on Persistent Organic Pollutants ................................................................................... 7
+5.7 Montreal Protocol on Substances that deplete the Ozone Layer ....................................................................... 7
+5.8 Minamata Convention on Mercury....................................................................................................................... 7
+5.9 Restricted Substances in parts for use in Electronic Equipment (RoHS) ........................................................... 7
+5.10 Per and Polyfluoroalkyl -Substances (PFAS) .................................................................................................. 8
+6. Battery Content Restrictions ..................................................................................................................................... 9
+7. Packaging Content Restrictions ............................................................................................................................. 10
+8. Phytosanitary Measures for Solid Wood Packaging Materials ............................................................................. 10
+9. Product Labeling and Marking Requirements ........................................................................................................ 11
+9.1 Battery Labeling Requirements .......................................................................................................................... 11
+9.2 Battery Declaration of Conformity Requirements ............................................................................................. 11
+9.3 Mercury Product Labeling Requirements .......................................................................................................... 11
+9.4 Paper and Plastic Packaging Labeling Requirements ...................................................................................... 11
+9.5 Packaging Declaration of Conformity Requirements ........................................................................................ 11
+9.6 Product Information and Labeling Requirements ............................................................................................. 11
+APPENDIX A Labeling Requirements for Batteries, Consumer Products Containing Batteries, and their Packaging .. 13
+APPENDIX B Labelling Requirements for Packaging and Packaging Materials ............................................................ 16
+APPENDIX C: Exemptions for application specific restrictions ...................................................................................... 19
+2 November 2024General Specification for the Environment
+1. Purpose
+This General Specification for the Environment (GSE) establishes Agilent Technologies’ (Agilent’s)
+general requirements for purchased parts, components, materials and products that are
+incorporated into Agilent products.
+The requirements described in this specification are relevant to all parts, components, materials and
+products that are supplied to Agilent. In most cases the requirements originate from regulations
+applicable to Agilent products, and as such Agilent ensures that the components for its products
+enable Agilent’s products to comply with regulations in global markets. As such, it is possible that
+these specifications are stricter than the requirements in the location of the supplier or the Agilent
+entity purchasing the products.
+2. Scope
+This specification provides Agilent’s general requirements for restricting or prohibiting certain
+substances as constituents of parts, components, and/or materials in products and packaging
+purchased by Agilent worldwide.
+This specification covers:
+• Chemical registration and reporting requirements
+• Product content and Ozone Depleting Substances (ODS) use restrictions
+• Battery content restrictions
+• Packaging content restrictions
+• Phytosanitary measures for solid wood packaging materials
+• Product labeling and marking requirements
+• Product end of life labeling requirements
+Except ODS, this specification does not apply to substances used in the process of manufacturing
+any parts, component materials, or products sold to Agilent.
+This specification is not intended to be a listing of all product content limitations or restrictions that
+may be established as a matter of law. Seller's compliance with this specification does not relieve or
+diminish Seller's obligation to comply with all applicable laws.
+Should a conflict occur between this specification and an Agilent family or individual part
+specification, clarification should be sought from your Agilent sourcing manager. Express
+3 November 2024General Specification for the Environment
+permission from Agilent is required prior to the supply of any product that does not meet the
+requirements in this document.
+Legal and/or regulatory requirements that exceed these specifications in the country of manufacture
+or sale of purchased parts, components, and products are to be used, take precedence over this
+specification.
+This specification is in addition to, and does not in any way limit or supersede, any other product
+specifications that may be established by Agilent.
+If a supplier believes that any parts, products, components, materials or assemblies they are
+supplying to Agilent do not conform to the GSE, or this document requires informing or reporting to
+Agilent, the supplier must send an e-mail to gse_inquiry@agilent.com and copy their Agilent Buyer
+before the supply of any product, component or materials. The e-mail should detail the specific non-
+conformity and the Agilent/manufacturer part numbers affected. Response to this email from
+Agilent specifically accepting the non-compliance must be provided prior to shipment to Agilent
+4 November 2024General Specification for the Environment
+3. Chemical Registration
+Each chemical substance contained in parts, components, materials and products sold to Agilent
+must comply with chemical registration and pre-manufacture notification requirements in those
+countries that have enacted such requirements (including but not limited to: Australia, Canada,
+China, Japan, South Korea, Switzerland, United States, and countries of the European Union). The
+intent of these requirements is to permit import and sale of the parts, components, materials and
+products sold to Agilent in all of these countries.
+4. Regulations Controlling Chemical Use
+Environmental and chemical regulations introduce requirements on economic operators involved in
+the supply chain of products containing chemicals that are hazardous to human or environmental
+health. These regulations typically prohibit, restrict or require notification of chemicals when they are
+imported or placed on a market.
+In Section 5, we list chemicals and legislation that controls the use of chemicals in any products.
+Section Error! Reference source not found. covers specific applications where chemicals are
+controlled. The threshold limits on the use of these chemicals is the maximum concentration levels
+at which the presence of a substance can be tolerated. Unless indicated otherwise, threshold limits
+apply to the mass concentration of a substance in any homogenous material.
+Agilent has a strong preference for all supplied products to Agilent to be free from any substances
+that are controlled in any way. There are, however, some product categories where derogations exist
+enabling the use of otherwise restricted or prohibited chemicals.
+It is essential, with no exceptions, that Agilent is informed of any products containing any
+substances that are prohibited, restricted or require notification before these products are supplied
+to Agilent. Suppliers must communicate information to gse_inquiry@agilent.com and to their Agilent
+buyer.
+There are no applicable exemptions for regulations on content of material in packaging and
+batteries. Batteries and Packaging supplied to Agilent must comply with the content requirements in
+Sections 6 and 7, and those restrictions on wood packaging in Section 8.
+5 November 2024General Specification for the Environment
+5. Substance Restrictions
+Unless indicated otherwise, the following restrictions are applicable to any article supplied to Agilent
+and the thresholds are defined in weight/weight (w/w) in any homogeneous material. Where a
+substance is present, when reporting to Agilent the identity of the substance(s) must be provided
+(name, chemical formula & CAS number) and the concentration, location and total weight of the
+substance(s) in the product.
+Where “product” is used this includes all articles including components, sub-assemblies and finished
+products including packaging materials and materials used in the assembly of Agilent products.
+5.1 TSCA PBT substances:
+Products, parts and articles supplied to Agilent should not contain any substances in “the Regulation
+of Persistent, Bioaccumulative, and Toxic Chemicals Under TSCA Section 6(h)” above the regulated
+concentration limits. Any parts containing these substances must be reported to Agilent and
+permission given prior to shipment. Note that new substances will be added yearly.
+The following link to the US Environmental Protection Agency is provided for convenience.
+https://www.epa.gov/assessing-and-managing-chemicals-under-tsca/persistent-bioaccumulative-
+and-toxic-pbt-chemicals
+5.2 REACH ANNEX XIV Substances
+Products supplied to Agilent should not contain any substance listed in Annex XIV of EC No
+1907/2006 (REACH) as amended above 0.1% (w/w) in any homogenous material. Use of these
+material requires authorization. The presence of any substance listed in Annex XIV, including under
+any derogation, in a product, part or article must be reported to Agilent prior to supply.
+5.3 REACH ANNEX XVII Substances
+Products supplied to Agilent should not contain any substance for which Annex XVII of EC No
+1907/2006 (REACH) contains a restriction unless it complies with the condition of that restriction.
+Agilent must be informed of the supply of any product containing any substance in Annex XVII
+whether or not the restriction applies and irrespective of any derogation.
+5.4 REACH SVHC substances:
+Any products containing any Substances of Very High Concern (SVHC) included on the Candidate
+List as defined in Article 59 of EC No. 1907/2006 (REACH) as amended above 0.1% (w/w) in any
+homogeneous material must be reported to Agilent. Note that the Candidate List is updated every 6
+months.
+https://echa.europa.eu/candidate-list-table
+5.5 California Proposition 65
+Products supplied to Agilent should not contain any substances listed in the California Safe Drinking
+Water and Toxic Enforcement Act of 1965, commonly known as Proposition 65. Any parts
+6 November 2024General Specification for the Environment
+containing any substances on this list must be reported to Agilent. There are minimal to no
+thresholds for the content of substances on Proposition 65; therefore, any parts with any known
+content of a restricted substance must be reported. The Proposition 65 list is updated annually.
+The Proposition 65 List - OEHHA (ca.gov)
+5.6 Stockholm Convention on Persistent Organic Pollutants
+Products supplied to Agilent should not intentionally contain any substances listed in Annex A or
+Annex B of the Stockholm Convention. This includes any substances intentionally added within the
+downstream supply chain. Where specific exemptions in the Stockholm convention allow the use of
+any of these substances this must be clearly notified to the Agilent purchasing team, and the
+information clearly indicated on documentation provided with the product.
+5.7 Montreal Protocol on Substances that deplete the Ozone Layer
+Products supplied to Agilent should not contain any substances listed in Annex A, B, C, E or F of the
+Montreal Protocol. Any parts containing any of the substances in these Annexes must be reported
+to Agilent prior to sale or delivery.
+5.8 Minamata Convention on Mercury
+Products supplied to Agilent should not intentionally contain mercury, other than products covered
+by exemptions in Annex C. Note that there are specific limits for the content of mercury in electrical
+and electronic equipment through the RoHS legislation (2011/65/EU) (see section 5.9) and within
+batteries through the Battery Regulations (EU 2023/1542) (see section 6).
+5.9 Restricted Substances in parts for use in Electronic Equipment (RoHS)
+Parts that may be used by Agilent in electronic equipment are required to be RoHS compliant. Any
+parts that are required to be RoHS compliant must meet the requirements of the EU RoHS directive
+2011/65/EU as amended. Such parts must not contain the following substances above threshold in
+any homogenous material:
+Substance Threshold
+Lead 0.1%
+Mercury 0.1%
+Cadmium 0.01%
+Hexavelent Chromium 0.1%
+Polybrominated biphenyls (PBB) 0.1%
+Polybrominated diphenyl ethers (PBDE) 0.1%
+Bis(2-ethylhexyl) phthalate (DEHP) 0.1%
+Butyl benzyl phthalate (BBP) 0.1%
+Dibutyl phthalate (DBP) 0.1%
+7 November 2024General Specification for the Environment
+Diisobutyl phthalate (DIBP) 0.1%
+Exemptions for specific applications exist where the use of such materials is essential. Not all
+exceptions are applicable for Agilent products. Only exemptions listed in Appendix C may be used.
+5.10 Per and Polyfluoroalkyl -Substances (PFAS)
+Any products supplied to Agilent containing PFAS as defined within the ECHA Annex XV Restriction
+Report, Proposal for a Restriction on PFAS, dated 22 March 2023 or defined within TSCA 40 CFR Part
+705 must be reported to Agilent, providing the concentration and total weight of each PFAS present
+in the product.
+8 November 2024General Specification for the Environment
+6. Battery Content Restrictions
+All batteries supplied to Agilent should meet the definition of a ‘portable battery’ according to
+Regulation (EU) 2023/1542 and, as such, weigh 5kg or less. In the case of a requirement to supply a
+battery that is not a portable battery, specific permission should be obtained from Agilent prior to
+supply. Such requests will be reviewed on a case-by-case basis.
+The substances in the table below are prohibited or restricted for use in batteries supplied to Agilent.
+In case of a conflict, battery-specific thresholds from this section prevail over the thresholds from
+general restrictions or specific applications for the listed applicable battery types.
+Substance Applicable Batteries Threshold
+(Not to Exceed)
+Cadmium All batteries 0.002% by battery
+weight
+Lead All batteries 0.004% by battery
+weight
+Mercury and its Alkaline-Manganese button cell 0.0005% by weight
+compounds in homogenous
+material
+All other batteries Must not be
+present
+Lithium batteries; coin cell batteries 0.6 ppm by battery
+Perchlorates
+weight
+All lithium metal and lithium ion cells or batteries must meet the requirements of each test in the
+current UN Manual of Tests and Criteria, Part III, subsection 38.3, in addition to any additional
+requirements specified in the European Agreement Concerning the International Carriage of
+Dangerous Goods by Road (ADR), the International Air Transport Association (IATA), the International
+Maritime Dangerous Good Code (IMDG), and the Hazardous Materials Regulations of the United
+States Department of Transportation (49CFR). Upon request, the vendor will provide a copy of the
+specific test results should Agilent be required to supply it to local authorities.
+9 November 2024General Specification for the Environment
+7. Packaging Content Restrictions
+The substances listed in the table below (see additional details in Appendix B) are prohibited for use
+in packaging materials purchased by Agilent and in the packaging of products sold by Agilent. In
+case of a conflict, the specific packaging material thresholds from this section prevail over the
+thresholds from general restrictions, specific applications or battery restrictions, but only for the
+listed packaging applications.
+Substance Restricted Application Threshold
+(Not to Exceed)
+Arsenic Compounds In wooden packaging and packaging materials Must not be present
+Cadmium, Chromium VI Packaging, packaging materials and packaging inks Must not be present.
+(Hexavalent Chromium) Incidental presence not
+Compounds, Lead and to exceed a total sum
+Mercury concentration of 100
+ppm (100mg/kg)
+Cobalt dichloride In packaging materials (e.g. as moisture indicator) Must not be present
+Ozone depleting substances Foaming agent Must not be present
+CFCs and HFCs
+8. Phytosanitary Measures for Solid Wood Packaging Materials
+The following requirement applies to packaging materials purchased by Agilent and used to package
+the products sold by Agilent.
+Packaging wood shall be free from bark, insects and damage caused by them. Solid wood
+packaging materials shall be heat treated or kiln dried to a minimum core temperature of 56°C for at
+least 30 minutes in a closed chamber or kiln, which has been tested, evaluated and approved
+officially for this purpose. In addition, the susceptible wood shall display an officially approved heat
+treated or kiln dried marking enabling the identification of where and by whom the above treatment
+has been carried out. A logo or mark, officially endorsed by the NPPO (National Plant Protection
+Organization) of the country from which the wood packaging materials originate must be
+permanently affixed to each unit of wood packaging material, and in a location that will remain
+visible and obvious when packaging is used for shipment of Agilent product(s). Fumigation,
+Chemical Pressure Impregnation (CPI) or other chemical means are not to be used.
+10 November 2024General Specification for the Environment
+9. Product Labeling and Marking Requirements
+9.1 Battery Labeling Requirements
+Batteries, rechargeable consumer products, and their packaging must have a durable label with the
+symbol(s) and wording according to the requirements specified in Appendix A. Information should
+be supplied with products containing a battery to identify the nature of the battery. Products with
+user-removable batteries should be supplied with information on the safe insertion and removal of
+the batteries.
+9.2 Battery Declaration of Conformity Requirements
+Batteries, including those contained in parts, components and products, must comply with the China
+battery registration requirements for no mercury content. A “Suppliers' Declaration of conformity”
+issued by the battery manufacturer and an SDS must be provided when requested.
+Batteries supplied to Agilent after must be CE marked and be provided with an EU Declaration of
+Conformity in compliance with the EU Regulation EU 2023/1542.
+9.3 Mercury Product Labeling Requirements
+Removable mercury lamps, as well as products containing mercury lamps, must be labeled in
+accordance with local regulatory requirements.
+9.4 Paper and Plastic Packaging Labeling Requirements
+All suppliers of paper and plastic packaging materials must ensure that the material is identified,
+marked and labeled. Refer to Appendix B.
+9.5 Packaging Declaration of Conformity Requirements
+Packaging suppliers must provide a Declaration of Conformity regarding the requirements described
+in section 6.1 when requested.
+9.6 Product Information and Labeling Requirements
+Agilent requires Suppliers to comply with the Chinese Administrative Measures for the Restriction of
+Hazardous Substances in Electrical and Electronic Products. Suppliers to Agilent are responsible for
+ensuring such goods sold and shipped to China meet the information and labeling requirements,
+including the following:
+• Reflect the required product label (which in most cases will include an EFUP or
+Environmental Friendly Use Period number),
+• Reflect the required toxic/hazardous substance table in the product manual or shipment
+insert which accompanies the product, and
+11 November 2024General Specification for the Environment
+• Reflect the date of manufacture. For further details or questions contact your Agilent
+representative.
+Product End of Life Labeling Requirements: All electrical and electronic products requiring the
+European CE mark must also have the crossed-out wheeled bin label with bar.
+12 November 2024General Specification for the Environment
+APPENDIX A Labeling Requirements for Batteries, Consumer Products Containing
+Batteries, and their Packaging
+As defined in Section 6, all Batteries, rechargeable consumer products, and their packaging must
+have the markings defined in the following table and subsequent requirements. Note that all
+batteries supplied must be portable batteries and, as such, the following labelling only applies to
+portable batteries.
+PRODUCT TYPE REQUIRED SYMBOLS WORDING ON LABEL
+All Battery types - Manufacture’s name and address
+- Battery capacity
+Lithium Ion cells and - “Lithium Ion” or “Li-Ion”
+batteries
+- See Notes 2, 3 4
+Or general recycling symbol
+Nickel metal hydride - “CONTAINS NICKEL METAL
+batteries HYDRIDE (NiMH) BATTERY”
+or “Ni-MH”
+Or general recycling symbol
+Note 2 - Lithium ion cells Watt-hour (Wh) rating must be 20 Wh or less.
+Note 3 - Lithium ion batteries or battery packs Watt-hour (Wh) rating must be 100 Wh or less.
+Note 4 – Lithium ion batteries or battery packs must be marked with the Watt-hour (Wh) rating on
+the outside case.
+EU CE Mark
+All batteries supplied to Agilent after 18th February 2024 must have been through a conformity
+assessment according to the EU 2023/1542 and bear the CE mark.
+EU Capacity Labeling for rechargeable batteries
+All portable rechargeable batteries intended to be replaced by the end user, either standalone cells or
+battery packs, except for lead-acid, must have their capacity in milliamp hours on the label expressed
+as an integer using the abbreviation ‘mAh’. Lead-acid batteries intended to be replaced by the end
+user must have their capacity in amp hours on the label expressed as a decimal number with one
+digit using ‘Ah’.
+13 November 2024General Specification for the Environment
+Text size for battery packs:
+• For battery packs where the largest side is below 70 cm², the text shall have a minimum size
+of 1,0 × 5,0 mm (H × L).
+• For battery packs where the largest side is equal to or above 70 cm², the text shall have a
+minimum size of 2,0 × 5,0 mm (H × L).
+• The label shall be located only on the external housing, not on each individual cell inside the
+housing.
+• Text size for individual cells, except button cells:
+• The text shall have a minimum size of 1,0 × 5,0 mm (H × L).
+• Applies to batteries and accumulators sold without packaging
+• The label shall be located on the battery or accumulator itself.
+For batteries sold with packaging, the capacity labels must also be located on the packaging.
+Additional marking requirements for non-rechargeable batteries (all chemistries)
+• Battery manufacturer brand name
+• Model designation
+• Expiration date (month / yr)
+• Country of origin
+Crossed out wheeled bin symbol Size Requirements
+All batteries shall show the crossed out wheeled bin symbol as shown in the table above shall cover
+at least 3% of the area of the largest side of a battery, up to a maximum of symbol size of 5cm x
+5cm.
+For cylindrical batteries the symbol must cover at least 1.5% of the surface area of the battery, up to
+a maximum size of 5cm x 5cm.
+If the battery is of such as size that the symbol would be smaller than 0.47cm x 0.47cm, the battery
+does not need to be marked, however the packaging should have a symbol of at least 1cm x 1cm.
+Label Durability
+14 November 2024General Specification for the Environment
+The labels on batteries shall be printed or engraved visibly, legible and indelibly on the battery.
+Where this is not possible due to size constraints, where permitted the labels will be present on the
+packaging and documentation accompanying the battery.
+15 November 2024General Specification for the Environment
+APPENDIX B Labelling Requirements for Packaging and Packaging Materials
+Packaging and packaging materials shall be marked in accordance with the following guidance.
+Additional restrictions identified in the GSE are also applicable to Agilent Packaging Materials
+including but not limited to Restrictions in Packaging Section 7 and applicable requirements for
+wood packaging identified in Section 8. This requirement applies to all primary, secondary and
+tertiary packaging for products, parts, subassemblies, materials and supplies obtained by Agilent for
+incorporation or distribution to Agilent customers.
+The objective of these stated requirements is to ensure that the choice of packaging materials used
+is recyclable, including cushioning material, plastic materials, corrugated containers and wood crate
+systems. Suppliers are discouraged from using permanent glues or adhesives to attach various
+materials. This applies to molded and fabricated cushioning material, plastic film, bagging materials,
+paperboard/corrugated fiberboard and wooden crates.
+Packaging made of Wood, including Wooden Crates
+As per Section 8, all wooden crates, packaging made of wood and pallets made of wood must be
+treated and marked in accordance with the provisions of the International Standard for Phytosanitary
+Measures (ISPM) #15: Guidelines for Regulating Wood Packaging Material in International Trade.
+Please note that as stated in section 8 that Fumigation, Chemical Pressure Impregnation (CPI) or
+other chemical means are not to be used.
+Material Coding Identification
+All products and materials supplied to Agilent commonly used in packaging materials, or specified
+for use in packaging Agilent products must be marked such as to enable the end user to separate
+and appropriately dispose of the packaging. This also applies to the packaging of products supplied
+to Agilent that is directly supplied to the end user as part of an Agilent system or a spare part.
+The numerical and abbreviation system of labelling follows European Union directive 97/129/EC, and
+applies to all material types. The tables below provide a summary of the applicable coding that is
+required to be permanently embossed, marked or labeled on all components of the packaging
+system. Symbols must meet minimum sizing requirements. Smaller identification symbols are
+permitted when the part or unit size does not allow the minimum size to be placed on the unit or
+part. The identification marking and symbol must be placed on the item either on the bottom or
+other conspicuous location and must be durable, legible and clearly visible. Capital letters must be
+used for all text.
+16 November 2024General Specification for the Environment
+Name of Polyester High-Density Polyvinyl Low-Density Polypropylene Polystyrene Other
+plastic Polyethylene Chloride Polyethylene Plastic
+Plastic code 01 02 03 04 05 06 07
+Abbreviation PET HDPE PVC LDPE PP PS Others
+code name
+Example of
+marking
+Plastic codes and corresponding abbreviation code names
+Name of Steel Aluminum Paper Corrugated Non-corrugated Wood Colourless
+Material Fibreboard Fibreboard Glass
+Material 40 41 22 20 21 50 70
+code
+Abbreviation FE ALU PAP PAP PAP FOR GL
+code name
+Example of
+marking
+General material codes and abbreviations. Additional codes & abbreviations for colored glass,
+composites and other materials can be found in 97/129/EC
+Chinese Mark on Paperboard and Corrugated Fiberboard
+The markings must be compliant with the Paper Packaging Material Codes according to National
+Standard of the People’s Republic of China, GB/ T 18455-2010: Use of the Chinese mark with other
+internationally required marks is acceptable as long as equivalence to the Chinese requirements are
+guaranteed. The mark can be used in conjunction with the international alphanumeric paper
+designation.
+Paper Packaging Material Initials Packaging Type
+Fiberboard, Corrugated CFB Shipping cartons, layer pads, dividers and over packs
+Corrugated Cardboard CB Stiffeners, corner guards and edge guards
+Paperboard PB Chipboard cartons
+Paper WPP Tissue and molded pulp
+Non Corrugated solid Fiberboard NCFB Stiffeners, corner guards and edge guards
+17 November 2024General Specification for the Environment
+Size requirements for the Chinese mark. The mark size is to be 40 mm by 40 mm. For especially
+large or small package component sizes the mark may be appropriately enlarged or reduced, or as
+identified in the National Standard of the People’s Republic of China, GB/ T 18455-2010.
+Components of the Chinese mark. The Chinese mark for paper-based packaging materials consists
+of the chasing arrows triangle with the appropriate alpha designators centered below the arrow. See
+the example below. Placing the alpha designators inside the triangle is also acceptable. Recycling
+marks are required in accordance with Chinese Standard GB 18455-2001 or equivalent international
+standard.
+18 November 2024General Specification for the Environment
+APPENDIX C: Exemptions for application specific restrictions
+The following exemptions derived from EU RoHS Directive 1011/65/EC. When using any exemptions
+to exceed the restricted concentrations listed in Section 5.9, this must be stated on the Declaration
+of Conformity (if provided), or otherwise explicitly stated in the information provided. Not all RoHS
+exemptions can be used by Agilent products. Only the exemptions listed below may be used.
+EU RoHS Substance Exemption Text
+Exemption
+Annex III 4(f)-I Mercury Mercury in other discharge lamps for special purposes not specifically mentioned
+in this Annex
+Annex III 4(f)-IV Mercury Mercury in lamps emitting light in the ultraviolet spectrum
+Annex III 6(a) Lead Lead as an alloying element in steel for machining purposes and in galvanised
+steel containing up to 0.35 % lead by weight.
+Annex III 6(b) Lead Lead as an alloying element in aluminium containing up to 0.4 % lead by weight.
+Annex III 6(c) Lead Copper alloy containing up to 4 % lead by weight.
+Annex III 7(a) Lead Lead in high melting temperature type solders (i.e. lead- based alloys containing 85
+% by weight or more lead).
+Annex III 7(c)-I Lead Electrical and electronic components containing lead in a glass or ceramic other
+than dielectric ceramic in capacitors, e.g. piezoelectronic devices, or in a glass or
+ceramic matrix compound.
+Annex III 7(c)-II Lead Lead in dielectric ceramic in capacitors for a rated voltage of 125 V AC or 250 V
+DC or higher.
+Annex III 8(b) Cadmium Cadmium and its compounds in electrical contacts.
+Annex III 13(a) Lead Lead in white glasses used for optical applications.
+Annex III 13(b) Cadmium, Cadmium and lead in filter glasses and glasses used for reflectance standards.
+Lead
+Annex III 15 Lead Lead in solders to complete a viable electrical connection between semiconductor
+die and carrier within integrated circuit flip chip packages
+Annex III 24 Lead Lead in solders for the soldering to machined through hole discoidal and planar
+array ceramic multilayer capacitors.
+Annex III 34 Lead Lead in cermet-based trimmer potentiometer elements.
+Annex IV 10 Cadmium, Lead and cadmium in atomic absorption spectroscopy lamps.
+Lead
+19 November 2024

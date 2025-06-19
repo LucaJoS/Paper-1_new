@@ -1,0 +1,157 @@
+INDEPENDENT ASSURANCE STATEMENT
+To: Stakeholders of Agilent Technologies
+Objectives and Responsibilities
+Apex Companies, LLC (Apex) has been engaged by Agilent Technologies (Agilent) to provide
+moderate assurance of select environmental data for Agilent’s 2023 ESG Report (Report). This
+assurance statement applies to the related information included within the scope of work
+described below.
+The environmental data were assured according to the reporting and assurance standards
+noted below.
+This information and its presentation are the sole responsibility of the management of Agilent.
+Apex was not involved in the preparation of the Report. Our sole responsibility was to provide
+independent assurance on its content.
+Boundaries of the Environmental Data covered by the assurance:
+• Operational Control
+• Worldwide
+Environmental data assured and reviewed:
+Category Source Quantity Units
+Scope 1 20,460 Metric tons CO2
+equivalent
+Scope 2 (Location-Based) 48,159 Metric tons CO2
+equivalent
+Greenhouse Gas
+Emissions
+Scope 3 - Upstream 78,239 Metric tons CO2
+Transportation & Distribution equivalent
+Scope 3 - Business Travel 10,360 Metric tons CO2
+equivalent
+Water Withdrawals 338,920 Cubic meters
+Treated 1,833 Metric tons
+Incinerated 4,871 Metric tons
+Hazardous Waste Landfilled 95 Metric tons
+Recycled 2,231 Metric tons
+Total Hazardous Waste 9,031 Metric tons
+Composted 496 Metric tons
+Recycled 2,030 Metric tons
+Landfilled 223 Metric tons
+Solid Waste
+Incinerated 549 Metric tons
+Offsets 250 Metric tons
+Total Solid Waste 3,547 Metric tons
+Data and information supporting the Scope 1 GHG emissions, Scope 2 (Location-Based) GHG
+emissions, waste and water assertions were primarily historical in nature.
+Data and information supporting the Scope 3 GHG emissions statement were in some cases
+estimated rather than historical in nature.
+WATER • ENVIRONMENTAL • HEALTH & SAFETY • COMPLIANCE & ASSURANCE • INFRASTRUCTURE
+Apex Companies, LLC • (800) 733-2739 • www.apexcos.comPage 2
+Period covered by assured GHG emissions:
+• November 1, 2022 to October 31, 2023
+Criteria against which assurance was conducted:
+• World Resources Institute (WRI)/World Business Council for Sustainable Development
+(WBCSD) Greenhouse Gas (GHG) Protocol Corporate Accounting and Reporting
+Standard (Scope 1 and 2 Greenhouse Gas Emissions)
+• WRI/WBCSD Greenhouse Gas Protocol Corporate Value Chain Accounting and
+Reporting Standard (Scope 3 Greenhouse Gas Emissions)
+• Agilent Internal Company Protocol (Waste and Water)
+Assurance Protocol used by Apex:
+• The assurance engagement was performed in accordance with AccountAbility’s
+AA1000 Assurance Standard (AS) v3 and was conducted to meet the AA1000AS v3
+Type 2 moderate level of assurance requirements for the reported metrics.
+Level of Assurance and Qualifications
+• AA1000 AS v3 Moderate Type 2
+• This assurance used a materiality threshold of ±5% for aggregate errors in sampled
+data for each of the above indicators.
+• It is possible that Scope 1 emissions are materially different than reported, as there
+may be additional fuels, beyond natural gas, that were not reported by the majority of
+manufacturing sites. The quantities of these fuels and their associated emissions are
+unknown at this time.
+Limitations and Exclusions
+Excluded from the scope of our work is any assurance of information relating to:
+• Activities outside the defined assurance period;
+• Other statements and data not included in the Environmental Data Assured and
+Reviewed table shown above
+• Reporting for non-manufacturing locations
+• Positional statements (expressions of opinion, belief, aim or future intention by Agilent)
+and statements of future commitment; and
+• Emissions associated with refrigerant losses (Scope 1 GHG Emissions).
+Summary of Work Performed
+As part of its independent assurance, Apex undertook the following activities:
+1. Interviews with relevant personnel of Agilent and their consultants;
+2. Review of documentary evidence produced by Agilent and their consultants;
+3. Review of performance data including calculations, factors, supporting documentation
+and audit of a sample of which was traced back to the source data;
+4. Site visit to Agilent facility in Santa Clara, California; and
+5. Review of Agilent’s procedures and systems for collection, aggregation, analysis and
+review of dataPage 3
+Assurance Opinion
+Based on the process and procedures conducted:
+• Nothing has come to our attention to indicate that the GHG emissions, waste and
+water assertions shown above are not fairly stated in all material respects; and
+• It is our opinion that Agilent has established appropriate systems for the collection,
+aggregation and analysis of quantitative data within the scope of this assurance for
+the stated period and boundaries.
+Adherence to the AA1000 Accountability Principles
+Our assurance process included an evaluation of the reporting system for GHG emissions
+against the main principles of the AA1000AS v3:
+• Inclusivity
+• Materiality
+• Responsiveness
+• Impact
+Based on the work undertaken during this assurance process, nothing has come to our
+attention that Agilent does not adhere to the Accountability Principles of inclusivity, materiality,
+responsiveness and impact with regard to GHG emissions reporting as discussed below.
+Inclusivity
+During Agilent’s updates to its materiality assessment in 2023, they worked with internal and
+stakeholders to identify material topics, asking questions and soliciting feedback, which helped
+inform Agilent’s identification of Climate Change and Chemicals Management as material
+topics for the organization. Agilent incorporates stakeholder feedback from all levels of the
+organization into their corporate and ESG strategy, including the measures they use to track
+success. Agilent’s Supplier Code of Conduct engages suppliers on several ESG issues around
+advancement towards Agilent’s net-zero by 2050 goals. Agilent manages a Procurement ESG
+Program for its suppliers, through which it convenes suppliers and highlights Agilent’s ESG
+expectations for their suppliers.
+Materiality
+Agilent conducted a materiality assessment in 2019, to identify issues that are material based
+on whether they have a significant impact to stakeholders and also are important to Agilent. In
+the years that have followed, Agilent has made updates to that assessment through
+engagement with internal stakeholders in the company. In recent updates, Chemicals
+Management and Climate Change have been determined to be material issues by Agilent as
+evidenced by the publication of commitments and established goals for GHG emissions
+reduction in their ESG Report.
+Responsiveness
+Agilent has demonstrated responsiveness through their efforts to develop the GHG emissions,
+waste and water data subject to this assurance in response to the CDP Climate Change
+Disclosure request and focus on Sustainable Development Goals (SDG), specifically SDG-13
+Climate Action and SBTi target setting and disclosure. Agilent participates in the EcoVadis
+sustainability assessment and received an EcoVadis Silver rating for 2023. Response to
+stakeholder issues in a broader sense is described in Agilent’s ESG Report.Page 4
+Impact
+Agilent has set a goal to achieve net-zero GHG emissions by 2050, along with goals to reduce
+waste generation and water consumption. Agilent’s SBTi targets were set and validated for a
+comparison against a 2019 baseline, and Agilent monitors progress towards its target against
+that baseline. Agilent installed new solar installations at its Delaware site and continues to
+explore opportunities for increased energy efficiency and renewable energy at its locations.
+Agilent performs robust processes to understand, measure, evaluate and manage the
+organization’s impacts that are applied across the organization under the governance of senior
+management, including key cross-functional involvement. Agilent creates and discloses a
+comprehensive and balanced understanding of the measurement and evaluation of the
+organization’s impacts on stakeholders and on the organization itself.
+Statement of independence, impartiality and competence
+Apex is an independent professional services company that specializes in Health, Safety,
+Social and Environmental management services including assurance with over 30 years history
+in providing these services.
+No member of the assurance team has a business relationship with Agilent, its Directors or
+Managers beyond that required of this assignment. We conducted this assurance
+independently and to our knowledge there has been no conflict of interest.
+Apex has implemented a Code of Ethics across the business to maintain high ethical standards
+among staff in their day-to-day business activities.
+The assurance team has extensive experience in conducting assurance over environmental,
+social, ethical and health and safety information, systems and processes, has over 20 years
+combined experience in this field and an excellent understanding of Apex’s standard
+methodology for the assurance of greenhouse gas emissions data.
+Attestation:
+Megan O’Neil, Lead Assuror John Rohde, Technical Reviewer
+ESG Program Manager ESG Principal Consultant
+Apex Companies, LLC Apex Companies, LLC
+Atlanta, Georgia Lakewood, Colorado
+April 23, 2024

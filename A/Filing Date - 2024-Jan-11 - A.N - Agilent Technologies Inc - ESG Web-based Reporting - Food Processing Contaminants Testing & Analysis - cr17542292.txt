@@ -1,0 +1,73 @@
+Food Processing Contaminants
+Testing & Analysis
+1 2 3
+Monitor Your Processes to Ensure Food Safety and Quality
+Food processing contaminants are unwanted and potentially harmful chemical by-products, formed
+when food undergoes some sort of processing reaction, such as heating, drying, or fermentation.
+Determining the levels of food processing contaminants is essential to ensure food safety and quality.
+Agilent provides process contaminant testing solutions for continuously monitoring levels of
+processing contaminants such as acrylamide, monochloropropanediols (MCPDs), and polyaromatic
+hydrocarbons (PAHs).
+Contact Us
+Quantification of Acrylamide in a Variety of Food
+Matrices by LC/MS/MS
+A method for the quantitation of acrylamide in food matrices using an
+Agilent 1290 Infinity II LC coupled to an Agilent 6470 Triple Quadrupole
+LC/MS system with Agilent MassHunter workstation software. This method
+for detection of food processing contaminants was applied to raw potato,
+potato chips (three different brands), processed black olives, raw and
+roasted salted almonds, raw hazelnut, roasted salted pistachios, and ready-
+to-drink coffee.
+Read now
+Determination of 2-MCPD and 3-MCPD Fatty Acid
+Esters in Infant Formula
+A reliable analytical method for simultaneous determination of 2-MCPD and
+3-MCPD fatty acid esters in infant formula in a single assay using the
+Agilent 8890 GC system and Agilent 5977B GC/MSD system. Optimized
+sample prep and GC/MS conditions resulted in a robust and reliable
+workflow for identifying food processing contaminants.Read now
+Determination of 19 Polycyclic Aromatic
+Hydrocarbon Compounds in Salmon and Beef
+This application note presents the development and validation of a
+multiresidue method for the analysis of multiple polycyclic aromatic
+hydrocarbon (PAH) residues in salmon and beef. The Agilent Captiva EMR—
+Lipid Cleanup, followed by analysis using GC/MS/MS provide a method that
+demonstrates acceptable recoveries (50–120 %) of all 19 PAHs, and
+excellent reproducibility, with LOQs below required EU Commission levels.
+Read now
+Process Contaminant Testing Solutions
+Analysis of Trace Elements in Contaminants Screening using Analysis of FAMEs, Fatty Acids,
+Palm Oil using ICP-MS GC/Q-TOF and Triglycerides
+More sensitivity for process Method for contaminants screening Take charge of process contaminant
+contaminant analysis using the Agilent using high‑resolution GC/Q-TOF and an testing: select the perfect J&W GC
+7850 ICP-MS method meets stringent expanded accurate mass library of column for your FAMEs, fatty acids, and
+detection levels for trace elements in pesticides and environmental pollutants. triglycerides application requirements.
+palm oil.
+Read now Read now
+Read now
+Additional Resources
+Assessment of Bisphenol A Specific Migration from Packaging Materials into Foods using UHPLC-
+MS/MS and LC with Fluorescence Detection
+Determination of 14 Polycyclic Aromatic Hydrocarbon Compounds in Edible OilMulti-Element Analysis of Foods using Fast Sequential-Flame AAS
+60-Second Screening of Foods using the Agilent QuickProbe GC/MS System
+Ensuring System Suitability for cis-trans FAMEs Analysis by AOAC 2012.13 on an Agilent 8890 GC
+with Retention Time Locking
+Analysis of Foods and Beverages Using Atomic Absorption Spectrometry
+Elemental Analysis of Palm Oil using ICP-OES
+Related Products
+6475 Triple Quadrupole 1260 Infinity II LC System 5977C GC/MSD 8890 GC System
+LC/MS
+For HPLC or UHPLC applications, The most reliable and Exceeds uptime and performance
+A smart, sensitive, and versatile with a pressure range up to 600 bar trusted single expectations with built-in
+LC/MS/MS system for routine and flow rates up to 10 mL/min. quadrupole GC/MS intelligence and remote access.
+analysis that maximizes uptime ... instrument
+Category: LC/MS Instruments Category: HPLC Systems Category: GC/MS Category: GC Systems
+Instruments
+ 
+1 - 4 of 10 results 1 2 3
+We’re here to help you with your food & beverage testing applications.
+Visit our Contact page to connect with an Agilent representative. You can also sign up to receive the
+latest information from Agilent related to food & beverage applications, including educational events,
+webinars, products and more.
+Request more information
+DE44434.6409375

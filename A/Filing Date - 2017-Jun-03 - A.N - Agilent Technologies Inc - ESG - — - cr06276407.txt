@@ -1,0 +1,3017 @@
+
+2016 CORPORATE CITIZENSHIP REPORT
+TABLE OF CONTENTS
+A LEADER IN CORPORATE CITIZENSHIP.........................................................5 G4-16 Membership in associations (such as industry associations) G4-32 In-accordance criteria used and location of GRI content
+and/or national in governance bodies; participates in index ………………………………………………………………………..……29
+COMMITTED TO IMPROVING LIVES ................................................................6 projects or committees; provides substantive funding
+beyond routine membership dues; or views membership G4-33 Policy and current practice with regard to seeking external
+VALUES...................................................................................................................7 as strategic………………………………………………………………….…..17 assurance for the report……………………………………………..…….29
+POLICIES.................................................................................................................8 IDENTIFIED MATERIAL ASPECTS AND BOUNDARIES
+GOVERNANCE, ETHICS AND INTEGRITY
+SUSTAINABILITY STRATEGY.............................................................................9 G4-17 List of entities included in consolidated financial state-
+ments.....................................................................................................19 G4-34 Governance structure of the organization, including
+committees under the highest governance body........................31
+PHILANTHROPY..................................................................................................10
+G4-18 Process for defining report content and aspect boundaries…....19
+G4-36 Details on whether the organization has appointed an
+AWARDS AND RECOGNITION ........................................................................11
+executive-level position or positions with responsibility
+G4-19 List all the material aspects identified in the process for
+for economic, environmental and social topics, and
+ORGANIZATIONAL PROFILE defining report content …………………………..…………………..……..19
+whether post holders report directly to the highest
+G4-3 Name of the organization..................................................................13 G4-20 For all the material aspects, define aspect boundaries governance body ……………………………………….............................31
+within organization ..…………………………………………………..……..23
+G4-4 Activities, brands, products, and services……...............................13 G4-38 Composition of the highest governance body and its
+G4-21 For all the material aspects, define aspect boundaries
+committees ………………………………………………….........................31
+G4-5 Location of organization’s headquarters........................................13 outside organization ..……………………….………………………..……..23
+G4-39 Details on whether the chair of the highest governance
+G4-6 Number of countries where the organization operates, and G4-22 Explanation of the effect of any restatement of information body is also an executive officer………………….............................31
+names of countries with either major operations or that are provided in earlier reports …..…………………………………………..…23
+specifically relevant to the sustainability issues covered in G4-45 Highest governance body’s role in the identification and
+the report..............................................................................................14 G4-23 Significant changes from previous reporting periods in the management of economic, environmental and social
+scope and aspect boundaries ..…………………………………….…….23
+impacts, risks, and opportunities ……………………………………….31
+G4-7 Nature of ownership and legal form................................................14
+STAKEHOLDER ENGAGEMENT G4-51 Remuneration policies for the highest governance body
+G4-8 Markets served (including geographic breakdown, sectors and senior executives for the following types of
+served, and types of customers/beneficiaries).............................14 G4-24 List of stakeholder groups engaged by the organization ............25 remuneration ………………………………………………………….……….32
+G4-9 Scale of the reporting organization..................................................15 G4-25 Basis for identification and selection of stakeholders with G4-54 Ratio of the annual total compensation for the organization's
+whom to engage ..…………………………………………………….………25 highest-paid individual in each country of significant
+G4-10 Information of employees and other workers ..……..………………15 operations to the median annual total compensation for all
+G4-26 Approaches to stakeholder engagement……………...………….…..25 employees (excluding the highest-paid individual) in the
+G4-11 Employees covered by collective bargaining agreements...........15 same country………………………………………………….......................32
+G4-27 Key topics and concerns raised through stakeholder
+G4-12 Describe organization supply chain ………......................................15 engagement ……………...………………………………..…………..……….27 G4-56 Organization’s values, principles, standards and norms
+of behavior such as code of conduct and codes of ethics……..32
+G4-13 Significant changes during the reporting period regarding REPORT PROFILE
+size, structure or ownership ………………………………………………16 ECONOMIC PERFORMANCE
+G4-28 Reporting period for information provided......................................29
+DMA EC Disclosure on Management Approach EC…………….…....……34
+G4-14 Precautionary approach on principle addressed by the
+G4-29 Date of most recent previous report................................................29
+organization……………………………………………………………….…….16
+G4-EC2 Financial implications and other risks and opportunities
+G4-30 Reporting cycle (annual, biennial, etc.)...........................................29 for the organization’s activities due to climate change……..36
+G4-15 Endorsement of externally developed economic,
+environmental and social charters principles, or other
+G4-31 Contact point for questions regarding the report or its G4-EC3 Coverage of the organization’s defined benefit plan
+initiatives …………………………………………………………………..…….16
+contents................................................................................................29 obligations………………………………………………………...........…..37
+2TABLE OF CONTENTS
+G4-EC4 Significant financial assistance received from G4-EN15 Total greenhouse gas emissions by weight………….…………..46 G4-EN34 Number of grievances about environmental impacts
+government……………………………………………………………….…37 filed, addressed, and resolved through formal grievance
+G4-EN16 Energy indirect greenhouse gas (GHG) and emissions mechanisms……………………………………………………………..….50
+G4-EC5 Range of ratios of standard entry-level wage by gender com- (scope2)……………………………………………………………...….……47
+pared to local minimum wage at significant SOCIAL: LABOR PRACTICES AND DECENT WORK INDICATORS
+locations of operation.……………………………………....…….…….37 G4-EN17 Other relevant indirect greenhouse gas emissions by
+weight (scope 3)…………………………………………………….….….47
+DMA LA Disclosure on Management Approach LA…………………….….52
+G4-EC6 Procedures for local hiring and proportion of senior manage-
+ment hired from the local community at G4-EN18 Greenhouse gas emissions intensity……………………….………47 G4-LA2 Benefits of full time employees……………………………………...53
+significant locations of operation…………………….……...………37
+G4-EN19 Reduction of greenhouse gas emissions…………………….……47
+G4-LA3 Return to work and retention rates after parental leave….....53
+G4-EC8 Significant indirect economic impacts, including the
+extent of impacts………………………………………………….……....38 G4-EN20 Emissions of ozone-depleting substances………………….…….48
+G4-LA4 Minimum notice period regarding operational changes……..53
+ENVIRONMENTAL G4-EN21 NOX, SOX and other significant air emissions by type
+G4-LA5 Health and safety committees…………………………………….….53
+and weight……………………………………………………………..…….48
+DMA EN Disclosure on Management Approach EN…………………...…..41 G4-LA6 Injury, diseases, lost days, absenteeism, and facilities……...54
+G4-EN22 Total water discharge by quality and destination……….……..48
+G4-EN3 Energy consumption within organization……………….…...……43 G4-LA7 Workers with high incidence or high risk of diseases
+G4-EN23 Total weight of waste by type and disposal method……………48 related to their occupation…………………………………….…….…54
+G4-EN4 Energy consumption outside the organization……….…….……44
+G4-EN24 Total number and volume of significant spills……….….………49 G4-LA8 Health and safety topics covered in agreements with
+G4-EN5 Energy intensity………………………………….…………….…………..44 trade unions…………………………………………………………………54
+G4-EN25 Weight of transported, imported, exported or treated
+G4-EN6 Reduction of energy consumption…………………..………………45 waste deemed hazardous under the terms of the Basel con- G4-LA9 Employee training…………………………………………………………54
+vention annex I,II,III and VIII and percentage of transported
+G4-EN7 Reduction in energy requirements of products and waste shipped internationally……………………………..….………49 G4-LA10 Programs for skills management and lifelong learning………55
+services………………………….…………………………………….……...45
+G4-EN26 Identity, size, protected status and biodiversity value of G4-LA11 Performance reviews………………………………………………….…55
+G4-EN8 Total water withdrawal by source…………………….…….……….45 water bodies and related habitats significantly affected
+by the reporting organization’s discharges of water G4-LA12 Composition of governance bodies and breakdown of
+G4-EN9 Water sources significantly aff ected by withdrawal of and runoff……………………………………………………………….…...49 employees for employee category…………………………………..55
+water……………………………….………………………………………….46 G4-EN27 Initiatives to mitigate environmental impacts of products
+and services, and extent of impact mitigation………..…………49 G4-LA13 Ratio of basic salary of women to men……………………………55
+G4-EN10 Percentage of total volume of water recycled and
+reused…………………………………………………………………………46 G4-EN28 Percentage of products sold and their packaging G4-LA16 Number of grievances about practices filed, addressed,
+materials that are reclaimed by category……………..…………..50 and resolved through formal grievance mechanisms………...56
+G4-EN11 Operational sites owned, leased, managed in, or adjacent
+to, protected areas and areas of high biodiversity value G4-EN29 Monetary value of significant fines and total number SOCIAL: HUMAN RIGHTS
+outside protected areas…………………………………………………46 of non-monetary sanctions for non-compliance with
+environmental laws and regulations……………………….……….50
+DMA HR Disclosure on Management Approach HR……………….……….58
+G4-EN12 Description of significant impacts of activities, products,
+and services on biodiversity in protected areas and areas G4-EN30 Significant environmental impacts of transporting
+G4-HR1 Percentage and total number of significant investment
+of high biodiversity value outside protected areas……….……46 products and other goods and materials for the
+agreements and contracts that include human rights
+organization’s operations, and transporting members
+clauses or that have undergone human rights
+G4-EN13 Habitats protected or restored……………………………….……….46 of the workforce………………………………………………….………..50
+screening…………………………………………………………….……….58
+G4-EN14 Total number of IUCN Red list species and national conserva- G4-EN31 Total environmental protection expenditures and
+G4-HR2 Total hours of employee training on policies and
+tion list species with habitats in areas affected investments by type………………………………………………...…...50
+procedures concerning aspects of human rights that
+by operations, by level of extinction risk……………….………….46
+are relevant to operations, including the percentage
+of employees trained……………………………………………….…….59
+3TABLE OF CONTENTS
+G4-HR3 Total number of incidents of discrimination and G4-SO5 Actions taken in response to incidents of corruption……...…64 G4-PR8 Total number of substantial complaints regarding
+corrective actions taken…………………………………….…………..59 breaches of customer privacy and losses of data………...…...67
+G4-SO6 Total value of financial and in-kind contributions to
+G4-HR4 Operations and significant suppliers identified in which political parties, politicians, and related institutions G4-PR9 Monetary value of significant fines for non-compliance
+the right to exercise freedom of association and by country……………………………………………………………...…….64 with laws and regulations concerning the provision
+collective bargaining may be at significant risk, and and use of products and services……………………………..…….67
+actions taken to support these rights……………………………...59 G4-SO7 Total number of legal actions for anti-competitive
+behavior, antitrust, and monopoly practices and their out- GLOSSARY AND ACRONYMS.…..…..…………………………………..……..68
+G4-HR5 Operations and significant suppliers as having significant comes………………………………………………………………………….64
+risk for incidents of child labor, and measure taken to CONTACT US….……..………………………………………………………...…………70
+contribute to the elimination of child labor………….……………59 G4-SO8 Monetary value of significant fines and total number
+of non-monetary sanctions for non-compliance with
+G4-HR6 Operations and significant suppliers as having significant laws and regulations……………………….…………………………….64
+risk for incidents of forced or compulsory labor, and
+measures to contribute to the elimination of all forms of SOCIAL: PRODUCT RESPONSIBILITIES
+forced or compulsory labor……………………………………….……60
+DMA PR Disclosure on Management Approach PR……………………..….66
+G4-HR7 Percentage of security personnel trained in the
+organization’s policies or procedures concerning aspects G4-PR1 Percentage of significant product and service
+of human rights that are relevant to operations………….…….60 categories for which health and safety impacts are
+assessed for improvement …………………………………………….66
+G4-HR8 Total number of incidents of violations involving rights of
+indigenous people and action taken………………………….…….60 G4-PR2 Total number of incidents of non-compliance with
+regulations and voluntary codes concerning health
+G4-HR11 Significant actual and potential negative human rights im- and safety impacts and services during their life cycle
+pacts in the supply chain and actions taken…………...………..60 by type of outcomes………………………………………………………66
+G4-HR12 Number of grievances related to human rights filed, G4-PR3 Type of product and service information required by proce-
+addressed, and resolved through formal grievance dures and percentage of significant products and services
+mechanisms……………………………………………………..……..…..60 subject to such information requirements………………………..66
+SOCIAL: SOCIETY G4-PR4 Total number of incidents of non-compliance with
+regulations and voluntary codes concerning product
+DMA SO Disclosure on Management Approach SO…………….………….62 and service information and labeling, by type of
+outcomes……………………………………………………….…………….67
+G4-SO1 Percentage of operations with implemented local
+community engagement, impact assessments and develop- G4-PR5 Practices related to customer satisfaction, including
+ment programs……………………………………………………...……..63 results of surveys measuring customer satisfaction……...….67
+G4-SO2 Operations with significant potential or actual negative im- G4-PR6 Sale of banned or disputed products…………………….…...…….67
+pacts on local communities………………………….…………..……64
+G4-PR7 Total number of incidents of non-compliance with
+G4-SO3 Percentage and total number of business units regulations and voluntary codes concerning marketing
+analyzed for risks related to corruption………………….…..…….64 communications, including advertising, promotion
+and sponsorship by type of outcomes……………………….…….67
+G4-SO4 Communication and training on anti-corruption policies
+and procedures………………………………………..……………….…..64
+4A LEADER IN CORPORATE CITIZENSHIP
+Outstanding corporate citizenship has three components, all of
+which are important priorities for Agilent.
+The first is corporate governance -- the practices that maintain the
+highest standards of integrity and transparency. Our uncompromising
+integrity is core in all our dealings with customers and suppliers.
+The second is the role we play in our communities. Our efforts to be
+good corporate citizens strengthen our competitiveness and improve
+our communities around the world.
+The third is a dedicated focus on sustainability, for our products and
+our operations. We strive to honor our social obligations by being an
+economic, intellectual and sustainability leader in every nation and
+community where we operate.
+EMPLOYEE PHOTOGRAPHY
+The photos in this collage and throughout this report are employee submissions to the Agilent
+Eye photo contest. This friendly competition encourages employees to unleash their creative and
+artistic sides, and gives colleagues around the globe a chance to see the world in a new way."
+5
+BACK TO TOCC OMMITTED TO IMPROVING LIVES
+A message from Mike McMullen, President and CEO of Agilent Technologies
+At Agilent, we are committed to delivering trusted answers that improve lives. Whether our work is helping our customers
+keep food supplies safe, reduce air or water pollution; find alternative energy sources or fight cancer and other diseases, we
+know that we are making a difference in the world.
+Our commitment extends to how we meet our business goals. We work to develop products that are sustainable and meet
+strict international standards. In addition, we set increasingly tougher goals for our operations; reducing the amount of
+power we consume and waste we discard. This year I have committed increased investments for greater energy efficiency
+at facilities around the world.
+These aren’t only company initiatives. Our employees are committed to improving lives at a personal level.
+I am inspired by the generosity of Agilent employees, who contributed to nearly 1,000 non-profits last year, matched by the Agilent Technologies
+Foundation. Our employees are also enthusiastic about sharing their talent and time with their communities, and we provide them with paid time off to
+do so. In 2016 we extended flexibility so employees can now combine their monthly volunteer hours into a full week of service.
+In addition, Agilent and our Agilent Technologies Foundation support programs that give students-- from middle school to university --new access to
+science and technology education. We support programs that encourage girls to pursue careers in science, and we help bring science to life through
+hands-on experiments that our volunteers conduct with students everywhere from local libraries to the largest science museums in the world.
+We are a leader in our industry, and to us that includes a commitment to find ways to make the world a better place. It is part of our culture and the way
+we work every day.
+The following report details our progress and outlines some of the high expectations we have for ourselves. We welcome your interest, feedback and
+partnership as we work to improve lives.
+6
+BACK TO TOCV ALUES
+Our approach to citizenship rests on a framework of values distinguished by uncompromising integrity and the highest standards of business ethics.
+Our values shape the way our products are designed and delivered, how our operations and supply chains are managed, and how we adapt to take on
+the tough social and environmental challenges of the 21st century.
+Innovation and Contribution
+We differentiate our contribution in the eyes of our customers. We invent and discover solutions and seek new ideas to help our customers.
+Trust, Respect, and Teamwork
+We treat all individuals with respect. We create an inclusive environment that fosters respect for each person’s ideas and contributions. We realize
+the full power of a global, diverse workforce.
+Uncompromising Integrity
+We never compromise integrity in any relationships with customers, competitors, suppliers or employees. We adhere to the highest standards of
+business ethics. Anything less as unacceptable.
+Speed
+We anticipate and respond to customer and business needs with an intense sense of urgency. We act decisively to make course corrections if one
+path isn’t working.
+Focus
+We’re not afraid to make tough trade-offs. We prioritize and simplify to understand what’s really important. We focus on anticipating and satisfying
+customer needs.
+Accountability
+We do what we say we'll do. We make straightforward commitments and follow through on them.
+7
+BACK TO TOCP OLICIES
+Environmental Health and Safety Policy Supplier Code of Conduct Policy
+Agilent is committed to providing healthy and safe work environments and Our Supplier Code of Conduct Policy states that we will not establish or
+processes that enable our people to work injury-and illness-free while maintain a business relationship with a supplier if we believe that its
+acting in an environmentally responsible manner. Learn more at practices violate local laws or basic international principles relating to
+Environmental Health and Safety Policy human rights, anti-corruption, bribery, labor standards, or environmental
+protection. We expect our suppliers, and their suppliers, to adhere to
+Human Rights and Labor Policy environmental and social responsibility principles that are similar to those
+Agilent conducts business with uncompromising integrity and promotes valued in Agilent.
+human rights within the company’s sphere of influence. Learn more at
+Agilent’s Human Rights and Labor Policy. Quality Policy
+We earns customers’ loyalty by providing products and services of the
+Employee Volunteerism Policy
+highest quality and greatest value.
+Agilent employees may use up to four hours of company time per month,
+with manager approval, to work on company-supported or-sponsored Privacy Principles
+community activities. Learn more at Agilent’s Volunteer Policy. Agilent is committed to respecting and protecting the privacy and personal
+information of customers, employees and partners. Learn more at
+Employee Diversity, Inclusion, Accessibility and Work/Life Balance
+Agilent Privacy Statement.
+Agilent applies a range of po licies, programs, and practices to promote
+diversity, inclusion, accessibility and work/life balance, including: Political Activities
+Agilent contributes to dialogue and decision-making on public policies
+ Nondiscrimination policy
+affecting the company, our employees, and operations. In 2016, Agilent
+ Accessibility policy
+provided no financial or in-kind contributions to any political party.
+ Education-assistance program
+ Employee-assistance program Anti-Corruption Policy
+ Employee network group guidelines
+One of Agilent’s most important company assets is our reputation for
+ Balanced approach between campus recruiting and experienced hiring
+ethical behavior, honesty, and fair dealing. Agilent’s anti-corruption policy
+ Harassment-free work environment
+incorporates the common elements of anti-corruption laws and
+ Flexible and part-time work schedules when possible
+regulations worldwide that apply to Agilent’s business. Learn more at
+Global Anti-Corruption Policy.
+Learn more at Agilent’s Human Rights and Labor Policy.
+8
+BACK TO TOCS USTAINABILITY STRATEGY
+Agilent’s emphasis on sustainability is meant to ensures the actions we Health and Safety
+take today do not jeopardize the ability of future generations to realize
+their goals and dreams. We recognize that an effective sustainability  Create the health and safety practices and work environments that
+strategy addresses the environmental, social, health and safety, product, enable our people to work injury- and illness-free.
+supplier and economic components of sustainability:  Ensure our operations comply with occupational health and safety
+regulations.
+Environmental
+Products
+ Drive continuous improvement in environmental sustainability through
+recycling, conservation of resources, prevention of pollution, product  Ensure our products meet or exceed their published specifications.
+development and promotion of environmental responsibility among our  Ensure our products comply with safety and environmental standards
+employees. and regulations
+ Ensure our operations comply with applicable environmental
+Suppliers
+regulations.
+ Conduct our operations in a manner committed to the conservation of
+resources, prevention of pollution and promotion of environmental  Inform suppliers and contractors of our environmental and social
+responsibility. responsibility expectations. Require them to adopt management
+practices aligned with our expectations.
+Social  Inform suppliers and contractors of our occupational health and safety
+expectations. Require them to adopt sound occupational health and
+ Conduct our business with uncompromising integrity and promote safety management practices.
+human rights within the company’s sphere of influence.
+ Ensure employee engagement in the success of the company. Economic
+ Be an economic, intellectual and social asset to each nation and
+community in which we operate.  Create economic value for our shareholders.
+ Achieve our financial objectives in a sustainable and responsible
+manner.
+
+9
+BACK TO TOCP HILANTHROPY
+Agilent’s philanthropic efforts, through the Agilent Technologies
+Foundation, focus on education and development in life sciences. The
+Foundation supports a range of community and pre-university-level
+science education programs aimed at helping students develop the
+critical thinking skills essential for tomorrow’s jobs. In addition, the
+foundation matches employee donations, strengthening a broad range of
+nonprofit programs in communities where Agilent has a presence.
+ In 2016, Agilent provided over $7.4 million in university grants and
+equipment supporting science and technology research at the
+forefront of electronic and bio-analytic measurement technologies.
+ In addition, over $1.2 million in pre-university science-education
+grants and other community investments supported programs
+reaching hundreds of thousands of students, educators and
+communities worldwide.
+ Through our employee-giving match program, Agilent and the
+foundation provided $500,000 in donations.
+ In total, Agilent and the Agilent Technologies Foundation invested
+more than $9 million in philanthropic efforts and equipment in 2016.
+For more information, see the Agilent Technologies Foundation
+Statement FY16.
+10
+BACK TO TOCA WARDS AND RECOGNITION
+Environment
+ Received the Gold Class Sustainability Award 2016 in the Life Sciences Tools and Services Category, and was listed as a top industry leader in the
+RobecoSAM Sustainability Yearbook.
+ Top-rated among its largest industry peers with a AAA rating by MSCI Inc. (formerly Morgan Stanley Capital International) based on
+Environmental, Social and Governance (ESG) performance.
+ Conferred Gold Level recognition for our CSR programs that put us among top 5% performers evaluated by EcoVadis.
+ Listed in Newsweek’s Top Green Companies Ranking in the U.S.
+Human Resource & Investor Relation
+ Ranked No. 15 in the list of Top Companies to Work For in 2016 by Indeed.com, a website for job seekers.
+ One of the three “cream of the crop” employers selected by Chemical and Engineering News for providing our employees with “an interesting and
+stimulating work environment, coupled with excellent financial rewards and benefit packages.”
+ Our investor-relations program is ranked No. 2 in our industry, as per a recent survey of hundreds of analysts by Institutional Investor.
+Innovation
+ Won two prestigious awards: Best Quality Service Provider and Best Analytical Instrument Provider, from Sindusfarma, a pharmaceutical industry
+association in Brazil.
+ Our 1260 Infinity II LC received a 2017 Scientists’ Choice Award for Best New Separation Product.
+ Our Intuvo 9000 Gas Chromatograph System won the award for ‘Top Innovation of the Year’ from The Analytical Scientist, a publication that
+specializes in analytical chemistry.
+ Won the Scientists’ Choice Award for Best Webinar Series of the Year for its biopharmaceuticals webinar series.
+ Won the Dow Chemical innovation award for the scientific excellence of two of our products, the Intuvo 9000 GC System and the 8355 sulfur
+chemiluminescence detector, or SCD.
+11
+BACK TO TOCO RGANIZATIONAL PROFILE
+G4-3 G4-11
+NAME OF THE ORGANIZATION COLLECTIVE BARGAINING AGREEMENTS
+G4-4 G4-12
+PRIMARY BRANDS, PRODUCTS, AND/OR SERVICES DESCRIBE ORGANIZATION SUPPLY CHAIN
+G4-5 G4-13
+LOCATION OF ORGANIZATION’S HEADQUARTERS SIGNIFICANT CHANGES DURING THE REPORTING PERIOD
+REGARDING SIZE, STRUCTURE OR OWNERSHIP
+G4-6
+NUMBER OF COUNTRIES WHERE THE ORGANIZATION G4-14
+OPERATES PRECAUTIONARY APPROACH ON PRINCIPLE ADDRESSED
+BY THE ORGANIZATION
+G4-7
+NATURE OF OWNERSHIP AND LEGAL FORM G4-15
+ENDORSEMENT OF EXTERNAL INITIATIVES
+G4-8
+MARKETS SERVED G4-16
+MEMBERSHIP IN ASSOCIATIONS AND ORGANIZATIONS
+G4-9
+SCALE OF THE REPORTING ORGANIZATION
+G4-10
+TOTAL NUMBER OF EMPLOYEES
+12
+BACK TO TOCORGANIZATIONAL PROFILE
+G4-3 Companion Diagnostics – Collaboration with a number of major pharmaceutical
+NAME OF THE ORGANIZATION companies to develop new potential pharmacodiagnostics, which may be used to identify
+Agilent Technologies Inc. patients most likely to benefit from a specific targeted therapy.
+G4-4 Genomics
+ACTIVITIES, BRANDS, PRODUCTS AND SERVICES Arrays for DNA mutation detection, genotyping, gene copy number determination,
+identification of gene rearrangements, DNA methylation profiling, gene expression
+Agilent is a global leader in life sciences, diagnostics and applied chemical markets. The profiling, as well as Next Generation Sequencing ("NGS") target enrichment.
+company provides laboratories worldwide with instruments, software, services,
+consumables, applications and expertise, enabling customers to gain the insights they Nucleic Acid Solutions
+seek. Agilent’s expertise and trusted collaboration give customers the highest confidence Provides equipment and expertise focused on production of synthesized oligonucleotides
+in our solutions. Key product and services platforms are listed below: under pharmaceutical Good Manufacturing Practices ("GMP") conditions for use as
+Active Pharmaceutical Ingredients ("API") in an emerging class of drugs that utilize
+Life Sciences and Applied Markets nucleic acid molecules for disease therapy
+ Liquid chromatography (LC) systems and components Agilent CrossLab
+ Liquid chromatography mass spectrometry (LCMS) systems
+ Gas chromatography (GC) systems and components Solutions range from chemistries and supplies to services and software helping to
+ Gas chromatography mass spectrometry (GCMS) systems connect the entire lab, and to keep instruments fully operational and compliant with the
+ Inductively coupled plasma mass spectrometry (ICP-MS) instruments respective industry requirements.
+ Atomic Absorption (AA) instruments
+ Microwave plasma-atomic emission spectrometry (MP-AES) instruments Consumables
+ Inductively coupled plasma optical emission spectrometry (ICP-OES) instruments GC and LC columns, sample preparation products, custom chemistries, and a large
+ Laboratory software and informatics systems selection of laboratory instrument supplies.
+ Laboratory automation and robotic systems
+ Automated electrophoresis and microfluidics Services
+ Cell analysis Startup, operational, training and compliance support, as well as asset management and
+ Vacuum pumps and measurement technologies consultative services that help increase customer productivity.
+Diagnostics and Genomics Please visit our website http://www.chem.agilent.com/EN-US/PRODUCTS-SERVICES/
+Pages/default.aspx for detailed information about our product and services.
+Pathology Solutions
+Product offerings to cancer diagnostics and anatomic pathology workflows. The broad G4-5
+portfolio of offerings includes: LOCATION OF ORGANIZATION’S HEADQUARTERS
+Agilent Technologies Inc.
+ Immunohistochemistry (IHC) 5301 Stevens Creek Boulevard
+ In situ hybridization (ISH) Santa Clara, CA 95051
+ Hematoxylin and eosin (H&E) staining and special staining. Phone: (408) 553-2424
+
+13
+BACK TO TOCORGANIZATIONAL PROFILE
+G4-6 Pharmaceutical, Biotechnology, CRO and CMO: This market consists of for-profit
+NUMBER OF COUNTRIES WHERE THE ORGANIZATION OPERATES, AND NAMES OF companies who participate across the pharmaceutical value chain in the areas of
+COUNTRIES WITH EITHER MAJOR OPERATIONS OR THAT ARE SPECIFICALLY therapeutic research, discovery and development, clinical trials, manufacturing and
+RELEVANT TO THE SUSTAINABILITY ISSUES COVERED IN THE REPORT quality assurance and quality control. One sub-segment of this market is core and
+emerging pharmaceutical companies (pharma). A second sub-segment includes
+Agilent operates in more than 100 countries worldwide. Agilent’s primary research and biotechnology companies (biotech), contract research organizations (CROs) and
+development, and manufacturing sites are in California, Colorado, Delaware and Texas in contract manufacturing organizations (CMOs). Biotech companies and, to a somewhat
+the U.S., and in Australia, China, Denmark, Germany, Italy, Japan, Malaysia, Singapore lesser extent, CROs and CMOs typically participate in specific points in the
+and the United Kingdom. pharmaceutical industry value chain. Additionally, due to the relatively low drug efficacy
+within oncology, pharma companies are partnering with diagnostic companies to bring
+Information about each of our businesses appears below: validated tests to the market with their new drugs.
+Life Sciences and Applied Markets Business: Our life sciences and applied markets Life Science Research: This market consists primarily of not-for-profit organizations and
+business has manufacturing facilities in California, Delaware and Massachusetts in the includes academic institutions, large government institutes and privately funded
+U.S. Outside of the U.S., we also have manufacturing facilities in Germany, Malaysia and organizations. The life science research market plays an influential role in technology
+Singapore. We have FDA-registered sites in California, Germany and Singapore. adoption and therapeutic developments for pharmaceutical and molecular diagnostics
+companies. After decades of investment in basic biomedical research by government
+Diagnostics and Genomics Business: Our diagnostics and genomics business has funding bodies, the focus has widened to include translational research -
+manufacturing facilities in California, Colorado and Texas in the U.S. Outside of the U.S., multidisciplinary scientific efforts directed at accelerating therapy development.
+we have manufacturing facilities in Denmark, Malaysia and Germany. Our FDA-registered
+sites include California, Colorado, Texas and Denmark. Chemical and Energy: The natural gas and petroleum refining markets use our products
+to measure and control the quality of their finished products and to verify the
+Agilent CrossLab Business: Our primary manufacturing sites for the consumables environmental safety of their operations. Petroleum refiners use our measurement
+business are in California and Delaware in the U.S., and outside of the U.S. in the solutions to analyze crude-oil composition, perform raw-material analysis, verify and
+Netherlands and the United Kingdom. Our direct service delivery organization is improve refining processes and ensure the overall quality of gasoline, fuels, lubricants
+regionally based, operating in 30 countries. and other products. Our solutions are also used in the development, manufacturing and
+quality control of fine chemicals.
+G4-7
+NATURE OF OWNERSHIP AND LEGAL FORM Environmental and Forensics: Our instruments, software and workflow solutions are
+used by the environmental market for applications such as laboratory and field analysis
+Agilent is listed on the New York Stock Exchange and our ticker symbol is “A”. of chemical pollutants in air, water, soil and solid waste. Environmental industry
+customers include all levels of government, the industrial and manufacturing sectors,
+G4-8 engineering and consulting companies, commercial testing labs and colleges and
+MARKETS SERVED (INCLUDING GEOGRAPHIC BREAKDOWN, SECTORS SERVED AND universities. Drug testing and forensics labs use our instruments, software and workflow
+TYPES OF CUSTOMERS/BENEFICIARIES) solutions for applications such as analyzing evidence associated with crime, screening
+athletes for performance enhancing drugs, analyzing samples for recreational drugs, or
+Life Sciences and Applied Markets detecting and identifying biological and chemical warfare agents. This instrumentation is
+used in either static or mobile labs. Customers include local, state, federal, and
+Our life sciences and applied markets business focuses primarily on the following five international law enforcement agencies and health labs.
+markets:
+14
+BACK TO TOCORGANIZATIONAL PROFILE
+Food: Our instruments, software and workflow solutions are used throughout the food G4-10
+production chain, including incoming inspection, new product development, quality INFORMATION ON EMPLOYEES AND OTHER WORKERS
+control and assurance, and packaging. For example, our mass spectrometer portfolio is
+used to analyze contaminants and residual pesticides in food. There is also a significant The total number of employees broken down by type of employment contract and gender.
+food-safety market involved in analyzing food for pathogen contamination, accurate
+verification of species type and evidence of genetically modified content.
+Employee Total % Number
+Contract Type Number Male/Female Male/Female
+Diagnostics and Genomics Market
+Full-time 12,591 63.08%/36.91% 7,943/4,648
+Within our diagnostics and genomics business, we focus primarily on:
+Part-time 357 20.16%/79.83% 72/285
+The Diagnostics and Clinical Market. A significant number of our clinical diagnostic
+customers are in pathology labs throughout the world. Our high-quality, automated The total workforce broken down by region and gender by regions
+pathology tissue staining platforms and solutions are used most heavily by the large labs
+located in hospitals, medical centers and reference labs. The clinical market for genomics
+Total Number %
+consists of high complexity clinical labs performing patient testing, including for-profit Region
+Number Male/Female Male/Female
+reference laboratories, hospital labs, and molecular diagnostic companies. While these
+labs primarily purchase in vitro diagnostics (IVD) labeled testing kits, they often develop Americas 4,728 2,894/1,834 61.20%/38.79%
+and validate their own molecular based tests. Analyte Specific Reagents (ASRs) are often
+Asia Pacific 4,720 2,952/1,773 62.54%/37.56%
+used by these labs.
+Europe 3,495 2,169/1,326 62.06%/37.93%
+Agilent CrossLab Business
+G4-11
+The Agilent CrossLab business spans the entire lab with its extensive consumables and
+EMPLOYEES COVERED BY COLLECTIVE BARGAINING AGREEMENTS.
+services portfolio, which is designed to improve customer outcomes. The majority of the
+portfolio is vendor neutral, meaning we can serve and supply customers regardless of
+Agilent meets all applicable laws, regulations, and standards where we do business.
+their instrument purchase choices. Solutions range from chemistries and supplies to
+services and software helping to connect the entire lab. Key product categories in
+G4-12
+consumables include GC and LC columns, sample preparation products, custom
+DESCRIBE ORGANIZATION SUPPLY CHAIN
+chemistries and a large selection of laboratory instrument supplies. Services include
+startup, operational, training and compliance support, as well as asset management and
+Agilent's supply chain organizations are chartered to provide optimal value-added
+consultation services that help increase customer productivity.
+sourcing and procurement services that are:
+Read about the Agilent products and solutions that serve the life sciences, diagnostics
+ Legal, accountable and auditable
+and crosslab markets.
+ Ethically, environmentally and socially responsible
+ Economically effective
+G4-9
+ ISO compliant
+SCALE OF THE REPORTING ORGANIZATION
+The company’s 12,500 employees serve customers in more than 110 countries. Agilent 
+had net revenues of $4.20 billion in fiscal 2016. More details on Company Information.
+15
+BACK TO TOCORGANIZATIONAL PROFILE
+Our order fulfillment and supply chain organization (“OFS”) centralizes all order ERM program is managed within Agilent’s Global Infrastructure Services
+fulfillment and supply chain operations in our businesses. OFS provides resources for organization. Oversight is provided by the Executive Risk Committee, comprised of the
+manufacturing, engineering and strategic sourcing to our respective businesses. Each of CEO staff, which meets twice per year to review progress, evaluate present and emerging
+our businesses, together with OFS, is supported by our global infrastructure risks, and validate the program has identified the correct principal risk area to focus on.
+organization, which provides shared services in the areas of finance, information
+technology, legal, workplace services and human resources G4-15
+ENDORSEMENT OF EXTERNALLY DEVELOPED ECONOMIC, ENVIRONMENTAL AND
+To address the potential disruption in our supply chain, we use a number of techniques, SOCIAL CHARTERS, PRINCIPLES, OR OTHER INITIATIVES
+including qualifying multiple sources of supply and redesign of products for alternative
+components. In addition, while we generally attempt to keep our inventory at minimal Many of Agilent’s policies and practices used in the operation of our business are
+levels, we do purchase incremental inventory as circumstances warrant to protect the consistent with internationally accepted charters and principles. Some of the guidelines,
+supply chain. charters and principles that were considered by Agilent in developing our policies,
+position statements, EHSMS, and reporting structures are :
+G4-13
+SIGNIFICANT CHANGES DURING THE REPORTING PERIOD REGARDING SIZE,  1987 Montreal Protocol on Substances that Deplete the Ozone Layer and adjusted by
+STRUCTURE, OR OWNERSHIP Meetings of the Parties in 1990, 1992, 1995, and 1997; Ozone Secretariat, United
+Nations Environmental Program
+During the past year, we supplemented our own research and development with exciting
+ California Supply Chain Transparency Act of 2010
+acquisitions that further enhance the broad range of solutions we can offer t o our
+customers.  Conventions of the International Labour Organization (ILO)
+ Custom Trade Partnership Program Against Terrorism
+We acquired iLab Solutions, a market leader in cloud based solutions for core laboratory
+management. This acquisition expands Agilent’s portfolio in academic and government  Dodd-Frank Wall Street Reform and Consumer Protection Act
+markets, as iLab is an established provider to leading universities, research hospitals and
+ EU Waste Electrical and Electronic Equipment (WEEE) Directive 2012/19/EU
+independent institutions around the world. We see an opportunity to expand the iLab
+business, both geographically and in pharmaceutical markets.  Global Reporting Initiative—GRI 4.0 sustainability reporting guidelines
+ ISO 13485:2003—Medical Devices Quality Management Systems
+We also announced an $80 million investment in Lasergen Inc., an emerging
+ ISO 14001:2004—International standard for environmental management systems
+biotechnology company with innovative next-generation sequencing technology. Finally,
+we signed an agreement with Burning Rock Biotech to develop cancer diagnostics in  ISO 26000—Standard that provides guidance on social responsibility
+China based on Agilent SureSelect solutions.
+ ISO 9000:2005—Quality Management Systems— Fundamentals and Vocabulary
+G4-14  ISO 9001:2008—Quality Management Systems— Requirements ISO 9000:2005
+PRECAUTIONARY APPROACH OR PRINCIPLE ADDRESSED BY THE ORGANIZATION
+ OHSAS 18001:1999—Standard for occupational health and safety management
+systems
+The Agilent Enterprise risk management (ERM) program provides a framework for
+identifying material risks across the company, determining ownership of the risk,  Procurement Strategy Council
+supporting the creation and maintenance of business continuity plans where appropriate,
+ United Nations Guiding Principles on Business and Human Rights
+ensuring the adequacy of plans across key business flows, ensuring appropriate testing/
+drills are performed and the availability of a central repository for documentation. The 
+16
+BACK TO TOCORGANIZATIONAL PROFILE
+ U.S. Foreign Corrupt Practices Act and those enacted under the OECD Convention on  Industry Initiatives for Science and Math Education (IISME)
+Combating Bribery of Foreign Public Officials in International Business Transactions.
+ iNEMI (National Electronics Manufacturers Initiative)
+ US Equal Opportunity laws and accompanying regulations
+ National Association of Software and Services Companies
+ UK Bribery Act 2010
+ National Research Council of the National Academies
+ Silicon Valley Leadership Group
+G4-16
+MEMBERSHIPS IN ASSOCIATIONS (SUCH AS INDUSTRY ASSOCIATIONS) AND/OR  Stanford University Interdisciplinary Biosciences Advisory Council
+NATIONAL /INTERNATIONAL ADVOCACY ORGANIZATIONS IN WHICH THE
+ Synthetic Biology Engineering Research Center (SynBERC)
+ORGANIZATION: HAS POSITIONS IN GOVERNANCE BODIES; PARTICIPATES IN
+PROJECTS OR COMMITTEES; PROVIDES SUBSTANTIVE FUNDING BEYOND ROUTINE  The Information Technology Industry Council (ITI)
+MEMBERSHIP DUES; OR VIEWS MEMBERSHIP AS STRATEGIC
+ TechUK Trade association
+Agilent participates in trade, industry, and professional organizations that are local,  The National Medal of Technology and Innovation Nomination Evaluation Committee
+national, and global. Participation helps us achieve business and citizenship goals by  The International Genetically Engineered Machine (iGEM) Foundation
+enabling us to work with other companies on issues that affect our industry. Member-
+ VDGH German IVD Association
+ships also keep Agilent abreast of industry issues and best practices and provide vehicles
+through which we can contribute to and influence public policy. Examples of these  Visiting Committee for Advanced Technology, National Institutes of Standards and
+memberships: are Technology
+ ANSI, American National Standards Institute
+ Boston College Center for Corporate Citizenship
+ Belgian BEC mirror committee
+ Category and Sourcing Managers Executive (CASME)
+ CALCE (Center for Advanced Life Cycle Engineering)
+ Carbon Disclosure Project
+ Confederation of Indian Industry
+ Corporate Executive Board
+ Dangerous Good Advocacy Council
+ EDMA - European Diagnostic Manufacturers Association
+ Engineering Advisory Board, College of Engineering, University of California,
+Berkeley
+ European Union Committee of the American Chamber of Commerce
+ Hackett Benchmarking Research
+
+17
+BACK TO TOCID ENTIFIED MATERIAL ASPECTS
+AND BOUNDARIES
+G4-17 G4-21
+LIST OF ENTITIES INCLUDED IN CONSOLIDATED ASPECT BOUNDARIES OUTSIDE ORGANIZATION
+FINANCIAL STATEMENTS
+G4-22
+G4-18 RESTATEMENT OF INFORMATION
+PROCESS FOR DEFINING REPORT CONTENT AND PROVIDED IN EARLIER REPORTS
+ASPECT BOUNDARIES
+G4-23
+G4-19 SIGNIFICANT CHANGES FROM PREVIOUS
+LIST ALL THE MATERIAL ASPECTS IDENTIFIED REPORTING PERIODS
+G4-20
+ASPECT BOUNDARIES WITHIN ORGANIZATION
+18
+BACK TO TOCIDENTIFIED MATERIAL ASPECTS AND BOUNDARIES
+G4-17
+LIST OF ENTITIES INCLUDED IN CONSOLIDATED FINANCIAL STATEMENTS
+We report on our subsidiaries and affiliates where we have direct operational control, unless otherwise noted. Significant year-over-year changes are noted. Where possible, we
+also use consistent reporting measures, such as per square foot rather than per building or per site.
+The environmental data for 2016 is reported for 16 locations. These 16 locations meet the reporting criteria of ISO 14001 certified (or certified sometime during the year) or
+EHSMS at any time during the year or sites greater than 140,000 square feet.
+ASIA PACIFIC EUROPE AMERICAS
+Australia: Mulgrave Germany: Waldbronn U.S.: Santa Clara, California
+China: Shanghai UK: Church Stretton U.S.: Carpinteria, California
+India: Manesar Italy: Torino U.S.: Folsom, California
+Singapore: Yishun Netherlands: Middelburg U.S.: Boulder, Colorado
+Denmark: Glostrup U.S.: Newport, Delaware
+U.S.: Little Falls, Delaware
+U.S.: Cedar Creek, Texas
+G4-18
+PROCESS FOR DEFINING REPORT CONTENT AND ASPECT BOUNDARIES
+Agilent's Corporate Citizenship Report content was developed in consultation with subject matter experts, consideration of changes in external regulations impacting Agilent,
+and evaluation of feedback from various internal functional stakeholders.
+Report content was contributed by members of Agilent Corporate Citizenship Working Group (CCWG). CCWG team meets at regular interval and discusses topics that impact
+Agilent Corporate Citizenship program. CCWG group consists of members from HR, Branding, Investor Relations, Corporate Relations, Agilent Foundation, EHS, Agilent LABS,
+Compliance, Procurement, and Global Sourcing.
+We also consulted the Global Reporting Initiative (GRI) Sustainability Reporting Guidelines v4.0 available at GRI Reporting.
+G4-19
+LIST ALL THE MATERIAL ASPECTS IDENTIFIED IN THE PROCESS FOR DEFINING REPORT CONTENT.
+
+19
+BACK TO TOCIDENTIFIED MATERIAL ASPECTS AND BOUNDARIES
+MATERIAL ASPECTS ASPECT BOUNDARIES INSIDE COMPANY ASPECT BOUNDARIES OUTSIDE COMPANY
+Economic
+Economic Performance All Agilent Operations Investors
+Market Presence All Agilent Operations Customers
+Indirect Economic Impacts All Agilent Operations
+Procurement Practices All Agilent Operations Supply Chain
+Environmental
+Energy All Agilent Sites >140K or ISO 14001 or EHSMS any time during
+this year
+Water All Agilent Sites >140K or ISO 14001 or EHSMS any time during
+this year
+Emissions All Agilent Sites >140K or ISO 14001 or EHSMS any time during
+this year
+Effluents and Waste All Agilent Sites >140K or ISO 14001 or EHSMS any time during
+this year
+Products and Services All Agilent Operations Customers
+Compliance All Agilent Operations
+Transport Employee Business Travel, US Fleet Supply Chain
+Overall All Agilent Operations
+Supplier Environmental Assessment All Agilent Operations Supply Chain
+Environmental Grievances Mechanisms All Agilent Operations
+
+20
+BACK TO TOCIDENTIFIED MATERIAL ASPECTS AND BOUNDARIES
+MATERIAL ASPECTS ASPECT BOUNDARIES INSIDE COMPANY ASPECT BOUNDARIES OUTSIDE COMPANY
+Labor Practices and Decent Work
+Employment All Agilent Operations
+Labor Management Relations All Agilent Operations
+Occupational Health and Safety All Agilent Operations
+Training and Education All Agilent Operations
+Diversity and Equal Opportunity All Agilent Operations
+Equal Remuneration for Women and Men All Agilent Operations
+Supplier Assessment for Labor Practices All Agilent Operations Supply Chain
+Labor Practices Grievance Mechanisms All Agilent Operations
+Human Rights
+Investment All Agilent Operations
+Non-Discrimination All Agilent Operations
+Freedom of Association and Collective Bargaining All Agilent Operations
+Child Labor All Agilent Operations Supply Chain
+Forced or Compulsory Labor All Agilent Operations Supply Chain
+Security Practices All Agilent Operations
+Indigenous Rights All Agilent Operations
+
+21
+BACK TO TOCIDENTIFIED MATERIAL ASPECTS AND BOUNDARIES
+MATERIAL ASPECTS ASPECT BOUNDARIES INSIDE COMPANY ASPECT BOUNDARIES OUTSIDE COMPANY
+Assessment All Agilent Operations Supply Chain
+Supplier Human Rights Assessment All Agilent Operations Supply Chain
+Human Rights Grievances Mechanisms All Agilent Operations
+Society
+Local Communities All Agilent Operations
+Anti-Corruption All Agilent Operations
+Public Policy All Agilent Operations Locations Where We Operate
+Anti-Competitive Behavior All Agilent Operations
+Compliance All Agilent Operations
+Supplier Assessment All Agilent Operations Supply Chain
+Grievance Mechanisms All Agilent Operations
+Product Responsibilities
+Customer Health and Safety All Agilent Operations Customers
+Product and Service Labeling All Agilent Operations Customers
+Marketing Communications All Agilent Operations
+Customer Privacy All Agilent Operations Customers
+Compliance All Agilent Operations Customers
+
+22
+BACK TO TOCIDENTIFIED MATERIAL ASPECTS AND BOUNDARIES
+G4-20
+FOR ALL THE MATERIAL ASPECTS, DEFINE ASPECT BOUNDARIES WITHIN ORGANIZATION
+Information for all material aspects defined in G4-19 is reported for all Agilent entities except for environmental aspects. For environmental material aspects, quantitative data is
+reported for 16 locations. These 16 locations meet the criteria of either ISO 14001 certified (or certified sometime during the year) or EHSMS at any time during the year or sites
+greater than 140,000 square feet.
+G4-21
+FOR ALL THE MATERIAL ASPECTS, DEFINE ASPECT BOUNDARIES OUTSIDE ORGANIZATION
+Refer to G4-19.
+G4-22
+EXPLANATION OF THE EFFECT OF ANY RESTATEMENTS OF INFORMATION PROVIDED IN EARLIER REPORTS
+We have not made any material financial restatements from the prior year to this year.
+G4-23
+SIGNIFICANT CHANGES FROM PREVIOUS REPORTING PERIODS IN THE SCOPE AND ASPECT BOUNDARIES.
+No significant changes in Materiality and boundaries as compared with last year.
+
+23
+BACK TO TOCS TAKEHOLDER ENGAGEMENT
+G4-24
+LIST OF STAKEHOLDER GROUPS ENGAGED BY THE
+ORGANIZATION
+G4-25
+BASIS FOR IDENTIFICATION AND SELECTION OF
+STAKEHOLDERS WITH WHOM TO ENGAGE
+G4-26
+APPROACHES TO STAKEHOLDER ENGAGEMENT
+G4-27
+KEY TOPICS AND CONCERNS RAISED THROUGH
+STAKEHOLDER ENGAGEMENT
+24
+BACK TO TOCSTAKEHOLDER ENGAGEMENT
+G4-24
+LIST OF STAKEHOLDER GROUPS ENGAGED BY THE ORGANIZATION
+Agilent’s stakeholders include:
+ Customers
+ Employees
+ Investors
+ Suppliers
+ Government agencies
+ Communities
+ Neighbors
+ Non-governmental organizations
+ Industry standard-setting organizations
+G4-25
+BASIS FOR IDENTIFICATION AND SELECTION OF STAKEHOLDERS WITH WHOM TO ENGAGE
+Agilent engages with a wide range of stakeholders on issues that affect the company’s operations. During business planning, Agilent considers external charters, principles, and
+guidelines. We also participate in industry and trade groups at local, regional, state, national, and international levels to address emerging issues; develop industry-wide approaches
+to environmental and social challenges; and cooperate with governments, non-governmental organizations and other stakeholders on common concerns.
+G4-26
+APPROACHES TO STAKEHOLDER ENGAGEMENT
+Agilent engages with our stakeholders through consultation, surveys, ad-hoc feedback and reviews:
+ The Agilent Customer Satisfaction survey gathers feedback from customers on their experience interacting with Agilent through its representatives and website and also with
+using Agilent’s products and software. Feedback from these surveys is acted upon in a number of ways. Customers who have expressed dissatisfaction with an aspect of their
+Agilent experience in their survey response score are quickly contacted to address the issue. Customer suggestions and feedback are also used as input into customer
+experience and product improvement projects. Recent improvements, for example, include a redesign of the Agilent website that resulted in significantly improved satisfaction
+scores around the world.
+ The Agilent Leadership Survey is a semiannual survey that allows Agilent employees to provide feedback on leadership effectiveness. The Leadership Survey is focused on
+critical leadership practices that are central to executing Agilent’s business results. Audit results are compared with external best-in-class benchmarks to ensure we are
+performing at the top in our industry.
+ We have ongoing relationships with local, regional, and national regulators regarding operational areas such as Environmental Health and Safety (EHS); employee engagement
+and labor compliance, product environmental and safety compliance.
+25
+BACK TO TOCSTAKEHOLDER ENGAGEMENT
+G4-26 Stakeholder Engagement Matrix
+Stakeholder Type / Frequency of engagement Approach
+Stakeholder Group
+Agilent Customer Touch After recent transaction Customer satisfaction with a recent transaction with one of four touch points: Customer Operations Center, Contact Center, Sales, and Service
+Point Survey
+After an interaction with Agilent, selected customers receive an email invitation with a link to the survey
+ACS Web Survey After visiting Agilent website Customer satisfaction with web touch points
+Customers are invited to answer a survey after visiting the Agilent website to evaluate their satisfaction with the Agilent web site
+ACS Product Survey After purchase Customer satisfaction with their Agilent product.
+Customers receive an email invitation with a link to the survey after their purchase
+Investor Direct meetings Institutional investors regularly request meetings with our Chief Executive Officer (CEO) and many of them meet with him at least once a year. He and other
+members of the executive staff attend investor conferences where they give presentations and meet with investors one-on-one.
+Analysts that research our company and sector also have regular contact with our CEO and our Chief Financial Officer (CFO). Those analysts are in constant
+contact with institutional investors and act as a feedback mechanism on how the market perceives the company.
+Employee On regular interval Regular performance reviews and discussions with immediate supervisors.
+Employee Quarterly Employee sessions are to share business updates and country-specific information, as well as to answer employee questions
+At locations around the world, quarterly sessions are conducted to provide updates on Agilent's business, country-specific updates and employee Q&A
+sessions
+Suppliers Monthly Agilent compliance requirements are communicated through e-mail to all newly added suppliers
+Suppliers Annual Annual re-communication of Agilent compliance requirements for suppliers
+Investor Quarterly earnings conference Scheduled conference calls to discuss Agilent performance
+calls
+Each quarter, we conduct a financial results conference call that presents analysts and investors with an opportunity to ask questions and detail concerns to
+the CEO and CFO. Anyone can listen in to these conference calls over the Internet, although posing questions is generally restricted to professional investors
+and analysts.
+At our annual shareholder meeting, all attendees are presented with the opportunity to ask questions of our CEO, executive staff members and members of
+the Board of Directors.
+Investor Shareholder meetings The shareholder meeting is open to all shareholders and provides an opportunity to vote on proposals
+Investor Regular contact If analysts and institutional investors are unable to meet directly with our CEO, CFO, or Treasurer then they can rely on regular contact with our Investor
+Relations department. The department acts as a channel for communications between Agilent and its investors.
+26
+BACK TO TOCSTAKEHOLDER ENGAGEMENT
+G4-27
+KEY TOPICS AND CONCERNS RAISED THROUGH STAKEHOLDER ENGAGEMENT
+Stakeholder feedback mechanisms combine to provide Agilent with information to help improve our economic, environmental and social performance. For example, Agilent Quality
+reviews the questionnaires and our scores from socially responsible investment indices, to identify areas where we could further improve our performance. Similarly, Public Affairs
+uses the input it receives to guide our community programs, such as volunteerism and grants and Human Resources uses feedback from the employee surveys to review and
+modify company programs and benefits.
+G4-27 Key Topics/ Concerns
+Key Topics/Concerns Response Employees
+Employees Development of Leadership and professional skills A online resource and training center for employees and managers to build leadership skills and capability. Online portal has
+dedicated section called "Development Now" which offers courses on Leadership and Professional skills.
+Access to training material and eLearning courses creat-
+ed for Agilent customers. All training videos and eLearning courses created for Agilent customers are now available internally, too. Employees can
+access training courses using company wide learning and development module "Learning@Agilent".
+Customers Seamless and Streamlined Customer Engagement The Global Strategic Customer Program was launched t his year to improve how Agilent works with top customers. The
+program helps present One Agilent, our total brand promise and our overall value to customers.
+Ability to connect, collaborate and share insights related
+with Agilent instruments, software and consumables. Launched a new online community where users of our instruments, software and consumables can connect, collaborate and
+share insights.
+Now customers are holding online multi-participant conversations with each other and with Agilent employees who support
+their applications and maintenance needs.
+27
+BACK TO TOCR EPORT PROFILE
+G4-28
+REPORTING PERIOD FOR INFORMATION PROVIDED
+G4-29
+DATE OF MOST RECENT PREVIOUS REPORT
+G4-30
+REPORTING CYCLE
+G4-31
+CONTACT POINT FOR QUESTIONS REGARDING THE
+REPORT OR ITS CONTENTS
+G4-32
+IN-ACCORDANCE CRITERIA USED AND LOCATION OF
+GRI CONTENT INDEX
+G4-33
+POLICY AND CURRENT PRACTICE WITH REGARD TO
+SEEKING EXTERNAL ASSURANCE FOR THE REPORT
+28
+BACK TO TOCREPORT PROFILE
+G4-28
+REPORTING PERIOD FOR INFORMATION PROVIDED
+Agilent's 2016 Corporate Citizenship Report is based on a combination of quantitative and qualitative data relating to our environmental and social performance during fiscal year
+2016 (Nov. 1, 2015, to Oct. 31, 2016). The data is recorded on a companywide basis unless otherwise indicated.
+G4-29
+DATE OF MOST RECENT PREVIOUS REPORT
+This is the 16th Corporate Citizenship Report (formerly known as Environmental and Social Responsibility Report) produced by Agilent. Previous reports are available at Corporate
+Citizenship Resources.
+G4-30
+REPORTING CYCLE
+Agilent publishes its Corporate Citizenship Report annually.
+G4-31
+CONTACT POINT FOR QUESTIONS REGARDING THE REPORT OR ITS CONTENTS
+For questions or comments regarding Agilent’s 2016 Corporate Citizenship Report, please contact us at corporate.citizenship@agilent.com.
+G4-32
+IN-ACCORDANCE CRITERIA USED AND LOCATION OF GRI CONTENT INDEX
+Agilent’s 2016 Corporate Citizenship Report is prepared using GRI 4.0 “In-accordance with the "Core” option. Please refer to pages 2-4 of the report for GRI content Index.
+G4-33
+POLICY AND CURRENT PRACTICE WITH REGARD TO SEEKING EXTERNAL ASSURANCE FOR THE REPORT
+ Reasonable Assurance statement by DEKRA for Agilent’s EHSSR and ODC programs.
+ This statement attests that DEKRA Certification can provide reasonable assurance the claims regarding environmental, health, safety and social responsibility (EHSSR), as they
+relate to Agilent-identified suppliers, found in this Agilent Corporate Citizenship Report 2016, are correct. In 2016 DEKRA performed audits of Agilent-identified suppliers in
+Malaysia, the People’s Republic of China, the Republic of China, the Philippines, Mexico and the United States. These suppliers were found to be in compliance with, or have
+completed corrective actions to become compliant with, Agilent’s stated EHSSR program, including but not limited to: policies regarding worker safety, environmental safety,
+Ozone Depleting Compounds (ODC) and that strictly forbid and prevent any and all acts of human trafficking or slavery as those terms are used in the California Transparency in
+Supply Chains Act of 2010, California Civil Code, section 1714.43. Additional sites were audited for compliance to Restriction of Hazardous Substances Directive (RoHS)
+2002/95/EC.
+ Agilent Technologies Foundation Statement FY16 has also been attested by an independent auditor: Nichols, Rick and Company.
+ Agilent energy, greenhouse gas emission, waste, and water data attested by external auditor TruCost in accordance with AA100AS (2008) type 2 moderate-level assurance.
+Detailed TruCost assurance statement is available at http://www.agilent.com/environment/esr/CCR_2016/CCR_2016.html.
+29
+BACK TO TOCG OVERNANCE, ETHICS AND INTEGRITY
+G4-34 G4-45
+GOVERNANCE STRUCTURE OF THE ORGANIZATION, HIGHEST GOVERNANCE BODY’S ROLE
+G4-36 G4-51
+DETAILS ON WHETHER THE ORGANIZATION HAS APPOINTED REMUNERATION POLICIES FOR THE HIGHEST
+AN EXECUTIVE-LEVEL POSITION GOVERNANCE BODY AND SENIOR EXECUTIVES
+G4-38 G4-54
+COMPOSITION OF THE HIGHEST GOVERNANCE BODY AND RATIO OF THE ANNUAL TOTAL COMPENSATION
+ITS COMMITTEES
+G4-56
+G4-39 ORGANIZATION’S VALUES, PRINCIPLES, STANDARDS
+DETAILS ON WHETHER THE CHAIR OF THE HIGHEST AND NORMS
+GOVERNANCE BODY IS ALSO AN EXECUTIVE OFFICER
+30
+BACK TO TOCGOVERNANCE, ETHICS AND INTEGRITY
+G4-34 G4-38
+GOVERNANCE STRUCTURE OF THE ORGANIZATION, INCLUDING COMMITTEES COMPOSITION OF THE HIGHEST GOVERNANCE BODY AND ITS COMMITTEES
+UNDER THE HIGHEST GOVERNANCE BODY
+Agilent has ten board members, nine of whom were independent directors. For more
+Agilent is led by a chief executive officer and overseen by a board of directors. The details please refer to our Corporate Website.
+current four committees of the board are Audit & Finance; Compensation; Executive;
+and Nominating & Corporate Governance. The board selects the chief executive officer Agilent has adopted the standards for director independence in compliance with the
+in accordance with the company’s bylaws and other applicable policies. Information on NYSE’s corporate governance listing standards. To be considered independent, the board
+Agilent's governance structure can be found our Investor Relations website. must determine that a director has no material relationship with the company other than in
+his or her capacity as a director.
+G4-36
+DETAILS ON WHETHER THE ORGANIZATION HAS APPOINTED AN EXECUTIVE-LEVEL MALE FEMALE TOTAL NUMBER
+POSITION OR POSITIONS WITH RESPONSIBILITY FOR ECONOMIC, ENVIRONMENTAL
+AND SOCIAL TOPICS, AND WHETHER POST HOLDERS REPORT DIRECTLY TO THE
+T
+fu
+o
+n
+ta
+ct
+l
+i
+b
+o
+o
+n
+a
+s
+r d members with executive
+1 1
+HIGHEST GOVERNANCE BODY
+T
+in
+o
+d
+t
+e
+a
+p
+l
+e
+n
+n
+o
+d
+n
+e
+-e
+n
+x
+t
+e
+d
+c
+ir
+u
+e
+t
+c
+iv
+t
+e
+o r
+d
+s
+i
+)
+r ectors (excluding
+0
+LEVEL FROM LEVEL FROM
+POSITION OR TITLE
+BOARD* CEO
+O
+r
+S
+a
+u
+v
+t
+s
+e
+e
+t
+r
+a
+S
+a
+i
+l
+o
+n
+l
+c
+a
+R
+i
+b
+a
+e
+i
+l
+s
+l i
+R
+p
+ty
+o
+e
+n
+sp
+si
+o
+b
+n
+il
+s
+it
+ib
+y
+i
+f
+li
+o
+t
+r
+y
+C
+a
+o
+n
+r
+d
+p o-
+S
+S
+e
+o
+n
+u
+i
+r
+o
+c
+r
+in
+D
+g
+i rector, Global
+3 2
+T
+t
+T
+o
+o
+o
+r
+t
+t
+s
+a
+a
+l
+l
+o
+i
+n
+b
+n
+o
+d
+t
+a
+h
+e
+r
+e
+p
+d
+e
+b
+n
+o
+d
+a
+e
+rd
+n t non-executive direc-
+7
+8
+2
+2 1
+9
+0
+Health and Safety
+V
+vi
+P
+c e
+o
+s
+f Workplace, Ser-
+3 2
+Diversity and Employment Equity
+S
+H
+e
+u
+n
+m
+io
+a
+r
+n
+D
+R
+ir
+e
+e
+s
+c
+o
+t
+u
+o
+r
+r
+c
+,
+e s
+3 2
+G
+DE
+4-
+T
+3
+A
+9
+I LS ON WHETHER THE CHAIR OF THE HIGHEST GOVERNANCE BODY IS ALSO AN
+Community and Public Relations
+D
+Re
+ir
+l
+e
+a
+c
+ti
+t
+o
+o
+n
+r,
+s
+C orporate
+4 3
+E
+O
+X
+R
+E
+G
+C
+A
+U
+N
+T
+I
+I
+Z
+V
+A
+E
+T I O
+O
+N
+FF
+’S
+IC E
+M
+R
+A
+(
+N
+AN
+AG
+D
+E
+,
+M
+IF
+E N T
+S O
+A
+,
+N D
+H
+TH
+IS
+E
+O
+R
+R
+EA
+H
+SO
+ER
+N S F
+F
+O
+U
+R
+N C
+T
+T
+H
+I
+I
+O
+S
+N
+A R
+W
+RA
+IT
+N
+H
+G
+IN
+EM E
+T
+N
+H
+T
+E
+)
+Environmental Issues
+V
+vi
+P
+c e
+o
+s
+f Workplace ser-
+3 2
+Chairman is non-executive chairman of the board of directors. More details are available
+Risk Management
+D
+ty
+i rector, Global Securi-
+4 3
+a t Board of Directors
+G4-45
+S
+ity
+u pply Chain Social Responsibil- S
+S
+e
+o
+n
+u
+i
+r
+o
+c
+r
+in
+D
+g
+i rector, Global
+3 3
+HIGHEST GOVERNANCE BODY’S ROLE IN THE IDENTIFICATION AND MANAGEMENT
+Chief Compliance Of- OF ECONOMIC, ENVIRONMENTAL AND SOCIAL IMPACTS, RISKS, AND OPPORTU-
+Compliance/Ethics Issues ficer and Senior Vice 3 2 NITIES
+President
+Human Rights Issues
+S
+H
+e
+u
+n
+m
+io
+a
+r
+n
+V
+R
+ic
+e
+e
+s o
+P
+u
+r
+r
+e
+c
+s
+e
+id
+s
+e nt
+2 1 Our board of directors meets regularly to discuss matters relevant to Agilent’s business.
+The board has access to the company’s management as well as outside legal counsel,
+Labor Issues
+E
+se
+m
+l
+ployment Law Coun-
+3 2 consultants, and auditors. Members of Agilent’s management team routinely attend
+board and committee meetings to provide briefings on specific topics.
+31
+BACK TO TOCGOVERNANCE, ETHICS AND INTEGRITY
+G4-51
+Agilent is committed to the highest standard of corporate governance, business
+REMUNERATION POLICIES FOR THE HIGHEST GOVERNANCE BODY AND SENIOR
+conduct, and ethics. Our Corporate Governance Standards, Code of Ethics for a Director
+EXECUTIVES FOR THE FOLLOWING TYPES OF REMUNERATION
+on the Board, Standards of Business Conduct, Amended and Restated Bylaws, Agilent
+Human Rights and Labor Policy, Agilent Global Anti-Corruption Policy and the Charters
+The remuneration for Board of Directors and senior executives falls under one or more
+of our Audit and Finance Committee, Compensation Committee, Executive Committee,
+of the following categories: performance-based pay, equity-based pay bonuses, deferred
+and Nominating/Corporate Governance Committee, are available at
+or vested shares, sign-on bonuses or recruitment incentive payments, termination
+www.investor.agilent.com under “Corporate Governance.”
+payments, clawbacks, and retirement benefits.
+Agilent recognizes ISO 26000 as the reference document that provides guidance on
+Various policies that govern Agilent board and executive compensation can be accessed
+social responsibility. Agilent aligns with I SO 26000 standards as part of our social
+from our corporate website for Investor Relations
+responsibility practices. As such, Agilent’s economic practices and processes align with
+ISO core subjects: Organizational Governance 6.2 and Fair Operating Practices 6.6.
+G4-54
+RATIO OF THE ANNUAL TOTAL COMPENSATION FOR THE ORGANIZATION'S HIGHEST
+-PAID INDIVIDUAL IN EACH COUNTRY OF SIGNIFICANT OPERATIONS TO THE MEDIAN
+ANNUAL TOTAL COMPENSATION FOR ALL EMPLOYEES (EXCLUDING THE HIGHEST-
+PAID INDIVIDUAL) IN THE SAME COUNTRY.
+Agilent will track required information from this financial year and will report in FY 2018
+Corporate Citizenship Report.
+G4-56
+ORGANIZATION’S VALUES, PRINCIPLES, STANDARDS AND NORMS OF BEHAVIOR
+SUCH AS CODES OF CONDUCT AND CODES OF ETHICS.
+Agilent values are the foundation of Agilent’s corporate culture. They work together to
+govern and guide our behavior as individuals and as a company. Agilent’s culture is
+based on innovation, trust, respect and teamwork, and uncompromising integrity. Added
+to these are speed, focus and accountability to meet customer needs and create a
+culture of performance that draws on the full range of people's skills and aspirations.
+Agilent is regularly recognized by external organizations for its culture as well as its
+practices around processes and people.
+All Agilent employees participate in the mandatory annual training Standards of
+Business Conduct with customers, suppliers, and employees. All procurement
+professionals, as part of Standards of Business Conduct training, are requested to take
+additional online training on Environmental, Health, Safety, and Social Responsibility,
+which covers Human Rights.
+32
+BACK TO TOCE CONOMIC PERFORMANCE
+DMA EC
+DISCLOSURE ON MANAGEMENT APPROACH EC G4-EC6
+LOCAL HIRING AT SIGNIFICANT LOCATIONS
+G4-EC2 OF OPERATION
+FINANCIAL IMPLICATIONS DUE TO
+CLIMATE CHANGE G4-EC7
+INFRASTRUCTURE INVESTMENTS FOR PUBLIC
+G4-EC3 BENEFIT
+BENEFIT PLAN OBLIGATIONS
+G4-EC8
+G4-EC4 SIGNIFICANT INDIRECT ECONOMIC IMPACTS,
+GOVERNMENT ASSISTANCE INCLUDING THE EXTENT OF IMPACTS
+G4-EC5 G4-EC9
+ENTRY-LEVEL WAGES SPENDING ON LOCALLY-BASED SUPPLIERS
+33
+BACK TO TOCECONOMIC PERFORMANCE
+DMA EC
+DISCLOSURE ON MANAGEMENT APPROACH EC
+Economic Performance
+We executed with financial discipline, achieving revenues of $4.2 billion. This marks the second consecutive year we have outgrown the marketplace. We expanded our operating
+margins, ending fiscal year 2016 with our seventh straight quarter of year-over-year profitability growth.
+We significantly increased our total cash return to shareholders, distributing $150 million in dividends and repurchasing $434 million of our shares. We also invested $480 million
+directly into the business with key acquisitions, strategic transactions and capital expenditures.
+The company’s financials are reported publically on its external website at Agilent Investor Relations.
+Market Presence
+Our analytical lab markets, which represent 84 percent of the total company, are comprised of two externally reported business segments: the Life Sciences and Applied Markets
+Group and the Agilent CrossLab Group. Together, these businesses serve customers in pharmaceuticals and life sciences research, as well as in applied
+chemical markets such as chemical and energy, food safety, environmental and forensics.
+The Life Sciences and Applied Markets Group brings together Agilent’s analytical laboratory instrumentation and informatics. Throughout the year, we continued to introduce new
+and innovative offerings with a significantly differentiated customer experience. In liquid chromatography, we launched the InfinityLab portfolio, including a new line of liquid
+chromatography instruments, columns, supplies and services. We added the Agilent 1260 Infinity II LC system to complement our flagship 1290 Infinity II LC. This instrument
+provides bestin-class lab efficiency and improved performance with full backward compatibility.
+In gas chromatography, we introduced the transformational Intuvo 9000 GC system. It features breakthrough innovations in its technology, footprint, energy efficiency and
+environmental friendliness. The development of this product harnesses the complete Agilent portfolio of technological capability. Intuvo comprises a complete ecosystem of
+instrumentation, consumables, supplies, services and software.
+Agilent’s latest GC Triple-Quad sets a new benchmark in GC/MS, while our new 8900 Triple-Quad ICP-MS provides customers in several key markets with better answers than ever
+before. On the software side, our newest OpenLAB software platform continues to expand its multi-technique and multi-vendor capabilities. OpenLAB has full scalability from single
+workstations to networked enterprise solutions
+We continued to bring novel new chemistries to market under the Agilent CrossLab brand. One example is our Advance Bio SEC family of products. These products rely on a new
+and innovative chromatographic particle technology that simultaneously delivers superior performance, lifetime and reproducibility. They provide a level of economic value to our
+customers that is unsurpassed in biopharma workflow applications.
+The Diagnostics and Genomics Group is comprised of five business divisions. Three divisions originate from our 2012 acquisition of Dako and focus on pathology, companion
+diagnostics and reagent partnerships. The Genomics Division includes our microarrays, next generation sequencing target enrichment and Agilent’s other genomics solutions. The
+Nucleic Acid Solutions Division manufactures synthetic RNA for potential use as active pharmaceutical ingredients.
+34
+BACK TO TOCECONOMIC PERFORMANCE
+In fiscal 2015, our complementary diagnostic for Bristol-Myers Squibb Co.’s OPDIVO was approved by the U.S. Food and Drug Administration for non-squamous, non small cell lung
+cancer (NSCLC). In fiscal 2016, the FDA approved expanding the use of this PD-L1 diagnostic to include patients with melanoma, and commercial availability for both NSCLC and
+melanoma has expanded to include the European Union. Agilent is the first company to provide FDA-approved tests for lung cancer and melanoma for PD-L1 markers.
+In addition, Merck & Co.’s KEYTRUDA was approved by the FDA for first-line treatment for metastatic NSCLC for patients with high rates of PD-L1 expression. In conjunction,
+Agilent’s pharmDx companion diagnostics PD-L1 test was also approved for expanded use. This is the first time an Agilent PD-L1 companion diagnostic has been approved for first-
+line testing.
+We launched a comprehensive offering of pooled CRISPR libraries for functional genomics to help accelerate research into complex diseases and drug discovery. We also
+announced a $120 million investment over the next three years to expand production capacity for our Nucleic Acid Solutions Business, including a new factory in Colorado that can
+double our manufacturing capacity.
+For more information on Agilent’s markets, go to Company Information
+Indirect Economic Impacts
+Agilent Technologies is committed to conducting business in an ethical, socially responsible, and environmentally sustainable manner. Our citizenship objective is to be an
+economic, intellectual, and social asset to each nation and community in which we operate. Agilent's worldwide community programs tangibly demonstrate the company's values
+and commitment to corporate citizenship. In communities where we operate, we contribute through foundation and company grants, employee volunteerism, public policy and
+community partnerships in the areas of science education, and workplace giving campaigns.
+Engagement and Evaluation for Agilent philanthropic support
+Agilent carefully reviews and selects the organizations that receive both company and Agilent Foundation grants. Once the grant has been provided, the Foundation monitors the
+organization’s use of the grant. An agreement is signed by each grantee that they will provide an interim and/or final report for the program supported.
+ Grantee is asked to provide a detailed description of what was accomplished by the grant, progress made toward achieving the goals
+ Assure activities under the grant have been conducted in conformity with the terms of the grant.
+ Reporting of all expenditures supporting the grant.
+ Maintain records of such expenditures to enable checking if needed.
+For more information on Agilent Indirect Economic Impacts, go to Community Relations.
+35
+BACK TO TOCECONOMIC PERFORMANCE
+G4-EC2
+FINANCIAL IMPLICATIONS AND OTHER RISKS AND OPPORTUNITIES FOR THE ORGANIZATION’S ACTIVITIES DUE TO CLIMATE CHANGE
+Risk Category Description Impact Description Financial Implications
+We have considered the impact of current and proposed US EPA CO2 regu-
+Emission reporting lations. Currently, Agilent falls below the threshold requirement that would
+Regulatory Increased operational cost
+obligations obligate us toward a major mitigation or financial remediation. Increased
+reporting obligations would create additional financial expense for Agilent.
+Since April 2010 Agilent's Hachioji site in Japan has been under the Tokyo
+Cap and Trade scheme. Non-compliance with the scheme will result in a
+Cap and trade Reduction/disruption in production
+Regulatory fine. The first compliance period finished in March 2014 and a second
+schemes capacity
+compliance period is already planned for 2015-2019. In the first year we have
+emitted less than 20% of our emissions allowance.
+Increased precipitation and extreme weather events pose a risk to Agilent
+Change in mean by disrupting business activities in many areas, including transportation of
+Physical (average) goods and services, physical impact to our office and manufacturing Increased operational cost
+precipitation locations, and disruption to our customers. In addition, our employees have
+exposure to the same risks.
+Flooding of Agilent owned or leased offices, manufacturing facilities and/or Reduction/disruption in production
+Physical Sea level rise
+warehouses. capacity
+Opportunity
+Description Impact Description Financial Implications
+Category
+As air pollution limits and other forms of regulations drive the ener-
+gy consumer market in the direction of more renewable energy,
+Agilent will have an opportunity to provide measurement equipment to Increased demand for existing products/
+Regulatory Air pollution limits the renewable energy market as well as instruments the "smart services leading to incremental sales
+grid" needs to support a more distributed electrical generation network. opportunity
+Additionally, Agilent manufactures equipment to accurately measure air
+pollution and monitor air.
+As an environmentally aware company acting proactively to minimize its
+Increased demand for existing products/
+contribution to climate change, Agilent sees consumer and customer
+Reputation Reputation services leading to incremental sales
+awareness of our corporate environmental stewardship as an opportunity
+opportunity
+and a way to differentiate itself from our competitors.
+36
+BACK TO TOCECONOMIC PERFORMANCE
+G4-EC3
+COVERAGE OF THE ORGANIZATION'S DEFINED BENEFIT PLAN OBLIGATIONS
+Agilent’s defined benefit plans are fully funded at or above required levels:
+ We contributed zero, $15 million, $30 million to our U.S. defined benefit plans in each of 2016, 2015, and 2014, respectively.
+ We contributed $24 million, $25 million and $72 million to our non-U.S. defined benefit plans in 2016, 2015, and 2014, respectively.
+ We contributed less than $1 million in both 2016 and 2015 and $1 million in 2014 to our U.S. post-retirement benefit plans.
+ Our non-U.S. defined benefit plans are generally funded ratably throughout the year.
+ Total contributions in 2016 were $24 million or 40 percent less than 2015
+ Total contributions in 2015 were $40 million or 61 percent more than 2014
+Our annual contributions are highly dependent on the relative performance of our assets versus our projected liabilities, among other factors. We expect to contribute approximately
+$26 million to our U.S. and $20 million non-U.S. defined benefit plans and nothing to our U.S. post-retirement benefit plans during 2017. Please refer to Agilent 2016 Annual Report
+"retirement plans and post retirement pension plans" section starting at page 84.
+G4-EC4
+SIGNIFICANT FINANCIAL ASSISTANCE RECEIVED FROM GOVERNMENT
+Please refer to Agilent 2016 Annual Report page number 44, 48, 83 for details.
+G4-EC5
+RANGE OF RATIOS OF STANDARD ENTRY-LEVEL WAGE BY GENDER COMPARED TO LOCAL MINIMUM WAGE AT SIGNIFICANT LOCATIONS OF OPERATION
+Agilent provides competitive levels of compensation above minimum wage requirements.
+G4-EC6
+PROCEDURES FOR LOCAL HIRING AND PROPORTION OF SENIOR MANAGEMENT HIRED FROM THE LOCAL COMMUNITY AT SIGNIFICANT LOCATIONS OF OPERATION
+Hiring top talent around the globe helps ensure that Agilent maintains its leadership position. To attract and retain talent, Agilent provides everything from forward-thinking work-
+place design to community involvement to total compensation packages that rank with the leaders in the high-technology and life science industries. We understand the value—to
+our business, our employees, and our communities –of an inclusive environment that respects and celebrates unique perspectives and life experiences. Our policies and strategies
+create a pipeline of diverse skills and viewpoints, ensuring that our rich cultural diversity is leveraged for our competitive advantage. Agilent actively recruits top talent from under-
+represented groups around the world, and works to build an inclusive environment that develops and retains employees. For more information on our workplace culture, please refer
+to Agilent - Who We Are.
+37
+BACK TO TOCECONOMIC PERFORMANCE
+G4-EC8
+SIGNIFICANT INDIRECT ECONOMIC IMPACTS, INCLUDING THE EXTENT OF IMPACTS
+Agilent Technologies is committed to conducting business in an ethical, socially responsible, and environmentally sustainable manner. Our citizenship objective is to be an
+economic, intellectual, and social asset to each nation and community in which we operate. Agilent's worldwide community programs tangibly demonstrate the company's values
+and commitment to corporate citizenship. In communities where we operate, we contribute through foundation and company grants, employee voluntarism, public policy and
+community partnerships in the areas of science education, and workplace giving campaigns.
+Agilent’s scientists and technical staff collaborate on academic research. Our products are found in leading research and teaching laboratories. Our global connection to academia
+also includes educational support, recruitment of top university talent and philanthropy. Through our “Thought Leader Program”, Agilent supports scientific advancements by leading
+researchers around the world. We also contribute through financial support, products and expertise to research in the life sciences, diagnostics and applied chemical markets.
+Agilent’s philanthropic efforts, through the Agilent Technologies Foundation, focus on education and development in life sciences. The Foundation supports a range of community
+and pre-university-level science education programs aimed at helping students develop the critical thinking skills essential for tomorrow’s jobs.
+At a global level, we partner with many organizations, in which we identify local corporate social responsibility (CSR) projects, conduct due diligence, and support the implementa-
+tion of the initiative on an ongoing basis. In addition, the Agilent Technologies Foundation supports several independent programs across various countries.
+Examples of company programs and foundation grants supported in 2016:
+Annual Agilent Employees Giving Campaign (Global campaign) : Agilent’s Giving Campaign provided employees the opportunity to support a broad range of eligible non-profit
+organizations in their communities in the areas of health and human services, arts and culture, education and literacy, environment and conservation, and family and civic better-
+ment.
+The program was implemented in Canada, China, Denmark, England , Hong Kong, India, Japan, Scotland, Spain, Taiwan and the United States. Agilent employees make their
+communities a better places to live and work through their generous contributions. The Agilent Technologies Foundation matched employee contributions dollar-for-dollar, doubling
+the employee donation and allowing the Foundation to invest and support our employees favorite charities.
+Agilent After School (AAS) Kit Program (Global program) : The heart of the Agilent After School program is a series of 24 science experiment kits intended for hands-on use by
+children ages 9-13. The kits help students learn physics, biology, earth sciences, chemistry, and more—and they have been designed as a complete “program in a box”. The kits also
+include measurement devices and biographies of key inventors or scientists to add context to the science. Agilent’s program was designed to be implemented in afterschool venues,
+such as science clubs, community centers, libraries and other settings outside the classroom, and while AAS supports international, federal and state science standards, they don’t
+compete with a teacher’s curriculum. AAS kits contain all the materials needed for students to do real-world experiments in which they build and learn about electronic-circuit
+games, clean water engineering, solar cars and thumb pianos (Kalimbas) – just to name a few. Agilent employees manage and implement this program, working with and mentoring
+the students. The program is being implemented in 17 countries and touches 40,000 students around the world each year.
+Edinburg International Science Festival : The science festival encourages exploration in science, technology, engineering and design concepts which have the potential to improve
+the world. This is the largest science festival in the UK with ~300 events for families and adults and runs for two weeks, with thousands of people attending. There are specific
+programs for every age group including adults.
+38
+BACK TO TOCECONOMIC PERFORMANCE
+Dairy Association of China (DAC) – 2015/2016 : A dairy technology laboratory and training center within the DAC has been built and is available to all dairy farmers in China with
+the objective of increasing dairy product safety practices for all consumers. The program includes the development of quality testing, safety standards and training to address the
+entire range of dairy safety from production through distribution. It also provides a dairy breeding platform to increase health and safety of milk sources, farmer training, production
+quality standards and development, as well as milk purity standards.
+Japan Science Foundation (JSF) : The program pairs mentors with high school students in preparing science projects that participate in the Japan Biology Olympia. Winners from
+the Japan event go on to the International Biology Olympia. Students are challenged to expand their talent and to promote their career as a scientist.
+Children’s Discovery Museum (CDM), California, USA : An outdoor science park that sparks children's curiosity has been designed and is being built in phases. Phase one, the
+rain catchment system, underway in 2016, focused on the Development of important science skills like investigating, categorizing, exploring and testing ideas and assumptions. The
+park will highlight both the natural and human-made worlds and how we leverage natural resources to adapt to our changing world. Adults can engage in learning about strategies
+for conservation, from the solar panel installation to the rain catchment system, both demonstrating residential applications. A variety of measurement tools will help adults see
+quantities of power and water generated and collected and then used by children with interactive exhibits and planting areas. Native and drought tolerant plants will be used for the
+landscaping to create a "rain garden" to slow down water to the storm drain will help adults develop strategies to manage the drought at home. Over 325,000 people are expected to
+experience this exhibit annually.
+Agilent Hope School: Agilent volunteers helped rebuild a primary school in the village of Hanyuan, Sichuan province, after the 2008 earthquake. The school reopened in 2010, with a
+new computer lab, with funding from the Agilent Foundation. Located in an isolated location, 70 kilometers north of the Agilent Chengdu site, employees annually make the
+pilgrimage to the school and bring needed supplies and work with the students and teachers throughout the program.
+In addition, the Foundation’s match of employee giving strengthens a broad range of non-profit programs in communities where Agilent has a presence. For more information, go to
+Community Relations.
+39
+BACK TO TOCE NVIRONMENTAL
+DMA EN G4-EN13 G4-EN24
+DISCLOSURE ON MANAGEMENT APPROACH EN HABITATS PROTECTED OR RESTORED TOTAL NUMBER AND VOLUME OF SIGNIFICANT
+SPILLS
+G4-EN3 G4-EN14
+ENERGY CONSUMPTION WITHIN ORGANIZATION HABITATS IN AREAS AFFECTED BY OPERATIONS G4-EN25
+WEIGHT OF TRANSPORTED, IMPORTED, EXPORTED,
+G4-EN4 G4-EN15 OR TREATED WASTE
+ENERGY CONSUMPTION OUTSIDE THE ORGANIZATION DIRECT GREENHOUSE GAS EMISSIONS (SCOPE 1)
+G4-EN26
+G4-EN5 G4-EN16 IDENTITY, SIZE, PROTECTED STATUS, AND BIODI-
+ENERGY INTENSITY ENERGY INDIRECT GREENHOUSE GAS (GHG) EMISSIONS VERSITY VALUE OF WATER BODIES
+(SCOPE 2)
+G4-EN6 G4-EN27
+REDUCTION OF ENERGY CONSUMPTION G4-EN17 INITIATIVES TO MITIGATE ENVIRONMENTAL
+OTHER INDIRECT GREENHOUSE GAS EMISSIONS (SCOPE IMPACTS OF PRODUCTS AND SERVICES
+G4-EN7 3)
+REDUCTION IN ENERGY REQUIREMENTS OF PROD- G4-EN28
+UCTS G4-EN18 PERCENTAGE OF PRODUCTS SOLD AND PACKAGING
+GREENHOUSE GAS EMISSIONS INTESITY MATERIALS RECLAIMED
+G4-EN8
+WATER WITHDRAWAL G4-EN19 G4-EN29
+REDUCTION OF GREENHOUSE GAS EMISSIONS SIGNIFICANT FINES FOR NON-COMPLIANCE WITH
+G4-EN9 ENVIRONMENTAL LAWS AND REGULATIONS
+WATER SOURCES SIGNIFICANTLY AFFECTED BY WITH- G4-EN20
+DRAWAL OF WATER EMISSIONS OF OZONE-DEPLETING SUBSTANCES G4-EN30
+SIGNIFICANT ENVIRONMENTAL IMPACTS OF
+G4-EN10 G4-EN21 TRANSPORTING PRODUCTS AND MATERIALS, AND
+WATER RECYCLED AND REUSED NOX, SOX, AND OTHER SIGNIFICANT AIR EMISSIONS TRANSPORTING MEMBERS OF THE WORKFORCE
+G4-EN11 G4-EN22 G4-EN31
+OPERATIONAL SITES LAND OWNED ADJACENT TO TOTAL WATER DISCHARGE BY QUALITY TOTAL ENVIRONMENTAL PROTECTION EXPENDI-
+PROTECTED AREAS AND DESTINATION TURES AND INVESTMENTS BY TYPE
+G4-EN12 G4-EN23 G4-EN34
+IMPACTS OF ACTIVITIES IN PROTECTED AREAS TOTAL WEIGHT OF WASTE BY TYPE AND DISPOS- NUMBER OF GRIEVANCES ABOUT ENVIRONMENTAL
+AL METHOD IMPACTS
+40
+BACK TO TOCENVIRONMENT PERFORMANCE
+DMA EN
+DISCLOSURE ON MANAGEMENT APPROACH EN
+Agilent is committed to conducting its business in an ethical, socially responsible, and environmentally sustainable manner by reporting performance and ensuring that production
+and operations meet or exceed relevant environmental legislation and regulations. We operate under a company-wide Environmental, Health and Safety Management System
+(EHSMS) that applies to our design, development, manufacturing, distribution, and sales and service operations worldwide. Agilent has demonstrated its effectiveness in managing
+environmental impact by maintaining an ISO 14001 registration of our EHSMS. EHSMS is a tool to drive continual improvement in environmental performance and pursuit of
+sustainability. We expect our suppliers to adhere to the same standard of environmental and social responsibility that we maintain, and our Supplier Environmental and Social
+Responsibility Code of Conduct requires suppliers to adopt sound environmental, health, and safety management practices.
+For supplier environmental and social responsibility expectations, view Agilent Supplier Code of Conduct Policy.
+Energy and Water
+Agilent continues to focus on opportunities to reduce energy and water consumption (normalized by space, headcount and from this year, greenhouse gas emissions). Improvements
+to operational efficiency include the implementation of energy and water saving projects and continued utility usage communication. Opportunities to install more efficient systems
+are considered in facilities projects. Performance related to 10-year global objectives to reduce normalized energy and water consumption by 10% and 20% respectively is monitored
+quarterly.
+Agilent has completed over 30 energy and water conservation projects at its major sites leading to a potential annual energy saving of over 800 MWh.
+Energy use is determined to be Agilent's most significant environmental aspect, consuming approximately 499,000 GJ in FY16 (this amounts to about 59,000 MT of greenhouse
+gases). Consumption is primarily from the use of electricity (indirect) and gas or fuel oil for heating or on-site electricity generation (direct). Energy consumption is tracked quarterly
+against targets, and appropriate adjustments are implemented where possible. Energy consumption is normalized by the operating footprint (in sq. ft.) and now recently, also by head-
+count and revenue.
+At its Shanghai China site, Agilent replaced lighting, HVAC and other utilities equipment with more efficient types leading to an annual saving of about 35MWh. Similarly in Boulder
+USA, lighting and other equipment replacements effected a reduction of about 66 MWh whilst the Delaware sites implemented changes leading to a projected decrease of about
+70MWh. Santa Clara, Agilent's HQ, remodeled lighting with expected savings of over 80 MWh. Projects across Europe, including a new district heating supply from a nearby waste
+incinerator in Copenhagen, were expected to reduce consumption by over 200 MWh. Globally, these reductions and the continued use of solar photovoltaic generation has effected a
+net reduction of over 400 MT of Greenhouse Gas Emissions.
+In FY16, our energy reduction per square foot was 1.85% against a target of 2% (against a FY14 baseline). Increased production intensity at some sites resulted in an adverse impact
+in local energy consumption but globally when factoring in headcount increases, there was a net reduction in energy use per headcount of 12%. FY16 saw a net reduction of 3.6% in
+consumption per $ annual revenue compared to last year.
+Water use is also identified as one of Agilent's globally significant environmental aspects. Targets to monitor and reduce water usage, where possible, are tracked and reported on a
+quarterly basis. In FY16 the water consumption per square foot reduced by 14% against the 2% target and is well on track to meet the 20% reduction over 10-years.
+41
+BACK TO TOCENVIRONMENT PERFORMANCE
+Waste
+Agilent's FY16 waste management plan achieved its targets to:
+1. Establish waste diversion from landfill goals.
+2. Reduce waste disposal liability by reducing the total number of hazardous waste vendors.
+Agilent met its waste diversion goal of 89% in 2016.
+The focus for FY17 includes an investigation of hazardous waste producing sites to effect reduction opportunities at the priority sites
+Products and Services
+Agilent is committed to designing, manufacturing, and distributing environmentally responsible products. Environmental aspects are considered in the design, manufacture,
+distribution, use, obsolescence, disposal, recovery, and reuse of Agilent products. Our aim is to minimize environmental impact of our products and operations by conforming to
+applicable regulations and to also proactively implement more sustainable practices in material selection and use for both product construction and consumables.
+Agilent has developed an Environmental Compliance Framework to sustain and facilitate compliant product design, development, production, refurbishment, and support. Additional
+information on our environmental and social performance may be found at Agilent’s Commitment to Environment and Social Responsibility (attached).
+Agilent aims to minimize the environmental impact of our products and operations:
+ Products are designed to be highly reliable to maximize their useful life.
+ Maintenance and repair services extend the useful life of Agilent products.
+ Customers benefit from product upgrade, trade-in and trade-up programs. When a customer no longer requires an Agilent product, we have implemented several options for
+reuse, re-manufacture, or take-back based on the product type and customer location to ensure the product is properly managed.
+ Reuse programs are offered for selected products, also addressing requirements from the European WEEE (waste from electrical and electronic equipment) Directive.
+Specific FY16 achievements include:
+ New and existing product conversions to be ROHS compliant (this is an extension of the FY15 program)
+ Reduced energy consumption (40%) of the next generation GC products.
+Agilent contributes to the environment and sustainability not only by reducing the impact of its own products, but also by using its products to measure, analyze and mitigate the
+impact of chemicals in the environment. Agilent instruments can perform more than 800 different analytical applications and tests related to the environment. Other examples of
+such contribution are listed below:
+Detecting Pollutants in Air: An Agilent GC/MS with Agilent Deconvolution Reporting Software can screen for 171 volatile organic air pollutants within minutes.
+42
+BACK TO TOCENVIRONMENT PERFORMANCE
+Detecting Pollutants in Water: Agilent is working closely with customers to better identify and address the problem of pharmaceuticals and personal-care products like perfumes
+and cosmetics being present in water and the environment.
+Making Children’s Toys Safer: Phthalates are plasticizers used by manufacturers to make plastics more flexible, durable and softer. The U.S. Consumer Product Safety Commission
+limits their use in toys and child-care products. With Agilent FTIR analyzers and exclusive calibrated methods,
+laboratories can rapidly screen large numbers of parts and objects for phthalate content with little or no sample preparation. With the portable Agilent 4500 Series FTIR and the
+newly developed 4500 Polymer ID Package, labs can determine the chemical composition of a polymer in seconds.
+Keeping Dioxins Out of Food: Agilent has developed a new method for dioxin analysis. Dioxins and dioxin-like compounds have been linked to developmental problems, immune
+system damage and cancer. These toxic compounds can be released into the environment during industrial processes such as metallurgy, cement production, pesticide manufactur-
+ing and waste incineration. Regulations in Europe, the United States and other countries require that food samples be tested to detect dioxins and dioxin-like compounds at very low
+levels.
+Combatting Dangers of Lead Poisoning: Exposure to lead can be toxic to humans. There is no known "safe threshold" of lead in the body, where it will not cause harm. Using Agilent
+equipment, U.S. researchers have developed a method for detecting heavy metals in urine by collecting metal-bound nanoparticles, and researchers in China have developed a novel
+method for measuring trace amounts of lead in environmental water and vegetable samples.
+G4-EN3
+ENERGY CONSUMPTION WITHIN ORGANIZATION
+Worldwide Energy Con-
+sumption 2013 2014 2015 2016
+(unit GJ)
+Diesel 4,900 3,161 3,850 433
+Propane 1,100 1,100 1,100 89
+Solar 12,800 11,800 5,050 5,850
+Electricity 803,000 670,200 356,110 353,441
+Natural Gas 225,000 205,206 146,320 122,334
+Total 1,046,800 891,467 512,430 482,147
+43
+BACK TO TOCENVIRONMENT PERFORMANCE
+GRI Indicator FY16 Agilent Data Explanation  For stationary fuel consumption (i.e. natural gas) DEFRA 2016 standards are used.
+Details are available at http://www.ukconversionfactorscarbonsmart.co.uk
+T
+fr
+o
+o
+t
+m
+al
+R
+F
+e
+u
+n
+e
+e
+l
+w
+Co
+a
+n
+b
+s
+le
+u m
+So
+p
+u
+ti
+r
+o
+c
+n
+e s
+5,850 GJ
+T
+in
+o
+-
+t
+h
+a
+o
+l
+u
+e
+s
+n
+e
+e
+s
+rg
+o
+y
+la
+c
+r
+o
+g
+n
+e
+s
+n
+u
+e
+m
+ra
+p
+t
+t
+i
+i
+o
+o
+n
+n  G
+an
+o
+d
+o d
+d
+s
+is
+a
+tr
+n
+ib
+d
+u
+s
+t
+e
+io
+r
+n
+vi
+)
+c
+.
+e
+M
+s
+o
+(I
+s
+n
+t
+c
+e
+lu
+n
+d
+e
+e
+rg
+s
+y
+p
+c
+r
+o
+oc
+n
+u
+s
+r
+u
+e
+m
+m
+p
+e
+t
+n
+io
+t
+n
+, u
+in
+p s
+t
+t
+h
+r
+i
+e
+s
+a
+c
+m
+a t
+a
+e
+n
+g
+d
+o r
+d
+y
+o
+i
+w
+s
+n
+c
+s
+a
+t
+p
+r
+t
+e
+u
+a
+r
+m
+ed
+t r
+in
+an
+o
+s
+u
+p
+r
+o
+f
+r
+r
+t
+e
+a
+i
+t
+g
+io
+h
+n
+t
+and logistics vendor emissions reported under G4-EN-17.
+Total Fuel Consumption  Business travel and employee commuting: Energy consumption for business travel is
+from Non-Renewable 122,856 GJ
+Sources
+captured under G4-EN-17. Agilent plans to expand employee commuting data
+reporting to include other country locations where Agilent operates. For this report,
+under G4-EN-17 we are only reporting U.S. employee commuting.
+Heating Consumption 17,021 GJ Natural gas
+ Use of sold products and end-of-life treatment of products: Description of our efforts
+Electricity Consumption 353,441 GJ For grid electricity to reduce energy consumption of our products is reported under G4-EN-7. Details
+about options available to our customers for end life treatment of our products are
+D
+er
+i
+a
+e
+t
+s
+i
+e
+o
+l
+n
+f or Electricity Gen- 433 GJ D
+el
+i
+e
+e
+c
+s
+t
+e
+r
+l
+i c
+c
+it
+o
+y
+n
+a
+su
+t
+m
+M
+p
+a
+t
+n
+io
+e
+n
+s a
+f
+r
+o r given under G4-EN-27.
+G4-EN5
+Propane Consumption 89 GJ
+T
+su
+o
+m
+ta
+p
+l
+t
+d
+io
+ir
+n
+e c
+f
+t
+o r
+e n
+p
+e
+ro
+r
+p
+gy
+a n
+c
+e
+o n-
+ENERGY INTENSITY
+T
+su
+o
+m
+ta
+p
+l
+t
+I
+i
+n
+o
+d
+n
+i rect Energy Con- S
+G
+o
+ri
+l
+d
+a r
+E
+=
+le c
+5
+.
+, 8
+=
+5 0
+3 5
+G
+3
+J
+,4 41 GJ
+GRI Indicator FY14 FY15 FY16
+Diesel = 433 GJ Energy Intensity Ratio 37 kwh/sqft 37 kwh/sqft 38 kwh/sqft
+T
+su
+o
+m
+ta
+p
+l
+t
+D
+io
+ir
+n
+e ct Energy Con-
+N
+Pr
+a
+o
+t
+p
+u
+a
+r
+n
+al
+e
+G
+=
+a s
+8 9
+=
+G
+1
+J
+2 2,334 GJ
+Kilowatt hour (kwh) 2,47,818,362 129,171,983 137,037,653
+Notes:
+ U.S. Energy Information Agency International Electricity Emissions Factor by
+Square feet (sqft) 6,692,587 3,486,241 3,613,077
+Country, 1999–2002 were utilized for all non-U.S. facilities. Details are available
+at http://www.eia.gov/oiaf/1605/emission_factors.html
+ For U.S. facilities, EPA eGRID2012 Subregion map and Subregion GHG output Metric Chosen to Calcu- kWh/sqft is our Intensity Metrics and is arrived at by dividing annual
+late Ratio energy consumption by sites square footages
+emission rates for CO2, CH4 and N2O, released August 2016 http://
+www.epa.gov/energy/egrid-2012-subregion-ghg-output-emission-rates
+Types of Energy Included Electricity, Natural gas, propane
+G4-EN4
+ENERGY CONSUMPTION OUTSIDE THE ORGANIZATION
+E
+In
+x
+c
+t
+l
+e
+u
+r
+d
+n
+e
+a
+d
+l Energy-Used
+No
+Agilent energy consumption outside the company is grouped in three distinct
+categories:
+44
+BACK TO TOCENVIRONMENT PERFORMANCE
+G4-EN6 Our new Agilent Intuvo 9000 Gas Chromatography (GC) system made significant energy
+REDUCTION OF ENERGY CONSUMPTION reductions compared to the predecessor instruments. The employed direct heating
+technology is a much faster and more efficient way to do GC and can run methods
+Annualized reductions are theoretical based on the predicted reduction in electricity faster, in half the space (footprint), with using less than half the power normally
+usage as a direct result of energy saving projects in FY16. The 2730 GJ quoted is the is required.
+total expected annualized reduction in usage and not the actual total realized in FY16 as
+these projects were completed over the duration of FY16. This adds and aligns our strategy from last year, that most of the energy savings
+achieved are based on two key factors:
+ The increased type and volume of tests that can be conducted, thus increasing tests
+per watt.
+ Enhanced existing product features, thus bringing more measurement capabilities to
+the same product footprint.
+Agilent provides solutions for the environmental measurement market and helps cus-
+tomers in areas like Air Analysis and Monitoring, Environmental Exposure, Water
+Analysis as well as the analysis of soils, sludge’s & sediments.
+Agilent will continue to look for opportunities to improve the environmental performance
+of our products as part of the continuous improvement strategy of our EHS management
+system (ISO 14001 certificate).
+G4-EN8
+TOTAL WATER WITHDRAWAL BY SOURCE
+Water Withdrawal 2014 2015 2016
+Ground Water 171 155
+Municipal Water supplies or other
+341 299 296
+utilities
+Total 341 470 451
+G4-EN7
+REDUCTION IN ENERGY REQUIREMENTS OF PRODUCTS AND SERVICES
+Note: Groundwater data only available after 2015
+Agilent is working on improving the energy efficiency of selected products/product fami-
+lies including instruments with high energy consumption.
+45
+BACK TO TOCENVIRONMENT PERFORMANCE
+G4-EN9 G4-EN15
+WATER SOURCES SIGNIFICANTLY AFFECTED BY WITHDRAWAL OF WATER TOTAL DIRECT GREENHOUSE GAS EMISSIONS BY WEIGHT
+Most of our manufacturing site water comes directly from the city water supply. How-
+GRI Indicator FY16 Agilent Data
+ever, the following sites draw some water from the local aquifer: Manesar (India);
+Indicate the standard used, and indicate the methodology associated
+Torino (Italy). Of those sites, Manesar withdrew about 24,000 cubic metres and Torino
+with the data with reference to: direct measurement; calculation
+withdrew about 131,000 cubic metres in FY16, making this a global total groundwater based on site specific data; calculation based on default data; Refer to EN3 notes
+withdrawal of about 155,000 cubic metres. estimations.
+G
+PE
+4
+R
+-E
+C
+N
+E
+1
+N
+0
+T AGE AND TOTAL VOLUME OF WATER RECYCLED AND REUSED
+T
+C
+o
+O
+t
+2
+a
+e
+l
+q
+D
+u
+ir
+i
+e
+va
+c
+l
+t
+e
+(
+n
+S
+t
+c
+.
+ope 1) greenhouse gas emissions in metric tons of
+6,732
+No significant water recycling has been noted for FY16.
+Worldwide (Metric Kilotons COe) 2013 2014 2015 2016
+2
+G4-EN11
+OPERATIONAL SITES OWNED, LEASED, MANAGED IN, OR ADJACENT TO, Direct Greenhouse Gas Emissions (Scope 1) 14.4 13.3 9.3 6.7
+PROTECTED AREAS AND AREAS OF HIGH BIODIVERSITY VALUE OUTSIDE
+PROTECTED AREAS Indirect Greenhouse Gas Emissions (Scope 2) 116.7 96.1 49.6 52
+Not applicable. Agilent manufacturing sites are not located in protected areas or areas Total Greenhouse Gas Emissions 131.1 109.4 58.9 58.7
+of high biodiversity value.
+G4-EN12
+DESCRIPTION OF SIGNIFICANT IMPACTS OF ACTIVITIES, PRODUCTS, AND SERVICES
+ON BIODIVERSITY IN PROTECTED AREAS AND AREAS OF HIGH BIODIVERSITY VALUE
+OUTSIDE PROTECTED AREAS
+Not applicable. Agilent manufacturing sites are not located in protected areas or areas
+of high biodiversity value.
+G4-EN13
+HABITATS PROTECTED OR RESTORED
+Not applicable. Agilent manufacturing sites are not located in habitat-protected areas or
+restored areas.
+G4-EN14
+TOTAL NUMBER OF IUCN RED LIST SPECIES AND NATIONAL CONSERVATION LIST
+SPECIES WITH HABITATS IN AREAS AFFECTED BY OPERATIONS, BY LEVEL OF
+EXTINCTION RISK CO
+2
+Not applicable. Agilent manufacturing sites are not located in habitat-protected areas or 46
+restored areas that could potentially be endangered or threatened.
+BACK TO TOCENVIRONMENT PERFORMANCE
+G4-EN16
+Employee Fleet Travel (U.S. only)
+FY14 FY15 FY16
+ENERGY INDIRECT GREENHOUSE GAS (GHG) EMISSIONS (SCOPE 2) (million miles) 3 Fiscal Years
+For Business (Driver-Assigned) 1,134 840 862
+GRI Indicator FY16 Agilent Data
+Indicate the standard used, and indicate the methodology asso-
+For Business (Pool and Group) 47 12 11
+ciated with the data with reference to: direct measurement;
+Refer to EN3 notes
+calculation based on site specific data; calculation based on
+default data; estimations. For Personal (Driver-Assigned) 0 0 0
+Total Scope 2 greenhouse gas emissions in metric tons of CO2 51,982
+equivalent. TOTAL 1,181 852 873
+G4-EN18
+G4-EN17
+GREENHOUSE GAS EMISSIONS INTENSITY
+OTHER RELEVANT INDIRECT GREENHOUSE GAS EMISSIONS BY WEIGHT (SCOPE 3)
+GRI Indicator FY15 FY16 Description
+FY14
+FY15
+FY16 Greenhouse gas 0.0169 0.0166 Metric Tons per site square footage
+GRI Indicator
+Agilent Data
+Agilent
+Agilent Data emission intensity mt/sqft mt/sqft
+Data
+ratio
+Scope 3 emissions from U.S. Fleet program identi-
+fied in metric tons of CO2 8,801 6,862 7,256 Metric chosen to Metric Tons per site Metric Tons per Metric Tons per site square footage
+calculate ratio square footage site square foot- is our intensity metrics and is arrived
+Scope 3 Emissions from Agilent employee business age at by dividing total greenhouse gases
+travel identified in metric tons of CO2 equivalent 33,788 21,131 27,460 emission by sites square footages
+Types of GHG emis- Scope 1 and Scope 2 Scope 1 and Scope 1 and Scope 2
+Scope 3 Emissions
+sion included Scope 2
+FedEx tCO2
+22,314 15,829 22,437
+DHL Freight and Forwarding tCO2e 33,086 32,343 27,564
+DHL Express tCO2e - - 6.336 G4-EN19
+KWE tCO2
+- 12,355 60,050
+REDUCTION OF GREENHOUSE GAS EMISSIONS
+Scope 1 & Scope 2 emissions metric tons of CO2
+equivalent 109,279 58,965 58,714 GRI Indicators Agilent Data
+Initiatives to reduce greenhouse gas emissions, including Globally 3 on-site solar PV systems amount-
+the areas where the initiatives were implemented. ing to a net offset of 540 MT GHGe (actual)
+The extent of greenhouse gas emissions reductions
+achieved during the reporting period as a direct result of the 940
+initiative(s) in tons of CO2 equivalent.
+940 MT: CO2 e avoided (MT) from
+Reductions in GHG emissions by direct (Scope 1), energy Electricity (Scope 2)
+indirect (Scope 2), other indirect (Scope 3) emissions.
+540 MT: from 3 on-site solar PV systems
+47
+BACK TO TOCENVIRONMENT PERFORMANCE
+G4-EN20 G4-EN23
+EMISSIONS OF OZONE-DEPLETING SUBSTANCES TOTAL WEIGHT OF WASTE BY TYPE AND DISPOSAL METHOD
+Agilent does not use, produce, import, or export Ozone Depleting Substances (ODS) The data is based on fiscal year (November 2015– October 2016) and include both solid
+prohibited under the Montreal Protocol on Substances that Deplete the Ozone Layer. and hazardous waste. Agilent waste management program achieved its goal of
+establishing waste diversion from landfill goals and reduce waste disposal liability by
+Agilent Technologies eliminated chlorofluorocarbons (CFCs), carbon tetrachloride, and reducing the total number of hazardous waste vendors. Agilent waste diversion rate
+1,1,1-trichloroethane use in worldwide manufacturing processes in 1993. Agilent has was 89% for FY16. Waste data is also attested by independent third party Trucost.
+also eliminated Class I ODSs in its air conditioning systems, process chillers and Attestation statement is available in section G4-33 on page 28.
+environmental chambers. ODSs are banned from Agilent products. There are no Agilent
+products that need the ODS labeling required by 42 U.S.C. 7671j (b), (c), and (d) and 40
+GRI Indicator Agilent Data
+CFR Part 82, Subpart E.
+The total amount of waste (hazardous & non-hazardous) in Hazardous = 0
+Procurement practices are in place to prevent the inadvertent reintroduction of ODSs tons by type for composting. Non-Hazardous = 140
+into processes where they have been eliminated.
+The total amount of waste (hazardous & non-hazardous) in 0
+metric tons by type for reuse.
+Agilent Technologies also has a program to conserve, recycle and prevent emissions of
+Class I ODSs and Class II ODSs used in Agilent owned equipment in its facilities world-
+The total amount of waste (hazardous & non-hazardous) in Recycle (metric tons):
+wide. metric tons by type for recycling. • Hazardous = 1,682
+• Non-Hazardous = 1,798
+G4-EN21
+The total amount of waste (hazardous & non-hazardous) in 0
+NOX, SOX, AND OTHER SIGNIFICANT AIR EMISSIONS BY TYPE AND WEIGHT metric tons by type for recovery.
+The total amount of waste (hazardous & non-hazardous) in Incineration (metrics tons)
+Agilent has only started to report direct NOx emissions in FY15. Total NOx emissions in
+metric tons by type for incineration (or use as fuel).
+FY16 was 6 MT. • Hazardous = 459
+• Non-hazardous = 226
+We do not track SOx, Hazardous air pollutants (HAP), Volatile organic compound (VOC)
+emissions. The total amount of waste (hazardous & non-hazardous) in Landfill (metric tons)
+metric tons by type for landfill.
+• Hazardous = 2
+G4-EN22
+• Non-hazardous = 274
+TOTAL WATER DISCHARGE BY QUALITY AND DESTINATION
+The total amount of waste (hazardous & non-hazardous) Treated (metric tons)
+Water discharge is not tracked separately and is almost directly linked to the site water
+treated in metric ton
+• Hazardous = 1,810
+consumption. Some sites do have small waste treatment facilities where waste water is
+• Non-hazardous = 0
+discharged and subject to strict compliance expectations. More concentrated aqueous
+wastes are collected separately and disposed appropriately as hazardous wastes.
+The total amount of waste (hazardous & non-hazardous) in 0
+metric tons by type for on-site storage.
+48
+BACK TO TOCENVIRONMENT PERFORMANCE
+GRI Indicator Agilent Data G4-EN24
+TOTAL NUMBER AND VOLUME OF SIGNIFICANT SPILLS
+The total amount of waste (hazardous & Total Hazardous waste (metric tons)
+non-hazardous) in metric tons by type for
+other (to be specified by the reporting • Treated = 1,810 In FY16, there were no significant spills at Agilent sites or caused by Agilent operations.
+organization). • Incinerated = 459
+• Land filled = 2
+G4-EN25
+• Recycled = 1,682
+WEIGHT OF TRANSPORTED, IMPORTED, EXPORTED, OR TREATED WASTE DEEMED
+Total = 3,953
+HAZARDOUS UNDER THE TERMS OF THE BASEL CONVENTION ANNEX I, II, III, AND
+Total Non-Hazardous waste (Metric tons) VIII, AND PERCENTAGE OF TRANSPORTED WASTE SHIPPED INTERNATIONALLY.
+• Composting = 140
+Not applicable. Currently we do not have any trans-boundary waste shipment, under the
+• Recycled = 1,798
+Basel Convention.
+• Land Filled = 274
+• Incinerated = 226
+Total = 2,438 G4-EN26
+IDENTITY, SIZE, PROTECTED STATUS, AND BIODIVERSITY VALUE OF WATER BODIES
+Total (Hazardous + Non-Hazardous = 6,391
+(metric tons)
+AND RELATED HABITATS SIGNIFICANTLY AFFECTED BY THE REPORTING ORGANI-
+ZATION’S DISCHARGES OF WATER AND RUNOFF
+How the method of disposal has Hazardous waste disposal methods—treated,
+been determined. incinerated, land filled & recycled.
+No value of water bodies and related habitats are impacted by any discharges of water
+or runoff by Agilent’s operations.
+Non-hazardous waste disposal methods—
+recycled, land filled & incinerated.
+G4-EN27
+INITIATIVES TO MITIGATE ENVIRONMENTAL IMPACTS OF PRODUCTS AND SER-
+VICES, AND EXTENT OF IMPACT MITIGATION
+Notes:
+Agilent is working to improve the energy efficiency of selected products/product fami-
+ Total waste produced is calculated by adding total chemical waste and total solid lies including instruments with high energy consumption.
+waste tonnage. Total waste calculated based on fiscal year (November 2015 –
+October 2016). Initiatives to mitigate the most significant environmental impacts of products/service
+groups:
+ Chemical waste refers to chemical materials designated for final disposition that
+exhibit characteristics that are hazardous or dangerous per local regulatory require-  Agilent’s Supplier Code of Conduct Policy ensures compliance with Environmental,
+ments. This refers to materials that are shipped offsite for treatment, recycling, Health, Safety, and Social Responsibility (EHSSR) guidelines throughout our supply
+incineration, and landfill; and excludes electronic waste. chain. Our suppliers are also accountable for ensuring that their subcontractors
+comply with Agilent’s EHSSR guidelines, with the responsibility for taking correc-
+ Solid waste refers to waste that is not included in chemical waste or excess elec- tive action as necessary.
+tronic equipment (e.g., garbage/trash, paper, cardboard, glass, and furniture and
+construction debris).  Agilent implemented due diligence practices following the EICC standard to meet
+requirements of the Dodd-Frank Wall Street Reform and Consumer Protection Act
+commonly known as conflict minerals. Agilent met the annual reporting
+49
+BACK TO TOCENVIRONMENT PERFORMANCE
+requirements of the U.S. Securities and Exchange Commission in 2014. Agilent’s
+FY14 FY15 FY16
+Supplier Code of Conduct Policy was updated to include the expectation that
+“Suppliers shall take reasonable measures to ensure products, parts, components
+Total Significant Fines ($) 350 313 0
+and materials supplied to Agilent are “DRC (Democratic Republic of Congo) conflict
+free” as that term is used under Section 1502 of the Dodd-Frank Act.
+Number of Environmental Fines Paid by Company 1 1 0
+ Agilent continued robust communication of its General Specification for the
+Environment (GSE) with its strategic suppliers. This effort enables Agilent and its
+suppliers to comply with major environmental regulations on material use, product Non- Monetary Sanctions 0 0 0
+packaging and labeling. Agilent’s two strategies to drive restricted-substance
+elimination are:
+ Communication of our GSE restrictions to our product designers and suppliers G4-EN30
+ verification that selected suppliers meet Agilent’s GSE requirements SIGNIFICANT ENVIRONMENTAL IMPACTS OF TRANSPORTING PRODUCTS AND
+OTHER GOODS AND MATERIALS FOR THE ORGANIZATION'S OPERATIONS, AND
+G4-EN28 TRANSPORTING MEMBERS OF THE WORKFORCE
+PERCENTAGE OF PRODUCTS SOLD AND THEIR PACKAGING MATERIALS THAT ARE
+RECLAIMED BY CATEGORY Agilent is working with leading global freight and logistics companies to minimize the
+environmental impact of transporting goods and services. In FY16, we reported our
+ Agilent’s Remarketing Solutions Division is dedicated to recovering older greenhouse gases emissions from freight and logistics providers.
+instruments for the purpose of resale. For a certain segment of our customers (start
+-ups, academics, etc.), these pre-owned instruments offer a competitively priced To reduce negative environmental impacts due to employee business travel and
+alternative to buying a new instrument. As a company, we are using fewer commuting for work, Agilent utilizes telepresence conference facilities in 30 locations
+environmental resources to manufacture new products to meet this customer worldwide. In addition, Agilent is focusing on enhancing our data reporting on employee
+demand. For more detail, see Premium Refurbished Instruments. fleet greenhouse gas emissions in the coming year. Some Agilent sites provide pollution
+control checks for employee vehicles at regular intervals. Agilent also offers flexible
+ Agilent offers a variety of trade-in programs specifically designed to help customers
+work arrangements where employees can work from home and utilize online conference
+safely dispose of or recycle used instrumentation. The program is currently
+and meeting services to limit travel requirements.
+deployed in several countries, with expansion of these programs being considered
+wherever possible.
+G4-EN31
+TOTAL ENVIRONMENTAL PROTECTION EXPENDITURES AND INVESTMENTS BY
+G4-EN29 TYPE
+MONETARY VALUE OF SIGNIFICANT FINES AND TOTAL NUMBER OF NON-
+MONETARY SANCTIONS FOR NON-COMPLIANCE WITH ENVIRONMENTAL LAWS Currently we are unable to report this number. Agilent is investigating a process to
+AND REGULATIONS obtain this information for future reporting.
+In FY16, Agilent reported only 6 alleged regulation compliance violations. No incidents G4-EN34
+resulted in monetary fines or penalties. NUMBER OF GRIEVANCES ABOUT ENVIRONMENTAL IMPACTS FILED, ADDRESSED,
+AND RESOLVED THROUGH FORMAL GRIEVANCE MECHANISMS
+.
+For FY16, there were no grievances raised.
+50
+BACK TO TOCS OCIAL: LABOR PRACTICES AND
+DECENT WORK INDICATORS
+DMA LA G4-LA8
+DISCLOSURE ON MANAGEMENT APPROACH LA HEALTH AND SAFETY TOPICS COVERED IN FORMAL
+AGREEMENTS WITH TRADE UNIONS
+G4-LA1
+G4-LA9
+RATES OF NEW HIRES AND EMPLOYEE TURNOVER
+EMPLOYEE TRAINING
+G4-LA2
+G4-LA10
+BENEFITS FOR FULL-TIME EMPLOYEES PROGRAMS FOR SKILLS MANAGEMENT AND LIFELONG
+LEARNING
+G4-LA3
+RETURN TO WORK AND RETENTION RATES AFTER PARENTAL G4-LA11
+LEAVE PERFORMANCE REVIEWS
+G4-LA4 G4-LA12
+MINIMUM NOTICE PERIODS REGARDING OPERATIONAL CHANGES COMPOSITION OF GOVERNANCE BODIES AND BREAKDOWN OF
+EMPLOYEES PER EMPLOYEE CATEGORY
+G4-LA5
+HEALTH AND SAFETY COMMITTEES
+G4-LA13
+G4-LA6 RATIO OF BASIC SALARY OF WOMEN TO MEN
+INJURY, DISEASES, LOST DAYS, ABSENTEEISM, AND FATALITIES
+G4-LA16
+G4-LA7 GRIEVANCES ABOUT LABOR
+WORKERS WITH HIGH INCIDENCE OR HIGH RISK OF DISEASES
+RELATED TO THEIR OCCUPATION
+51
+BACK TO TOCSOCIAL: LABOR PRACTICES AND DECENT WORK INDICATOR
+DMA LA Agilent reviews its OHS aspects annually. Each region conducts their own local reviews
+DISCLOSURE ON MANAGEMENT APPROACH LA and these are consolidated into a Global OHS aspects and impacts register. Those OHS
+aspects that attain the highest (risk) scores are either assigned objectives and targets
+Agilent conducts its business with uncompromising integrity and promotes human for the current year or, if they are business fundamentals, will have associated
+rights within the company’s sphere of influence. See programs established to ensure compliance and implementation of risk-based
+Agilent’s Human Rights and Labor Policy. management approaches. Performance related to these objectives and programs are
+monitored and reported to senior management at least quarterly, and are identified
+in quarterly business reviews. Formal Management Reviews are held twice annually
+Agilent is positioned to become a leader in innovation, creativity, problem-solving, and
+to report current OHS performance to senior management. Any deviations from target
+organizational flexibility. As a company, we must be able to address work/life balance
+are noted, and corrective actions or changes to strategies are identified for approval.
+challenges and leverage diverse perspectives, talents, and teams to meet this global
+challenge. The work force demographics are changing in most countries and the
+Training and Education
+competition to attract and retain top talent is increasing. Global competitiveness will not
+be achieved merely by designing, manufacturing, marketing, and selling superior
+At Agilent, employees develop individually and collectively to enhance their skills and
+products. Agilent strives to develop and apply excellent global people skills around the
+knowledge, to achieve current business objectives, and prepare for the challenge of
+world.
+future business objectives. Development is a key lever to achieve the organizational
+capability that Agilent needs for current and future growth and success.
+We are in tune with the changing global economic marketplace and work to ensure that
+our policies and practices support our core beliefs and values, our guiding principles,
+Employee development at Agilent is a collaborative process between a manager and an
+and our goals to make Agilent the best place to work for every employee. The company
+employee. Agilent managers are accountable for assessing employee performance on
+policies and practices support global diversity and inclusion and work/life success.
+behalf of the company and supporting the development of employees over time.
+Agilent Culture
+The following three approaches to employee development are used at Agilent, and are
+Agilent Diversity and Work/Life Balance
+provided based on business need. It is most effective to choose a blend of learning
+Agilent Employer Awards
+approaches that feature employees learning while doing their day-to-day jobs.
+Occupational Health and Safety
+ Work Assignments: Challenging jobs, special assignments, project initiatives, and
+job rotations. Every work assignment is a potential development experience.
+Agilent Technologies operates under a company-wide environmental, health and safety
+management system (EHSMS) that applies to Agilent design, development,
+ Learning from Others: Coaching, mentoring, and networking with internal and
+manufacturing, distribution, and sales and service operations worldwide. The purpose of
+external people with experience or expertise.
+Agilent's EHSMS is to implement the Environmental Health and Safety Policy. The
+EHSMS provides a framework for Agilent's business operations to make decisions
+ Training: Specific technical and business skill development provided internally by
+regarding their environmental and Occupational Health and Safety (OHS) activities in
+Agilent or externally by qualified educational institutions via a classroom, online, or
+response to changing internal and external factors. The EHSMS is supported by key
+self-study format.
+processes focused on planning, implementation and operation, checking and corrective
+action, and management review.
+Agilent aligns with ISO 26000 standards and guidance as part of our social responsibility
+practices. As such, Agilent’s Labor and Employee policies and processes align with ISO
+core subjects: Organizational Governance 6.2, Human Rights 6.3, and Labor Practices
+6.4.
+52
+BACK TO TOCSOCIAL: LABOR PRACTICES AND DECENT WORK INDICATOR
+G4-LA2  Dependent Care Resource and Referral: Agilent provides a variety of resource and
+BENEFITS PROVIDED TO FULL-TIME EMPLOYEES THAT ARE NOT PROVIDED TO referral services for employees who have dependent care responsibilities for
+TEMPORARY OR PART-TIME EMPLOYEES, BY MAJOR OPERATIONS children, elders, people with disabilities, and others. Our goal is to help employees
+handle dependent care responsibilities so they can achieve their business
+Generally, part-time employees who meet minimum requirements for benefits eligibility objectives while they are at work. Centralized programs and information aim to
+are eligible for the same benefits as full-time employees. Benefits and eligibility provide support to all of Agilent. Local entities may choose to make additional
+requirements will vary by country. dependent care investments in locations where community-based services are
+inadequate and business objectives are impacted.
+Agilent aims to deliver a rewards portfolio that is competitive with life sciences,
+diagnostics and applied markets companies, representative of the diverse industries and  MagellanAssist (U.S.): Agilent offers data sheets - available worldwide - providing
+markets within which Agilent operates . information on a broad range of work/life challenges plus consulting and written
+materials.
+Our rewards are offered to eligible employees and comply with local legal requirements.
+Our Total Pay program includes base pay; variable pay, such as the Agilent Results  Mother’s Room: Some Agilent facilities offer a “mother’s room” to support new
+Bonus and Individual Performance Bonus; and sales incentive compensation. Pay is moms returning to work, and the nursing needs of their babies.
+differentiated based on company and individual performance. Benefits such as health
+and welfare benefits, retirement plans, and time off provide a foundation to support  Quiet Room: Some Agilent facilities offer a “quiet room” to support employees who
+employee well-being and financial security. need a break, respite, or quiet time.
+Equity programs align employee and shareholder interests. Programs include an G4-LA4
+Employee Stock Purchase Plan and long-term incentives such as restricted stock units. MINIMUM NOTICE PERIOD(S) REGARDING SIGNIFICANT OPERATIONAL CHANGES,
+INCLUDING WHETHER IT IS SPECIFIED IN COLLECTIVE AGREEMENTS
+G4-LA3
+RETURN TO WORK AND RETENTION RATES AFTER PARENTAL LEAVE, BY GENDER Agilent meets all applicable laws, regulations, and standards where we do business.
+Agilent offers parental leave benefits and provides a broad range of programs and G4-LA5
+activities to help employees manage commitments in their work and personal life. By PERCENTAGE OF TOTAL WORKFORCE REPRESENTED IN FORMAL JOINT MANAGE-
+offering programs that can be used to address a wide range of needs, Agilent hopes to MENT-WORKER HEALTH AND SAFETY COMMITTEES THAT HELP MONITOR AND
+provide employees with the flexibility and opportunity to select and use services and ADVISE ON OCCUPATIONAL HEALTH AND SAFETY PROGRAMS
+solutions that they prefer.
+Health and Safety committees are an integral part of EHS processes at our sites and
+ Flexible Work Arrangements: Some Agilent employees use alternatives to help drive continuous improvement in support of Agilent’s ISO certifications and
+traditional Monday through-Friday work arrangements. These include part-time, Environmental, Health, and Safety Management System.
+telecommuting, job-shares, and variable work schedules.
+ Flexibility Practices: Agilent is proud of its heritage of providing flexible work
+hours for employees. Agilent’s Flexible Time Off (FTO) program lets employees use
+paid time off for vacation, personal business, and illness.
+53
+BACK TO TOCSOCIAL: LABOR PRACTICES AND DECENT WORK INDICATOR
+G4-LA6 G4-LA7
+TYPE OF INJURY, RATES OF INJURY, OCCUPATIONAL DISEASES, LOST DAYS, AND WORKERS WITH HIGH INCIDENCE OR HIGH RISK OF DISEASES RELATED TO THEIR
+ABSENTEEISM, AND NUMBER OF WORK-RELATED FATALITIES BY REGION AND OCCUPATION
+GENDER
+While Agilent does not have workers with high incidence or high risk of diseases relat-
+In Agilent’s Environmental Health and Safety function, we believe that people who feel ed to their occupations we do provide a number of programs and educational opportuni-
+good, do good. EHS programs are committed to creating safe work environments, ties aimed at managing serious diseases and medical situations for employees as well
+providing training, and engaging our employees in health-promotion activities so that as family and community members. Agilent EHS standards maintain employee exposure
+they can work injury- and illness-free. levels for harmful agents in the workplace well below regulatory requirements. Work-
+place Services has both Emergency Action and Disaster Recovery Plans that address
+Agilent EHS records and investigates work-related injuries and illnesses to identify root serious medical events or disease outbreaks (e.g., pandemic events). Agilent provides
+causes and apply appropriate corrective and preventive actions. Agilent’s recordkeeping training to employees as a precautionary measure to prevent blood borne diseases.
+process aligns with the U.S. OSHA Injury/Illness Recordkeeping regulations and reports
+on Occupational Recordable (IR) and Lost Work Day Case (LWDCR) rates. Both metrics The Agilent Human Resources and Benefits organizations provide comprehensive health
+(IR and LWDCR) have remained relatively stable over the past five years and continue to care plans to employee and family members to assist in managing their personal medi-
+benchmark favorably relative to Agilent competitors and industry leaders. cal needs. These plans include counseling services and risk-based health coaching.
+Agilent Occupational (IR) Rate Globally 2016 – 0.45; G4-LA8
+HEALTH AND SAFETY TOPICS COVERED IN FORMAL AGREEMENTS WITH TRADE
+Agilent Occupational (LWDCR) Rate Globally 2016 – 0.14; UNIONS
+As required at a country level, Health and Safety topics are included for discussion with
+local worker councils or trade unions. Health and Safety committees are an integral part
+I/I R of EHS processes at our sites and help drive continuous improvement in support of Ag-
+LWDCR ilent’s ISO certifications and Environmental, Health, and Safety Management System.
+G4-LA9
+0.58
+0.52 AVERAGE HOURS OF TRAINING PER YEAR PER EMPLOYEE BY GENDER AND BY EM-
+0.49
+0.49 0.48 0.47 0.47 0.45 PLOYEE CATEGORY
+0.35
+Training at Agilent takes several forms – face to face classroom experiences, on-the-job
+0.32
+learning, virtual classroom events and self-paced e-learning to name a few.
+The training and development programs offered at Agilent are many, including New
+0.09 0.12 0.1 0.13 0.14 0.1 0.12 0.11 0.14 Employee Orientation, Leadership Development, Product and Technology Training,
+0.07
+Employee Safety and Security, Legal and Ethical concerns, and Standards of Business
+Conduct. To encourage learning occurring anywhere, anytime for our globally distributed
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+workforce, we continue to make self-paced e-learning available in many of these topics
+24 hours a day/seven days a week.
+54
+BACK TO TOCSOCIAL: LABOR PRACTICES AND DECENT WORK INDICATOR
+In 2016, approximately 98% of our Agilent employees completed training activities (with G4-LA12
+over 145,000 documented instances of training, including over 109,000 self-paced online COMPOSITION OF GOVERNANCE BODIES AND BREAKDOWN OF EMPLOYEES PER
+course completions). EMPLOYEE CATEGORY ACCORDING TO GENDER, AGE GROUP, MINORITY GROUP
+MEMBERSHIP, AND OTHER INDICATORS OF DIVERSITY
+G4-LA10
+PROGRAMS FOR SKILLS MANAGEMENT AND LIFELONG LEARNING THAT SUPPORT Total number of employees.
+THE CONTINUED EMPLOYABILITY OF EMPLOYEES AND ASSIST THEM IN MANAG-
+ING CAREER ENDINGS
+Total Number # Male/Female
+Agilent is committed to providing an environment in which employees can expand their
+knowledge, develop new skills, and contribute their best work. 12952 8019/4933
+Our culture of continuous development instills in our employees the behaviors that bring
+Percentage of employees by gender.
+our values to life every day. We encourage our people to stay up-to-date on current
+research and technology while enhancing their current skills and growing new skills to Employee Gender % of Total
+meet future needs; we also put special emphasis on training managers at all levels to
+Male 62%
+effectively communicate, role model, and reinforce our values and culture. This includes
+imparting the importance of continuous learning in others. Female 38%
+Employees access learning opportunities through our Development Now portal--a re-
+source center with videos, guided online activities, classes, and other professional de- The percentage of employees by age group (under 30; 30–50; over 50).
+velopment resources. This unique training platform allows employees and managers to
+build leadership and professional skills that align with their daily work and Agilent's Total Number % of Total
+expectations.
+% Under 30 years of age 12%
+% 30-50 years of age 61%
+In addition, programs such as our Educational Assistance program provide financial or
+% Over 50 years of age 27%
+other assistance for employees to take external academic classes or complete an
+academic degree program relevant to Agilent’s business needs.
+Our investment in our people’s growth is an investment in our business and in the re- Percentage of individuals within the organization’s governance bodies by gender
+tention of our competitive advantage, our edge, and top talent.
+Executives and
+% of Total
+Senior Management
+G4-LA11
+PERCENTAGE OF EMPLOYEES RECEIVING REGULAR PERFORMANCE AND CAREER Male/Female 80%/20%
+DEVELOPMENT REVIEWS BY GENDER Under 30 years of age 0%
+Between 30-50 years of age 0%
+One hundred percent of Agilent employees receive regular performance reviews.
+Greater than 50 years of age 100%
+55
+BACK TO TOCSOCIAL: LABOR PRACTICES AND DECENT WORK INDICATOR
+Total number of managers by gender G4-LA16
+NUMBER OF GRIEVANCES ABOUT LABOR PRACTICES FILED, ADDRESSED, AND
+Total Number # Male/Female RESOLVED THROUGH FORMAL GRIEVANCE MECHANISMS
+1661 1188/473 This information is Agilent confidential.
+Percentage of managers by gender
+Employee Gender % of Total
+Male 71.5%
+Female 28.5%
+G4-LA13
+RATIO OF BASIC SALARY AND REMUNERATION OF WOMEN TO MEN BY EMPLOYEE
+CATEGORY, BY SIGNIFICANT LOCATIONS OF OPERATION
+The following data indicates the salary ratio of men to women by employee category.
+The ratios shown were calculated by determining the comparative ratio (compa-ratio) of
+men and women in each employee category and dividing the average compa-ratio for
+men by the average compa-ratio for women. Compa-ratio indicates an individual’s pay
+position versus the mid-point of the pay range for their job. Using compa-ratio enables
+us to compare pay position across varying types of jobs and markets. Within Agilent,
+three major employee categories are Individual Contributor A (ICA; typically non-
+exempt), Individual Contributor B (ICB; typically exempt), and People Manager (PM).
+Ratio of Average Compa-Ratio
+Employee Category
+Men/Women
+ICA 0.99
+ICB 1.01
+PM 1.02
+Senior Management 1.01
+56
+BACK TO TOCS OCIAL: HUMAN RIGHTS
+DMA LA G4-LA7
+DISCLOSURE ON MANAGEMENT APPROACH LA WORKERS WITH HIGH INCIDENCE OR HIGH RISK OF
+DISEASES RELATED TO THEIR OCCUPATION
+G4-LA1
+G4-LA8
+RATES OF NEW HIRES AND EMPLOYEE TURNOVER
+HEALTH AND SAFETY TOPICS COVERED IN FORMAL
+AGREEMENTS WITH TRADE UNIONS
+G4-LA2
+BENEFITS FOR FULL-TIME EMPLOYEES G4-LA11
+PERFORMANCE REVIEWS
+G4-LA3
+RETURN TO WORK AND RETENTION RATES AFTER G4-LA12
+PARENTAL LEAVE COMPOSITION OF GOVERNANCE BODIES AND BREAK-
+DOWN OF EMPLOYEES PER EMPLOYEE CATEGORY
+G4-LA4
+MINIMUM NOTICE PERIODS REGARDING OPERA- G4-LA13
+TIONAL CHANGES RATIO OF BASIC SALARY OF WOMEN TO MEN
+G4-LA5
+G4-LA14
+HEALTH AND SAFETY COMMITTEES
+NEW SUPPLIERS THAT WERE SCREENED USING
+G4-LA6 LABOR PRACTICES CRITERIA
+INJURY, DISEASES, LOST DAYS, ABSENTEEISM,
+AND FATALITIES G4-LA16
+GRIEVANCES ABOUT LABOR
+57
+BACK TO TOCSOCIAL: HUMAN RIGHTS
+DMA HR practices necessary to achieve business objectives, and to measure the level of
+DISCLOSURE ON MANAGEMENT APPROACH HR engagement of the Agilent team.
+Enable Agilent to attract, engage, develop and reward the best talent to be #1 in  Fortune 500 employer.
+analytical labs and targeted diagnostics segments. Deliver a rewards portfolio that is
+competitive with life sciences, diagnostics and applied markets companies,  Named to Forbes list of Top 50 Best Employers in America.
+representative of the diverse industries and markets within which Agilent operates.
+Agilent is committed to creating a diverse work environment and is proud to be an  Named to Business Insider’s list of The 25 Best Tech Companies to work for in
+equal opportunity employer. America.
+How we achieve above Objective / Management approach  Recognized by Chemical & Engineering News as a best place to work in the U.S.
+ Our People: We seek and employ the most talented workforce to help us achieve For more information, view Agilent Supplier Code of Conduct Policy.
+amazing results. As a global company, Agilent enjoys the diversity of cultural and
+individual perspectives held by our employees. Much of Agilent's success is rooted Agilent conducts its business with uncompromising integrity and promotes human
+in the diversity of its people and the commitment of those people to inclusion. Our rights within the company’s sphere of influence. Our commitment to Human Rights
+employees' different backgrounds are valued by both customers and employees. extends through our supply chain. Agilent expects its suppliers to adhere to a high
+standard of environmental and social responsibility values, as outlined in our policy. The
+ Our Values and Culture: Our values and culture makes Agilent a place where we policy requires suppliers to adopt sound environmental, health, and safety management
+want to spend our time. You can see and feel our values in the workplace. Agilent’s practices and incorporates eight International Labor Organization (ILO) Conventions that
+six values are the core foundation of our company - innovation and contribution, have been identified as fundamental to the rights of human beings at work. Agilent has
+uncompromising integrity, trust respect and teamwork, speed, focus, and account- programs in place to monitor and verify our suppliers’ conformance with the Supplier
+ability. Our values are the basis for every decision we make and every action we Code of Conduct Policy.
+take, no matter where we are located.
+Agilent Technologies’ Human Rights and Labor Policy: Agilent acknowledges and
+ Development Opportunities: As part of the next generation of innovators and respects the fundamental principles contained in the Universal Declaration of Human
+business leaders, our employees deliver solutions to keep Agilent and the labora- Rights. Our core values and culture reflect a commitment to ethical business practices
+tories we serve at the top of their game. and good corporate citizenship.
+ Work-life Balance: Agilent gives employees the space to enjoy life, their families Freely-Chosen Employment: Agilent supports the elimination of all forms of forced,
+and friendships. Flexible time off, flexible schedules, telecommuting and company- bonded, or involuntary prison labor.
+sponsored activities are some of the ways we help keep inspiration coming.
+No Child Labor: Agilent condemns all forms of exploitation of children. Agilent will not
+ We make the world a safer and healthier place: Our employees are inspiring recruit child labor and supports the elimination of exploitative child labor.
+discoveries for a better world.
+Minimum Wages: Agilent will compensate our employees with wages and benefits that
+Stakeholder consultations/engagements in last year meet or exceed the legally required minimum.
+Agilent’s Leadership Survey is conducted twice a year to focus on improving leadership Working Hours: Agilent will not require employees to work more than the maximum
+hours of daily labor set by local laws.
+58
+BACK TO TOCSOCIAL: HUMAN RIGHTS
+No Discrimination: Agilent supports and upholds the elimination of discriminatory All procurement professionals, as part of Standards of Business Conduct training, are
+practices with respect to employment and occupation, and promotes and embraces requested to take additional online training on Environmental, Health, Safety, and Social
+diversity in all aspects of its business operations. Our policies prohibit discrimination responsibility which covers Human Rights.
+based on race, color, age, gender, sexual orientation, gender identity and expression,
+ethnicity, religion, or disability. G4-HR3
+TOTAL NUMBER OF INCIDENTS OF DISCRIMINATION AND CORRECTIVE ACTIONS
+No Harsh or Inhumane Treatment: Agilent prohibits physical abuse, harassment, or the TAKEN
+threat of either. Agilent will provide a safe and healthy working environment for all of its
+employees. This information is confidential
+Freedom of Association: Agilent respects the rights of employees to organize in labor G4-HR4
+unions in accordance with local laws and established practice, if desired. OPERATIONS AND SIGNIFICANT SUPPLIERS IDENTIFIED IN WHICH THE RIGHT TO
+EXERCISE FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING MAY BE AT
+Ethical Business Conduct: Agilent’s Standards of Business Conduct requires that SIGNIFICANT RISK, AND ACTIONS TAKEN TO SUPPORT THESE RIGHTS
+business be conducted with honesty, and reflects high ethical standards that are the
+basis for achieving our goals. The standards establish clear guidelines for how we do Agilent is unaware of any operations and significant suppliers identified in which the
+business and establish accountability. All employees are expected to comply with these right to exercise freedom of association and collective bargaining may be at risk. Agilent
+standards. endorses the concept and right to exercise freedom of association as Agilent subscribes
+to UN Declaration of Human Rights and Supplier Code of Conduct and complies with the
+Agilent Technologies Supplier Environmental and Social Responsibility Code of Conduct Product: Agilent’s California SupplyChain Transparency Act (CTISCA).
+suppliers are required to support and promote the fundamental human rights referenced in this document.
+Agilent Human Rights and Labor Policy
+G4-HR1
+PERCENTAGE AND TOTAL NUMBER OF SIGNIFICANT INVESTMENT AGREEMENTS
+Agilent Supplier Code of Conduct Policy
+AND CONTRACTS THAT INCLUDE HUMAN RIGHTS CLAUSES OR THAT HAVE UNDER-
+GONE HUMAN RIGHTS SCREENING.
+Agilent CTISCA Statement
+One hundred percent of Agilent’s purchase order agreements include human rights
+G4-HR5
+clauses and require that suppliers comply with Agilent Supplier Code of Conduct Policy.
+OPERATIONS AND SIGNIFICANT SUPPLIERS IDENTIFIED AS HAVING SIGNIFICANT
+RISK FOR INCIDENTS OF CHILD LABOR, AND MEASURES TAKEN TO CONTRIBUTE TO
+G4-HR2
+THE ELIMINATION OF CHILD LABOR
+TOTAL HOURS OF EMPLOYEE TRAINING ON POLICIES AND PROCEDURES CON-
+CERNING ASPECTS OF HUMAN RIGHTS THAT ARE RELEVANT TO OPERATIONS,
+Agilent is unaware of any operations or suppliers identified as having significant risk for
+INCLUDING THE PERCENTAGE OF EMPLOYEES TRAINED
+incidents of child labor.
+All Agilent employees participate in the annual required training in the Standards of
+Agilent has established a Supplier Code of Conduct Policy. In addition, Agilent also
+Business Conduct which outlines expectations for dealing with customers, suppliers,
+requires supplier compliance to human rights throughout their operations (including but
+and conduct in the workplace.
+not limited to the operations of their own suppliers and any permitted sub-contractors)
+in accordance with the UN Guiding Principles on Business and Human Rights (the “UN
+Guiding Principles”).
+59
+BACK TO TOCSOCIAL: HUMAN RIGHTS
+Agilent conducts random onsite surveys of suppliers for compliance with Agilent’s external company trains its employees in human rights issues, especially in the area of
+Supplier Code of Conduct Policy. In cases where there are issues with adherence to use of force, and also addresses this subject in its security officer handbook.
+Agilent’s supplier expectations, corrective actions are implemented and monitored by
+Agilent’s third party auditor DEKRA. All corrective actions were completed in FY16. G4-HR8
+TOTAL NUMBER OF INCIDENTS OF VIOLATIONS INVOLVING RIGHTS OF INDIGENOUS
+For more information, see Agilent Environmental Expectations PEOPLE AND ACTION TAKEN
+G4-HR6 There were no violations of rights of indigenous people.
+OPERATIONS AND SIGNIFICANT SUPPLIERS IDENTIFIED AS HAVING SIGNIFICANT
+RISK FOR INCIDENTS OF FORCED OR COMPULSORY LABOR, AND MEASURES TO G4-HR11
+CONTRIBUTE TO THE ELIMINATION OF ALL FORMS OF FORCED OR COMPULSORY SIGNIFICANT ACTUAL AND POTENTIAL NEGATIVE HUMAN RIGHTS IMPACTS IN THE
+LABOR SUPPLY CHAIN AND ACTIONS TAKEN
+Agilent is unaware of any operations and significant suppliers having a significant risk Agilent is unaware of any actual and potential negative human rights impact in our
+for incidents of forced or compulsory labor. supply chain.
+Agilent has an established Supplier Environmental, Health, Safety and Social Responsi- G4-HR12
+bility program as well as a Supplier Code of Conduct Policy which applies to all NUMBER OF GRIEVANCES RELATED TO HUMAN RIGHTS FILED, ADDRESSED, AND
+suppliers. In addition, Agilent complies with the California Supply Chain Transparency RESOLVED THROUGH FORMAL GRIEVANCE MECHANISMS
+Act of 2010, Conventions 105 and 111 of International Labor Organization and the Dodd-
+Frank Wall Street Reform and Consumer Protection Act. This information is confidential.
+Agilent also requires supplier compliance to human rights throughout their operations
+(including but not limited to the operations of their own suppliers and any permitted
+sub-contractors) in accordance with the UN Guiding Principles on Business and Human
+Rights (the “UN Guiding Principles”). Agilent conducts random onsite surveys of
+suppliers for compliance with Agilent’s Supplier Code of Conduct Policy. In cases where
+there are issues with adherence to Agilent’s supplier expectations, corrective actions
+are implemented and monitored by Agilent’s third party auditor DEKRA. All corrective
+actions were completed in FY16.
+Agilent CTISCA Statement
+G4-HR7
+PERCENTAGE OF SECURITY PERSONNEL TRAINED IN THE ORGANIZATION’S POLI-
+CIES OR PROCEDURES CONCERNING ASPECTS OF HUMAN RIGHTS THAT ARE RELE-
+VANT TO OPERATIONS
+Agilent has outsourced its security to a globally renowned company in this field. This
+60
+BACK TO TOCS OCIAL: SOCIETY
+DMA SO G4-SO5
+DISCLOSURE ON MANAGEMENT APPROACH SO ACTIONS TAKEN IN RESPONSE TO INCIDENTS
+OF CORRUPTION
+G4-SO1
+OPERATIONS WITH IMPLEMENTED LOCAL G4-SO6
+COMMUNITY ENGAGEMENT, IMPACT ASSESS- CONTRIBUTIONS TO POLITICAL PARTIES
+MENTS, AND DEVELOPMENT PROGRAMS
+G4-SO7
+G4-S02 TOTAL NUMBER OF LEGAL ACTIONS FOR
+OPERATIONS WITH SIGNIFICANT IMPACTS ON ANTI-COMPETITIVE BEHAVIOR AND THEIR
+LOCAL COMMUNITIES OUTCOMES
+G4-SO3 G4-SO8
+BUSINESS UNITS ANALYZED FOR RISKS RELAT- MONETARY VALUE OF SIGNIFICANT FINES
+ED TO CORRUPTION
+G4-SO11
+G4-SO4 NUMBER OF GRIEVANCES ABOUT IMPACTS
+COMMUNICATION AND TRAINING ON ANTI- ON SOCIETY FILED, ADDRESSED, AND
+CORRUPTION POLICIES AND PROCEDURES RESOLVED THROUGH FORMAL GRIEVANCE
+MECHANISMS
+61
+BACK TO TOCSOCIAL: SOCIETY
+Anti-Corruption
+DMA SO
+DISCLOSURE ON MANAGEMENT APPROACH
+Agilent does business directly or indirectly in over 120 countries around the globe, each
+Agilent’s policies, values, organization, and management systems apply across all our of which has its own unique laws, customs, and business practices. Agilent requires its
+global businesses. They are designed to: employees and business partners in all geographies to conduct their affairs with uncom-
+promising integrity and will not tolerate corrupt activities of any kind. Agilent prohibits
+ Reduce our negative impacts on the environment promising, offering, giving to, or receiving from, any individual anything of value or
+personal benefit with the expectation of receiving a favor, a grant of business, or any
+ Protect the occupational health and safety interests of our employees other business advantage in return. Such actions are sometimes referred to as bribes,
+kickbacks, or quid pro quos.
+ Ensure customer requirements are met
+Agilent is committed to complying with:
+ Enhance our value to our communities
+ The laws and regulations of each country where Agilent conducts business;
+ Ensure the highest levels of quality in our products and services
+ The laws and regulations of the United States, including the Foreign Corrupt
+ Increase our competitiveness Practices Act;
+ Create a consistent approach across business groups, where applicable  Other international anti-corruption laws and regulations, including the U.K. Bribery
+Act of 2010 and the OECD Anti-Bribery Convention, to which 38 countries are sig-
+ Meet the expectations of our stakeholders natories;
+ Conduct business in an ethical manner  Agilent’s Standards of Business Conduct; and
+Agilent considers external charters, principles, and guidelines that have been developed  Agilent’s policies and procedures.
+through multi-stakeholder processes to guide our business activities.
+Our commitment incorporates the common elements of anti-corruption laws and regula-
+We also participate in a variety of intra- and cross industry forums to address emerging tions worldwide that apply to Agilent’s business. Agilent managers are responsible for
+issues, develop industry-wide approaches to social and environmental challenges, and promoting awareness of, and enforcing compliance with our Global Anti-corruption
+cooperate with governments, non-governmental organizations (NGOs), and other stake- policy among their reports at all levels, and do not actively or passively authorize or ig-
+holders on common concerns. nore corrupt activities in their organization.
+As part of our Corporate Citizenship Objectives, Agilent strives to be an economic, that provides guidance on social responsibility. Agilent aligns with ISO 26000 standards
+intellectual, and social asset to each nation and community where we conduct as part of our social responsibility practices. As such, Agilent’s Social and Community
+business. initiatives align with ISO core subjects: Organizational Governance 6.2, Fair Operating
+Practices 6.6, and Community Involvement and Development 6.8.
+Agilent has been consciously and strongly committed to community involvement
+through many initiatives - Agilent Technologies Foundation, Agilent Giving Campaign,
+and other signature programs aimed at giving back to the community.
+62
+BACK TO TOCSOCIAL: SOCIETY
+Anti-Competitive Behavior  Coordinates and tracks Standards of Business Conduct certification activities,
+Agilent is committed to competing vigorously and fairly in all markets in which we do  Facilitates a full curriculum of online ethics and compliance training,
+business. We place the highest importance on maintaining compliance with competition
+laws globally. To achieve this goal, all Agilent employees must adhere to some very  Maintains the Compliance Hotline that assists employees and other stakeholders
+important principles when interacting with competitors, resellers, customers and with reporting complaints and asking questions,
+government employees.
+ Coordinates investigations of allegations of suspected misconduct, and
+In dealing with any government investigators, employees are instructed to follow the
+below guidelines:  Supports our compliance liaison partners within each business and geography to
+ensure employees are aware of, and comply with our Standards of Business
+ If government investigators contact or visit an Agilent site, never resist or obstruct Conduct and other Agilent policies.
+the investigation or adopt a defensive attitude. Immediately contact the most senior
+site manager, the country general manager, and a representative of the Legal G4-SO1
+Department. PERCENTAGE OF OPERATIONS WITH IMPLEMENTED LOCAL COMMUNITY ENGAGE-
+MENT, IMPACT ASSESSMENTS, AND DEVELOPMENT PROGRAMS
+ If you choose to speak with government investigators, always speak truthfully and
+completely. Never conceal, destroy or remove any documents or other information Volunteerism is a key element of our core values, and the cornerstone of our corporate
+to avoid detection during an investigation. citizenship efforts. Agilent employees may use up to four hours of company time per
+month, with manager approval, to work on company supported or sponsored community
+Every Agilent employee is required to read and understand Agilent’s Antitrust and activities. Learn more at Agilent’s Volunteer Policy.
+Competition Law Compliance Manual and comply with applicable competition
+laws. Employees are trained through both computer-based and live trainings on The annual Agilent Giving Campaign provides employees the opportunity to support a
+competition law on an annual basis and as needed. Employees are trained to report any broad range of eligible non-profit organizations in their communities in the areas of
+evidence of misconduct directly to the Legal Department or via the Compliance Hotline. health and human services, arts and culture, education and literacy, environment and
+conservation, and family and civic betterment.
+Compliance
+The Giving Campaign is implemented in Canada, China, Denmark, England, Hong Kong,
+India, Japan, Scotland, Spain, Taiwan and the United States. Agilent employees make
+Our compliance and ethics program has its roots in our Standards of Business Conduct, their communities a better place to live and work through the generous contributions
+which has governed employee behavior since Agilent was part of HP. Our commitment made during the Giving Campaign. The Agilent Technologies Foundation matches em-
+to ethics and compliance begins at the highest levels of the company. The program is ployee contributions dollar-for-dollar, doubling the employee donation and allowing the
+managed by the Chief Compliance Officer (CCO), who reports directly to the General Foundation to invest and support our employees’ preferred charities.
+Counsel and has a reporting relationship to the Audit & Finance Committee of the Board
+of Directors. The CCO is supported by a team of direct reports located in all major Besides the Giving Campaign, the Agilent Technologies Foundation supports other initi-
+regions in which Agilent does business, as well as a business compliance liaison atives to enhance, enrich and support the communities in which Agilent operates.
+network embedded in business operations. Details of projects supported by Agilent Technologies Foundation in 2016 are reported
+under G4-EC8 and page number 38-39
+Under the leadership of the Chief Compliance Officer, the Global Compliance
+Department:
+63
+BACK TO TOCSOCIAL: SOCIETY
+G4-S02 G4-SO7
+OPERATIONS WITH SIGNIFICANT POTENTIAL OR ACTUAL NEGATIVE IMPACTS ON TOTAL NUMBER OF LEGAL ACTIONS FOR ANTI-COMPETITIVE BEHAVIOR, ANTI-
+LOCAL COMMUNITIES TRUST, AND MONOPOLY PRACTICES AND THEIR OUTCOMES
+Agilent did not experience any new event that had a negative impact on Agilent’s local Agilent policy forbids anti-competitive behavior, antitrust, and monopoly practices and
+communities. in current reporting period, there was no legal action for antitrust and anti-competitive
+behavior.
+G4-SO3
+PERCENTAGE AND TOTAL NUMBER OF BUSINESS UNITS ANALYZED FOR RISKS G4-SO8
+RELATED TO CORRUPTION MONETARY VALUE OF SIGNIFICANT FINES AND TOTAL NUMBER OF NON-
+MONETARY SANCTIONS FOR NON-COMPLIANCE WITH LAWS AND REGULATIONS
+100 percent of Agilent business units were analyzed for risks related to corruption
+during the reporting period. Agilent has not received any significant fines associated to product non-compliance nor
+has Agilent been sanctioned for product non-compliance. In addition, Agilent has no
+G4-SO4 dispute resolutions.
+COMMUNICATION AND TRAINING ON ANTI-CORRUPTION POLICIES AND PROCE-
+DURES
+100 percent of management and non-management employees were required to receive
+anti-corruption training during the reporting period.
+G4-SO5
+ACTIONS TAKEN IN RESPONSE TO INCIDENTS OF CORRUPTION
+Agilent has a formal process for investigating and resolving allegations of corruption,
+should they occur.
+G4-SO6
+TOTAL VALUE OF FINANCIAL AND IN-KIND CONTRIBUTIONS TO POLITICAL PARTIES,
+POLITICIANS, AND RELATED INSTITUTIONS BY COUNTRY
+Agilent contributes to dialogue and decision-making on public policies affecting the
+company, our employees, and our operations. Specific questions about our political
+activities can be submitted via www.agilent.com/go/contactus.
+64
+BACK TO TOCS OCIAL: PRODUCT RESPONSIBILITIES
+DMA PR G4-PR5
+DISCLOSURE ON MANAGEMENT APPROACH PR PRACTICES RELATED TO CUSTOMER
+SATISFACTION
+G4-PR1
+PRODUCT AND SERVICES HEALTH AND SAFETY G4-PR6
+IMPACTS SALE OF BANNED OR DISPUTED PRODUCTS
+G4-PR2 G4-PR7
+NON-COMPLIANCE WITH REGULATIONS AND TOTAL NUMBER OF INCIDENTS OF NON-
+VOLUNTARY CODES CONCERNING HEALTH AND COMPLIANCE CONCERNING MARKETING
+SAFETY IMPACTS COMMUNICATIONS
+G4-PR3 G4-PR8
+TYPE OF PRODUCT AND SERVICE INFORMATION TOTAL NUMBER OF SUBSTANTIAL COMPLAINTS
+REQUIRED BY PROCEDURES REGARDING BREACHES OF CUSTOMER PRIVACY
+G4-PR4 G4-PR9
+TOTAL NUMBER OF INCIDENTS OF NON- MONETARY VALUE OF SIGNIFICANT FINES FOR
+COMPLIANCE CONCERNING PRODUCT NON-COMPLIANCE CONCERNING PRODUCTS AND
+INFORMATION AND LABELING SERVICES
+65
+BACK TO TOCSOCIAL: PRODUCT RESPONSIBILITIES
+DMA PR depends a great deal on trust. This trust begins with our commitment to respecting as
+DISCLOSURE ON MANAGEMENT APPROACH PR well as protecting their personal information. The key to providing an adequate level of
+privacy is the business-wide implementation of an effective internal Privacy Program.
+Agilent’s Business Management System (BMS) is designed to support our business The program must address the legal and ethical issues regarding personal employee
+groups, so that Agilent products, services, and interactions consistently and effectively and customer information. Our privacy program provides the necessary infrastructure to
+meet customer expectations and applicable regulatory requirements, and provide a ensure personally identifiable information is collected and used in a fair, lawful and
+mechanism for continual improvement. honest fashion. This information may be collected during on-line or off-line interac-
+tions/transactions.
+The Agilent BMS provides a framework from which business groups and operations can
+make decisions appropriate to their specific business, customer, and geographic needs G4-PR1
+while ensuring that applicable minimum standards are met, and describes the minimum PERCENTAGE OF SIGNIFICANT PRODUCT AND SERVICE CATEGORIES FOR WHICH
+standards and the required processes for the business groups’ business management HEALTH AND SAFETY IMPACTS ARE ASSESSED FOR IMPROVEMENT
+systems that are designed to conform to ISO 9001:2008. Each business group maintains
+a business management system to illustrate its specific required processes for meeting Agilent’s quality and environmental policies mandate we provide products and services
+customer expectations and, where applicable, other standards such as ISO14001, ISO/ that meet legal and regulatory requirements, including applicable environmental, health,
+IEC 17025, AS 9100, ISO 13485, or TL 9000. Agilent’s infrastructure organizations and safety standards. Agilent is committed to a continuous improvement of the environ-
+provide centrally managed, business critical services, and operate as internal service mental aspects and impacts of our products as demonstrated by Agilent’s ISO 14001
+suppliers to the business groups. certificate, which is regularly audited by an external party.
+Ensuring that our products and services are safe before they go to market is just one G4-PR2
+part of our responsibility to customers. We also make certain that customers have easy TOTAL NUMBER OF INCIDENTS OF NON-COMPLIANCE WITH REGULATIONS AND
+access to the information they want or need about those products and services. Please VOLUNTARY CODES CONCERNING HEALTH AND SAFETY IMPACTS AND SERVICES
+refer to the Agilent Quality Policy DURING THEIR LIFE CYCLE BY TYPE OF OUTCOMES
+Agilent is firmly committed to technology leadership, having long invested heavily in Agilent did not receive any regulatory non-compliance notices for the reporting period.
+research and development. Our breadth of disciplines and technologies enable unique
+and breakthrough advancements that often transcend traditional boundaries. G4-PR3
+TYPE OF PRODUCT AND SERVICE INFORMATION REQUIRED BY PROCEDURES AND
+Agilent recognizes ISO 26000 as a reference document that provides guidance on social PERCENTAGE OF SIGNIFICANT PRODUCTS AND SERVICES SUBJECT TO SUCH
+responsibility. Agilent aligns with ISO 26000 standards as part of our social INFORMATION REQUIREMENTS
+responsibility practices. As such, Agilent’s Product Responsibility processes align with
+ISO core subjects: Organizational Governance 6.2, Fair Operating Practices 6.6, and Agilent complies with required labeling for substance identification in our products in
+Consumer Issues 6.7. accordance with required regulations, and safe use guidance for products produced by
+Agilent. Ninety percent of Agilent products and services are covered and assessed for
+Customer Privacy compliance with these guidelines. Annually Agilent communicates materials specifica-
+At Agilent, protecting the privacy of our employees and customers is critical to our tions through the “General Specifications for Environment” to its suppliers to inform
+success. The major part of this process is to treat their personally identifying them of banned chemicals/materials that should not be included in material/parts/
+information (name, e-mail address, phone number, employee number, Social Security products bought by Agilent to ensure compliance with global regulations and minimize
+Number/National ID Number, etc.) appropriately. In the employee area, protecting the the environmental impact of its products and operations. Agilent also provides Material
+employee’s privacy is paramount to the Agilent philosophy of respecting the individual. Safety Data Sheets with Agilent and third-party-provided chemicals supplied
+For customers, we recognize that building a long-term business relationship with them
+66
+BACK TO TOCSOCIAL: PRODUCT RESPONSIBILITIES
+standalone or with products for safe use. Agilent and OEM products and battery labels APS is a global survey evaluating product performance in the U.S., Australia, China,
+include a waste container symbol for help in proper disposal. The company also France, Germany, India, Ireland, Italy, Japan, New Zealand, Russia, Singapore, Thailand,
+operates an end-of-life customer returns system. In addition, Agilent provides end-of-life and the U.K. The results are provided to quality managers across divisions, and are
+management options where legally required. Reuse programs are offered for selected thoroughly evaluated to identify specific problem areas to address, and to tailor future
+Agilent products. The programs address the requirements posed by the European WEEE product improvements.
+(Waste from Electrical & Electronic Equipment) Directive. Please see Agilent’s Take
+Back Program. G4-PR6
+SALE OF BANNED OR DISPUTED PRODUCTS
+G4-PR4
+TOTAL NUMBER OF INCIDENTS OF NON-COMPLIANCE WITH REGULATIONS AND Our brand is shaped by every experience customers, partners, shareholders, and
+VOLUNTARY CODES CONCERNING PRODUCT AND SERVICE INFORMATION AND LA- constituents have with Agilent. Every action we take ensures that these experiences
+BELING, BY TYPE OF OUTCOMES consistently build and reinforce Agilent as the world’s premier measurement company.
+Our internal Brand Identity System has a rigorous process for claim substantiation and
+Agilent had no incidents of non-compliance regarding products or non-compliance is aligned with Federal Trade Commission and legal guidelines.
+issues regarding labeling. In addition, Agilent did not have any non-compliance
+incidents for product-related claims during the reporting period. G4-PR7
+TOTAL NUMBER OF INCIDENTS OF NON-COMPLIANCE WITH REGULATIONS AND
+G4-PR5 VOLUNTARY CODES CONCERNING MARKETING COMMUNICATIONS, INCLUDING
+PRACTICES RELATED TO CUSTOMER SATISFACTION, INCLUDING RESULTS OF ADVERTISING, PROMOTION AND SPONSORSHIP BY TYPE OF OUTCOMES
+SURVEYS MEASURING CUSTOMER SATISFACTION
+Agilent had no incidents of non-compliance during the reporting period.
+Through the Agilent Customer Satisfaction Program, we survey customers who
+interact with various touch points across our businesses and regions, and we provide G4-PR8
+continual updates to our management. In addition, the Agilent Market Survey provides a TOTAL NUMBER OF SUBSTANTIAL COMPLAINTS REGARDING BREACHES OF CUS-
+measure of our customers’ loyalty compared with the loyalty of our competitors’ TOMER PRIVACY AND LOSSES OF DATA
+customers. The results are used to identify opportunities for growth and areas where
+additional business investments are warranted. Agilent is unaware of any complaints regarding breaches of customer privacy and loss
+of data. To demonstrate the importance of customer privacy, Agilent has entered into
+Agilent is associated with trust, safety, and success due to its heritage, breadth of high- three voluntary data privacy programs: the U.S.-EU Safe Harbor, U.S.-Swiss Safe Harbor
+quality products, and long-standing reputation. Our products are the top driver of and TRUSTe.
+customer loyalty, therefore making the Agilent Product Survey (APS) an integral part of
+the customer satisfaction program. APS measures customer satisfaction with all major For more information, please see: Agilent Customer Privacy Statement.
+Agilent products and software under multiple satisfaction parameters or drivers (See a
+few examples below.) G4-PR9
+MONETARY VALUE OF SIGNIFICANT FINES FOR NON-COMPLIANCE WITH LAWS
+PRODUCT SATISFACTION DRIVERS SOFTWARE SATISFACTION DRIVERS
+AND REGULATIONS CONCERNING THE PROVISION AND USE OF PRODUCTS AND
+- Reliable performance and results - Easy data analysis, reporting and workflow designing SERVICES
+- Good value for the price - Software issues are resolved quickly
+- Easy to use - Upgrades or patches are available when needed
+- Helps save customer’s time - Able to function without crashes or service interruptions
+Agilent had no incidents of non-compliance regarding product, labeling, or non-
+- Contains leading edge technology compliance incidents for product-related claims during the reporting period.
+- Has user manuals and documentation
+67
+BACK TO TOCG LOSSARY AND ACRONYMS
+68
+BACK TO TOCGLOSSARY AND ACRONYMS
+Agilent After School A hands-on science program targeted at children from the ages of 9 to 13 Injury/illness rate The calculation for the injury/illness rate is based on the number of recordable occu-
+years and supported by Agilent employee volunteers. pational injury/illness cases multiplied by 200,000 then divided by the hours worked for the same time
+period in which the injuries occurred. For example, if you had two injuries in a quarter and 50,000 hours
+BMP Best Management Practices worked, then the calculation would be: 2 x 200,000/50,000 = 8.0 injury/illness rate.
+BMS Business Management System ISO 14001 An international standard issued by the International Organization for Standardization (ISO)
+relating to environmental management systems.
+CO 2 Carbon dioxide. A gaseous by-product of energy generation and energy use that is known
+to contribute to global warming. ISO 26000 A voluntary international standard providing guidance on social responsibility.
+EHS Environmental, health, and safety. Kiloton 1 kiloton = 1,000 metric tons.
+1 kiloton = 1,000,000 kilograms.
+EHSMS Environmental, health, and safety management system.
+Lost-workday case Recordable cases involving lost workdays beyond date of injury (more serious
+EHSSR Environment Health, Safety and Social Responsibility injury/illness).
+ESR Environmental and Social Responsibility. Lost-workday case rate The lost-workday case rate provides information on the number of occupational
+lost-workday injury/illness cases multiplied by 200,000, then divided by the hours worked for the same
+Fiscal year - November 1 to October 31. time period in which the injuries occurred. For example, if you had one lost-workday injury/illness case in
+a quarter and 50,000 hours worked, then the calculation would be:
+FTC Federal Trade Commission 1 x 200,000/50,000 = 4.0 lost-workday case rate.
+Greenhouse gases For the purpose of this report, greenhouse gases are the six gases listed in LTL Less-Than-Truckload
+the Kyoto Protocol: carbon dioxide (CO); methane (CH4); nitrous oxide (N2O); hydro fluorocar-
+2
+bons (HFCs); perfluorocarbons (PFCs); and sulphur hexafluoride (SF6). Megawatt hour 1 megawatt hour = 1,000 kilowatt hours.
+Gigajoule 1 gigajoule = 277.78 kilowatt-hour. ODS Ozone Depleting Substances
+GRI Global Reporting Initiative. An independent global institution that is developing a generally Recordable injury/illness case Occupational injury/ illness involving medical treatment beyond first aid.
+accepted framework for sustainability reporting. For more information go to Diagnosed occupational illness, or workdays lost beyond date of injury.
+www.globalreporting.org
+RoHS Restriction of Hazardous Substances
+GSE Agilent General Specification for the Environment at www.agilent.com/environment/
+GSE.pdf. Agilent’s general requirements for restricting or prohibiting certain substances in VOC Volatile Organic Compound
+products manufactured for or delivered to Agilent.
+WEEE Waste from Electrical and Electronic Equipment
+HAP Hazardous Air Pollutants
+ILO International Labour Organization. For more information, go to www.ilo.org/global/
+index.htm.
+
+69
+BACK TO TOCDOWNLOAD
+To download this report and previous reports, please visit www.agilent.com/go/sustainability
+SHARE YOUR THOUGHTS
+We welcome input about Agilent’s Corporate Citizenship efforts or the Corporate Citizenship Report 2016 at corporate.citizenship@agilent.com
+CONTACT US
+Agilent Technologies Inc.
+5301 Stevens Creek Blvd
+Santa Clara, CA 95051
+United States
+70

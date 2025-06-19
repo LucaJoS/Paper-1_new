@@ -1,0 +1,77 @@
+gilent RoHS and WEEE Program
+Working with Agilent Agilent RoHS
+Other Supplier Resources: The European Union (EU) Restriction of Hazardous Substances (RoHS) impacts Agilent in many
+ways. The majority of Agilent products are classified within the EU RoHS Directive category list as
+Environmental and Social Industrial Monitoring and Control Equipment (category 9), and a limited number of Agilent products
+Responsibility Expectations are classified as In vitro Diagnostic Medical Devices (category 8).
+Supplier Performance Expectations
+Agilent products are designed for compliance. Agilent design rules have incorporated the results from
+Quality Requirements
+internal and external studies to ensure reliability with the new RoHS-compliant and compatible
+Supplier Diversity
+materials. Agilent is committed to meeting customer demands for high reliability and we expect that
+ERP Information
+our contract manufacturers (CMs) and direct material suppliers will support us as we manage through
+Purchase Order Terms & Conditions the forthcoming changes.
+for Suppliers
+Key Points
+1. Agilent has transitioned to RoHS compliant materials for products. New products are designed
+for compliance and existing products are being re-engineered to bring them into compliance.
+This includes pro-active measures such as using components that don’t rely on lead or
+mercury, choosing surfaces finishes that don’t use banned chemical substances and employing
+lead-free solder and materials that are compatible with the higher soldering temperature.
+2. When RoHS compliance is required, the Agilent Supplemental Specification for RoHS will be
+specified on a drawing, specification document or included in the data package for the item.
+3. Requirements for lead-free soldering processes and materials are found in the Agilent design
+standards. Contact your Agilent representative for a copy.
+4. Agilent's general material restrictions are available at
+URL:http://www.agilent.com/environment/GSE.pdf and apply to all direct material purchases.
+Agilent cannot guarantee that GSE changes will be communicated directly to all suppliers, so
+suppliers should use the on-line document and check periodically to ensure they have the
+latest version.
+5. Agilent requires all our manufacturing partners to provide material chemical composition
+declarations for every item we purchase that will be used in Agilent products. Agilent requires
+the declaration whether or not a manufacturer’s items conform to the RoHS restrictions.
+Requirements for Agilent's Suppliers
+To avoid growth of tin whiskers, board mountable parts for solder assembly must conform to
+Agilent’s preferred terminal finish materials listed in Agilent’s Component Finish Guidelines. To
+obtain a copy of the guidelines, please ask your Agilent contact for a copy of the Agilent
+Termination Finish Guidelines published by Agilent's Distributed Materials Engineering Team
+All component changes, including those related to RoHS compliance must be submitted as
+early as possible to PCN@agilent.com for Agilent approval.
+All product/component changes must be documented and reported per the
+requirements of EIA/JEDEC JESD46-C (Product Change Notification). All
+product/component discontinuances must be documented and reported per EIA/JEDEC
+JESD48-B (Product Discontinuance).
+Any changes related to RoHS should be considered major changes.
+Please include technical details regarding the change, including reliability testing data
+and failure mitigation information that will assist Agilent with approving the change.
+Please include a timeframe for the change and the availability of legacy items.
+Please provide a copy of your PCN@agilent.com submittal to the contact that manages
+the procurement of material from you on behalf of Agilent.Agilent has participated as a sponsor of the iNEMI High Reliability Task Force, which
+recommends:
+adoption of iNEMI-recognized whisker mitigation practices; and,
+testing and adherence to the qualification criteria of the JEDEC JESD201A and
+JESD22A121 qualification criteria.
+If you are a Contract Manufacturer and find a discrepancy between Agilent's AML and the
+suppliers MPN, please notify Agilent with a message sent to PCN@agilent.com . If you have a
+discrepancy that is a potential part shortage which may put your next shipment(s) at risk, notify
+your Agilent contact immediately.
+Agilent is in support of unique part numbers for RoHS compliant components.
+Agilent is requiring its supply base to fully disclose material, hazardous substance content and
+recycled material content of each part we are supplied. Reporting shall be in accordance
+withAgilent's Material Declaration Requirements. Compliance is required and, where a non-
+compliance issue is identified, a resolution plan is essential. Where compliance is not possible,
+alternative solutions are necessary to ensure continued shipment of current and future
+products. A complete W18 disclosure is required to qualify parts supplied to Agilent. Learn
+more about the process of submitting parts and materials data in Agilent's Material Declaration
+Requirements.
+Agilent requires Waste Electronic and Electrical Equipment (WEEE) labeling for all OEM end
+user products. See Agilent's OEM WEEE Requirements.
+Contact Information
+For questions about Agilent's RoHS & WEEE compliance expectations for suppliers, please
+ask your Agilent contact to refer you to someone in Agilent's Regulatory Affairs.
+Requirements for Agilent's Direct Material Suppliers
+Agilent General Specification for the Environment
+Agilent's Materials Declaration Requirements
+OEM WEEE Requirements

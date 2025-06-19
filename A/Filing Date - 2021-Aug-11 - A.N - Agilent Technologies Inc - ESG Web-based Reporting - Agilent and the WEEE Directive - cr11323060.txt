@@ -1,0 +1,25 @@
+Agilent and the WEEE Directive
+Background
+The European Union's (EU) Waste Electrical and Electronic Equipment (WEEE) Directive was
+implemented in Member States during 2005-2006. The aim of the Directive is to halt the growing
+volume of electrical and electronic waste disposed of in landfill sites, by making manufacturers
+responsible for financing environmentally safe disposal of end-of-life equipment through recycling.
+The Directive treats domestic and business-to-business (B2B) waste differently. According to the
+Directive, households are able to hand-over waste equipment free of charge at retailers or municipal
+collection points. However with regards to B2B customers, the Directive requires manufacturers only
+to take back equipment sold after 13 August 2005, or older equipment if customer buys a
+replacement.
+The Directive covers most electronic and electrical products from office equipment to household appliances like TVs,
+tumble dryers and power tools. The types of electronic equipment involved are divided into ten different categories and
+Agilent's end-user products fall within category nine called "Monitoring and Control" equipment.
+How does this affect Agilent and its customers?
+Agilent is working with compliance schemes and/or service providers which implement effective take-back of products in
+different Member State countries. Detailed information is available on the country pages (available under "Take-back
+instructions")
+Agilent and WEEE Compliance
+Agilent has registered in Member States according to WEEE legislation requirements. Agilent will supply product
+information to treatment facility operators as needed to separate any hazardous parts before recycling.
+As required by the legislation, products sold in the EU are marked with the "crossed out wheelie bin" symbol. Agilent uses
+the symbol based on the EN 50419:2005 CENELEC standard. The bottom bar certifies the product concerned was placed
+on the market after 13th August 2005. Cables or components and sub-assemblies contained within a product typically will
+not be marked.

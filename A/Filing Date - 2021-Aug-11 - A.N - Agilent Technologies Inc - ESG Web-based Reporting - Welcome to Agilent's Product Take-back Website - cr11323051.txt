@@ -1,0 +1,18 @@
+Welcome to Agilent's Product Take-back Website
+Agilent aims to minimize the environmental impact of its products and operations. Reuse
+programs are offered for selected Agilent products, which address the requirements posed by
+the European WEEE (Waste from Electrical & Electronic Equipment) Directive. If you are an
+Agilent customer located in an EU or EEA member state, this site gives specific information on
+local take-back recycling programs available to you which meet the WEEE Directive
+requirements in your country. Additional information is also offered on this website on regions
+outside the EU.
+Selected Test and Measurement products are candidates for each of the following alternatives:
+Trade up for next-generation technology
+Trade in for a different product or Agilent service
+Sell off your equipment for cash
+Per nuclear regulatory requirements, Agilent also accepts the return of all Agilent or HP Electron Capture Detectors. For
+more information on ECD take back specific to your country, please contact your local distributor or Agilent representative.
+For additional product takeback information specific to your country, select "Take-back instructions" and locate your region
+of interest. If your country is not listed, please contact your local distributor or Agilent representative.
+Note: For Agilent products which are considered contaminated, follow all instructions provided by your local recycler.
+Thank you for your interest in ensuring your Agilent product is handled effectively at the end of its useful life.

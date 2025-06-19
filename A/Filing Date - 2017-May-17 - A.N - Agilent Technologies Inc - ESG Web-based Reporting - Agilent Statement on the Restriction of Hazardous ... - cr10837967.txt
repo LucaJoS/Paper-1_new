@@ -1,0 +1,41 @@
+Agilent Technologies, Inc. +01 (877) 424 4536 telephone
+5301 Stevens Creek Boulevard www.agilent.com
+Santa Clara, CA 95051
+USA
+Agilent Statement on the Restriction of Hazardous Substances (RoHS) Directive
+Agilent’s Quality and EHS Policies include a commitment to ensure our operations, products and services comply with
+applicable environmental, health and safety regulations, implement controls to meet additional company requirements, and
+operate in a manner that is committed to continual improvement in environmental sustainability through recycling, waste
+minimization, conservation of resources, prevention of pollution, product development, management of hazardous materials, and
+promotion of environmental responsibility amongst our employees.
+Agilent manages an extensive program to eliminate potentially harmful materials in its products while ensuring high product
+quality and reliability. Agilent is re-engineering existing products to meet the European Union Restriction of Hazardous
+Substances (EU RoHS) Directive 2011/65/EU; while new product introductions expand the RoHS-compliant portfolio of
+products.
+The EU RoHS Directive 2011/65/EU restricts the use of six substances in electrical and electronic products that include: Lead
+(Pb), Mercury (Hg), Cadmium (Cd), Hexavalent chromium (Cr VI), Polybrominated biphenyls (PBBs) and Polybrominated diphenyl
+ethers (PBDEs). Product compliance is assured when considering the application of appropriate EU RoHS Exemptions. Agilent
+products are classified within the EU RoHS Directive category list as Industrial Monitoring and Control Equipment (category 9),or
+In-Vitro Diagnostic Medical Device (category 8). The additional restrictions of the EU Commission Delegated Directive
+2015/863/EU add 4 phthalates (DEHP, BBP, DBP and DIBP) to RoHS; Agilent products will comply with these restrictions no
+later than July 2021.
+The present status and transition plan for each of the RoHS substances is given below:
+ PBB and PBDE: The two groups of brominated flame retardants have been prohibited from use in Agilent products since
+2000.
+ Mercury and cadmium: Since 2001, Agilent has been actively removing mercury and cadmium from our products and will
+continue to comply with EU RoHS requirements for these materials.
+ Hexavalent chromium: Agilent is transitioning products that use hexavalent chromium in surface finishes to alternatives
+which have been fully evaluated to meet performance requirements for metallic anti-corrosion and conductive shielding.
+ Lead: Agilent is transitioning to the use of industry accepted and tested lead-free solders and is actively managing these
+changes to ensure a high level of quality and long-term reliability is maintained.
+ Phthalates (DEHP, BBP, DBP and DIBP): Agilent has restricted the use of the phthalates since 2009 and will continue to
+restrict them further in order to comply with EU RoHS requirements for these materials.
+Agilent is working closely with supply chain partners to assure compliance to restricted material requirements of all products
+and materials supplied by partners.
+For more information about Agilent’s environmental programs, please visit our web site at
+http://www.agilent.com/environment/environment.shtml.
+Nancy Lelicoff
+Vice President, Regulatory Affairs, Quality Assurance and Clinical Affairs
+Agilent Technologies
+http://www.agilent.com/quality/agilent_rohs.pdf
+Released May 2017 Page 1 of 1
