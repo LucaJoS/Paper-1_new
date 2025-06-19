@@ -1,0 +1,17 @@
+Refinitiv ESG Score Interpretation Framework (Condensed for Modeling Use)
+To approximate the qualitative meaning of numerical ESG scores from Refinitiv (LSEG), the
+following banding structure is employed based on alignment with the materiality-weighted,
+indicator-driven scoring methodology:
+• 80–100: Highly comprehensive ESG disclosure across environmental, social, and
+governance pillars; evidence of quantified targets, third-party assurance, and
+alignment with sector-specific materiality metrics.
+• 60–79: Robust ESG reporting with structured policies and performance indicators;
+partial assurance and some gaps in scope or depth relative to sector norms.
+• 40–59: General ESG references are present, but disclosures lack quantification,
+specificity, or external validation.
+• 20–39: ESG content is limited in relevance or substance, with generic language and
+low coverage of material indicators.
+• 0–19: No substantive ESG reporting identifiable.
+These bands are not officially published by Refinitiv but represent a derived interpretive
+structure informed by their percentile-based scoring methodology, which integrates sector-
+adjusted materiality weightings and controversy overlays
